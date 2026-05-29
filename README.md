@@ -286,7 +286,7 @@ ChatOllama(
 Clone repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/graphRAG.git
+git clone https://github.com/shloksharma273/graphRAG.git
 
 cd graphRAG
 ```

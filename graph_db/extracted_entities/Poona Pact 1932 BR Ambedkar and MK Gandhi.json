@@ -1,0 +1,322 @@
+[
+  {
+    "chunk_id": "26fedc2b-0a2e-40b8-bd3b-6a2a70b8eca6",
+    "source_file": "Poona Pact 1932 BR Ambedkar and MK Gandhi.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Depressed Classes",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Madras",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Bombay with Sind",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Punjab",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Bihar and Orissa",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Central Provinces",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Assam",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Bengal",
+        "type": "LOCATION"
+      },
+      {
+        "name": "United Provinces",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Prime Minister",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Depressed Classes",
+        "target": "provincial legislatures",
+        "relation": "RESERVED SEATS"
+      },
+      {
+        "source": "Madras",
+        "target": "148 seats",
+        "relation": "HAS_SEATS"
+      },
+      {
+        "source": "Bombay with Sind",
+        "target": "25 seats",
+        "relation": "HAS_SEATS"
+      },
+      {
+        "source": "Punjab",
+        "target": "8 seats",
+        "relation": "HAS_SEATS"
+      },
+      {
+        "source": "Bihar and Orissa",
+        "target": "18 seats",
+        "relation": "HAS_SEATS"
+      },
+      {
+        "source": "Central Provinces",
+        "target": "20 seats",
+        "relation": "HAS_SEATS"
+      },
+      {
+        "source": "Assam",
+        "target": "7 seats",
+        "relation": "HAS_SEATS"
+      },
+      {
+        "source": "Bengal",
+        "target": "30 seats",
+        "relation": "HAS_SEATS"
+      },
+      {
+        "source": "United Provinces",
+        "target": "20 seats",
+        "relation": "HAS_SEATS"
+      },
+      {
+        "source": "Prime Minister (British)",
+        "target": "decision",
+        "relation": "MADE_DECISION"
+      }
+    ]
+  },
+  {
+    "chunk_id": "9c6c70a9-a683-45b1-9e36-f5758824647d",
+    "source_file": "Poona Pact 1932 BR Ambedkar and MK Gandhi.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Depressed Classes",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "general electoral roll",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "electoral college",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "reserved seats",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Depressed Classes",
+        "target": "general electoral roll",
+        "relation": "REGISTERED_IN"
+      },
+      {
+        "source": "electoral college",
+        "target": "reserved seats",
+        "relation": "ELECTS_FOR"
+      }
+    ]
+  },
+  {
+    "chunk_id": "457fda35-6478-4035-8245-00b895e48cf2",
+    "source_file": "Poona Pact 1932 BR Ambedkar and MK Gandhi.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "DEPRESSED CLASSES",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CENTRAL LEGISLATURE",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "THE REPRESENTATION OF THE DEPRESSED CLASSES IN THE CENTRAL LEGISLATURE",
+        "target": "DEPRESSED CLASSES",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "THE REPRESENTATION OF THE DEPRESSED CLASSES IN THE CENTRAL LEGISLATURE",
+        "target": "CENTRAL LEGISLATURE",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "6d6b967a-4703-453a-9a2c-eb56d0c62011",
+    "source_file": "Poona Pact 1932 BR Ambedkar and MK Gandhi.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Central Legislature",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Depressed Classes",
+        "type": "PEOPLE"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "4. In the Central Legislature",
+        "target": "Central Legislature",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "4. In the Central Legislature",
+        "target": "Depressed Classes",
+        "relation": "RESERVED FOR"
+      }
+    ]
+  },
+  {
+    "chunk_id": "77b90449-1ab0-4d4e-9d26-e66c335f8a37",
+    "source_file": "Poona Pact 1932 BR Ambedkar and MK Gandhi.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "PRIMARY ELECTION",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "CENTRAL AND PROVINCIAL LEGISLATURES",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "SYSTEM OF PRIMARY ELECTION",
+        "target": "CENTRAL AND PROVINCIAL LEGISLATURES",
+        "relation": "APPLIES TO"
+      },
+      {
+        "source": "PRIMARY ELECTION",
+        "target": "CLAUSE 6",
+        "relation": "TERMINATED BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "1d86af0a-e007-4e99-8ba1-604ea892280a",
+    "source_file": "Poona Pact 1932 BR Ambedkar and MK Gandhi.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Depressed Classes",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Provincial and Central Legislatures",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "The system of representation",
+        "target": "Depressed Classes",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "reserved seats",
+        "target": "Provincial and Central Legislatures",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "93cd3294-03bc-47f9-8b1c-0aa1d06cad37",
+    "source_file": "Poona Pact 1932 BR Ambedkar and MK Gandhi.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Franchise",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "Central and Provincial Legislatures of the Depressed Classes",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Lothian Committee Report",
+        "type": "DOCUMENT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Franchise for the Central and Provincial Legislatures of the Depressed Classes",
+        "target": "Lothian Committee Report",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "69a30cae-096a-4638-87d2-a1b7c2e5611c",
+    "source_file": "Poona Pact 1932 BR Ambedkar and MK Gandhi.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Depressed Classes",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "local bodies",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "public services",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Dalits",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Depressed Classes",
+        "target": "local bodies",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Depressed Classes",
+        "target": "public services",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Dalits",
+        "target": "Depressed Classes",
+        "relation": "PART_OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "b0aaea2f-06a4-4197-a474-aa9717fa83fb",
+    "source_file": "Poona Pact 1932 BR Ambedkar and MK Gandhi.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Depressed Classes",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": []
+  }
+]

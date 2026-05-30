@@ -1,0 +1,574 @@
+[
+  {
+    "chunk_id": "87f6c653-cdb8-46ef-a296-3462220b9025",
+    "source_file": "Political Demands of Scheduled Castes 1944 SCF.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "All-India Scheduled Castes Federation",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "H. E. the Viceroy",
+        "type": "PERSON"
+      },
+      {
+        "name": "Mr. Gandhi",
+        "type": "PERSON"
+      },
+      {
+        "name": "Lord Wavell",
+        "type": "PERSON"
+      },
+      {
+        "name": "Cripps Proposals",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "Montagu-Chelmsford Report",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "Government of India Act, 1935",
+        "type": "LAWS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "All-India Scheduled Castes Federation",
+        "target": "H. E. the Viceroy",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "All-India Scheduled Castes Federation",
+        "target": "Mr. Gandhi",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "All-India Scheduled Castes Federation",
+        "target": "Lord Wavell",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "All-India Scheduled Castes Federation",
+        "target": "Cripps Proposals",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "All-India Scheduled Castes Federation",
+        "target": "Montagu-Chelmsford Report",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "All-India Scheduled Castes Federation",
+        "target": "Government of India Act, 1935",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "dd354d3b-b82b-4be5-b0c1-509ba327b672",
+    "source_file": "Political Demands of Scheduled Castes 1944 SCF.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Working Committee",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "All-India Scheduled Castes Federation",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "His Majesty’s Government",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Viceroy",
+        "type": "PERSON"
+      },
+      {
+        "name": "Congress",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Working Committee",
+        "target": "All-India Scheduled Castes Federation",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Working Committee",
+        "target": "His Majesty’s Government",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Working Committee",
+        "target": "Viceroy",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Working Committee",
+        "target": "Congress",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "198fca99-e32f-46b9-b65a-502658fa0b98",
+    "source_file": "Political Demands of Scheduled Castes 1944 SCF.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Working Committee",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Scheduled Castes",
+        "type": "PEOPLE"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Working Committee",
+        "target": "Scheduled Castes",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "705cb58a-461c-40ae-b250-52fd126343bb",
+    "source_file": "Political Demands of Scheduled Castes 1944 SCF.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "GOVERNMENT OF INDIA ACT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "FEDERAL COURT",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "GOVERNMENT OF INDIA ACT",
+        "target": "FEDERAL COURT",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "c40fcdc6-c1de-4fed-8015-fc104c5f357b",
+    "source_file": "Political Demands of Scheduled Castes 1944 SCF.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "WORKING COMMITTEE OF THE ALL-INDIA SCHEDULED CASTE FEDERATION",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "MR. GANDHI",
+        "type": "PERSON"
+      },
+      {
+        "name": "MR. JINNAH",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "WORKING COMMITTEE OF THE ALL-INDIA SCHEDULED CASTE FEDERATION",
+        "target": "MR. GANDHI",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "WORKING COMMITTEE OF THE ALL-INDIA SCHEDULED CASTE FEDERATION",
+        "target": "MR. JINNAH",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "0c9e995c-7e29-4b8f-8a4f-9d565eb39cb9",
+    "source_file": "Political Demands of Scheduled Castes 1944 SCF.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Working Committee",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "All-India Scheduled Castes Federation",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Montagu-Chelmsford Report",
+        "type": "DOCUMENT"
+      },
+      {
+        "name": "Simon Commission",
+        "type": "COMMISSION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Working Committee of the All-India Scheduled Castes Federation",
+        "target": "Montagu-Chelmsford Report",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Working Committee of the All-India Scheduled Castes Federation",
+        "target": "Simon Commission",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "ce0d9abe-e621-4d86-8e21-41afaf570efd",
+    "source_file": "Political Demands of Scheduled Castes 1944 SCF.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "WORKING COMMITTEE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "ALL-INDIA SCHEDULED CASTES FEDERATION",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "SCHEDULED CASTES",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "MUSLIM COMMUNITY",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "PROvincial and Central Legislatures",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Provincial and Central Executive",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "WORKING COMMITTEE",
+        "target": "ALL-INDIA SCHEDULED CASTES FEDERATION",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "SCHEDULED CASTES",
+        "target": "MUSLIM COMMUNITY",
+        "relation": "COMPARES"
+      }
+    ]
+  },
+  {
+    "chunk_id": "cf89b90f-b44a-48e6-889a-dbb003f6a983",
+    "source_file": "Political Demands of Scheduled Castes 1944 SCF.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "WORKING COMMITTEE OF THE ALL-INDIA SCHEDULED CASTES FEDERATION",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GOVERNMENT OF INDIA ACT",
+        "type": "LAW"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "WORKING COMMITTEE OF THE ALL-INDIA SCHEDULED CASTES FEDERATION",
+        "target": "GOVERNMENT OF INDIA ACT",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "6af2eb56-81ea-454c-bc66-09447e9cdf0e",
+    "source_file": "Political Demands of Scheduled Castes 1944 SCF.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "All-India Scheduled Castes Federation",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Majority Community",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "Minorities",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "Government of India Act of 1935",
+        "type": "LAWS"
+      },
+      {
+        "name": "Parliamentary system of Government",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "Parliamentary cabinet",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "All-India Scheduled Castes Federation",
+        "target": "Majority Community",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "All-India Scheduled Castes Federation",
+        "target": "Minorities",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Government of India Act of 1935",
+        "target": "Majority Community",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Parliamentary system of Government",
+        "target": "Majority Community",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Parliamentary cabinet",
+        "target": "Majority Community",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "abf670d5-2916-42eb-949b-16162ac47359",
+    "source_file": "Political Demands of Scheduled Castes 1944 SCF.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Working Committee",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "All-India Scheduled Castes Federation",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Scheduled Castes",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "Muslim Community",
+        "type": "PEOPLE"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Working Committee",
+        "target": "All-India Scheduled Castes Federation",
+        "relation": "MEMBER_OF"
+      },
+      {
+        "source": "Working Committee",
+        "target": "Scheduled Castes",
+        "relation": "REPRESENTS"
+      },
+      {
+        "source": "Working Committee",
+        "target": "Muslim Community",
+        "relation": "REPRESENTS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "9248a53b-8fde-49f4-9f72-7d05378f1c60",
+    "source_file": "Political Demands of Scheduled Castes 1944 SCF.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "WORKING COMMITTEE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "ALL-INDIA SCHEDULED CASTES FEDERATION",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GOVERNMENT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PUBLIC",
+        "type": "PERSON"
+      },
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PROVINCIAL GOVERNMENTS",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CENTRAL GOVERNMENT",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "WORKING COMMITTEE",
+        "target": "ALL-INDIA SCHEDULED CASTES FEDERATION",
+        "relation": "MEMBER_OF"
+      },
+      {
+        "source": "WORKING COMMITTEE",
+        "target": "GOVERNMENT",
+        "relation": "CONCERNED_WITH"
+      },
+      {
+        "source": "WORKING COMMITTEE",
+        "target": "PUBLIC",
+        "relation": "CONCERNED_WITH"
+      },
+      {
+        "source": "STATE",
+        "target": "PROVINCIAL GOVERNMENTS",
+        "relation": "PART_OF"
+      },
+      {
+        "source": "STATE",
+        "target": "CENTRAL GOVERNMENT",
+        "relation": "PART_OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "fd19f27e-edb8-475b-9c01-efb6147f36c9",
+    "source_file": "Political Demands of Scheduled Castes 1944 SCF.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "WORKING COMMITTEE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "ALL-INDIA SCHEDULED CASTES FEDERATION",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "HINDU VILLAGE",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "UNTOUCHABLES",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "CASTE HINDUS",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "SWARAJ",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "CONSTITUTION",
+        "type": "LAWS"
+      },
+      {
+        "name": "SETTLEMENT COMMISSION",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GOVERNMENT LAND",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "LAND ACQUISITION ACT",
+        "type": "LAWS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "WORKING COMMITTEE",
+        "target": "ALL-INDIA SCHEDULED CASTES FEDERATION",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "WORKING COMMITTEE",
+        "target": "HINDU VILLAGE",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "WORKING COMMITTEE",
+        "target": "UNTOUCHABLES",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "WORKING COMMITTEE",
+        "target": "CASTE HINDUS",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "WORKING COMMITTEE",
+        "target": "SWARAJ",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "WORKING COMMITTEE",
+        "target": "CONSTITUTION",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "WORKING COMMITTEE",
+        "target": "SETTLEMENT COMMISSION",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "WORKING COMMITTEE",
+        "target": "GOVERNMENT LAND",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "WORKING COMMITTEE",
+        "target": "LAND ACQUISITION ACT",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "5427185b-4896-4530-b907-7a79fd763e21",
+    "source_file": "Political Demands of Scheduled Castes 1944 SCF.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "A.I.S.C. Federation",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Dr. B. R. Ambedkar",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Working Committee of the A.I.S.C. Federation",
+        "target": "Dr. B. R. Ambedkar",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "A.I.S.C. Federation",
+        "target": "Scheduled Castes",
+        "relation": "MENTIONED"
+      }
+    ]
+  }
+]

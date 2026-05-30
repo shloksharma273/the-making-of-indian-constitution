@@ -1,0 +1,2048 @@
+[
+  {
+    "chunk_id": "84e434dd-b451-429d-bc9c-31eb160df03c",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "WE THE PEOPLE",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "Bританской Индии",
+        "type": "ORGANIZATIONS"
+      },
+      {
+        "name": "Индийских государств",
+        "type": "ORGANIZATIONS"
+      },
+      {
+        "name": "United States of India",
+        "type": "ORGANIZATIONS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "WE THE PEOPLE",
+        "target": "Bританской Индии",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "WE THE PEOPLE",
+        "target": "Индийских государств",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "United States of India",
+        "target": "Bританской Индии",
+        "relation": "FORMED_FROM"
+      },
+      {
+        "source": "United States of India",
+        "target": "Индийских государств",
+        "relation": "FORMED_FROM"
+      }
+    ]
+  },
+  {
+    "chunk_id": "d873d1bd-1c09-47fe-aad8-4557051352be",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Article I, Section I",
+        "type": "ARTICLE"
+      },
+      {
+        "name": "Indian States",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "United States of India",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Article I, Section I",
+        "target": "Indian States",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Article I, Section I",
+        "target": "United States of India",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "9aae21ad-0a20-4f59-85cd-2306b0dcfbcd",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "UNITED STATES OF INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "NEW TERRITORY",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "ARTICLE I, SECTION II — UNITED STATES OF INDIA AND NEW TERRITORY: CLAUSE 1",
+        "target": "UNITED STATES OF INDIA",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "ARTICLE I—SECTION I ADMISSION OF INDIAN STATES INTO THE UNION",
+        "target": "INDIAN STATES",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "7f1bb47c-0230-4bda-a476-f874b2d37335",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "United States of India",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Enabling Act",
+        "type": "LAWS"
+      },
+      {
+        "name": "Union Legislature",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Qualified Indian States",
+        "type": "CONCEPTS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "United States of India",
+        "target": "Enabling Act",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Union Legislature",
+        "target": "Enabling Act",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "f3736d0b-107c-4d02-be39-cfe14a78b28b",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "INDIAN STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "QUALIFIED STATE",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "UNITED STATES OF INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CONSTITUTION OF THE UNITED STATES OF INDIA",
+        "type": "LAWS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "INDIAN STATE",
+        "target": "UNITED STATES OF INDIA",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "QUALIFIED STATE",
+        "target": "INDIAN STATE",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "UNITED STATES OF INDIA",
+        "target": "CONSTITUTION OF THE UNITED STATES OF INDIA",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "81bb9e10-4a05-4e9f-929e-0e0e3fa56d1b",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "UNITED STATES OF INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "DISQUALIFIED INDIAN STATES",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "UNITED STATES OF INDIA",
+        "target": "DISQUALIFIED INDIAN STATES",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "9b7d83e4-3546-4521-bd46-082d718b44c3",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "UNION",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "STATE",
+        "target": "UNION",
+        "relation": "ADMITTED"
+      },
+      {
+        "source": "STATE",
+        "target": "STATE",
+        "relation": "JUNCTION"
+      },
+      {
+        "source": "STATE",
+        "target": "STATE",
+        "relation": "CONCERNED"
+      },
+      {
+        "source": "UNION LEGISLATURE",
+        "target": "STATE",
+        "relation": "CONCERNED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "57b9ac59-8001-4cae-822e-841c3c21d424",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "UNITED STATES OF INDIA",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "UNITED STATES OF INDIA",
+        "target": "INDIA",
+        "relation": "FORMS A PART OF"
+      },
+      {
+        "source": "UNITED STATES OF INDIA",
+        "target": "STATE LEGISLATURES",
+        "relation": "RECOMMENDED BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "b5c6909e-6618-4957-9912-cf5080fce0c5",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "UNITED STATES OF INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CONSTITUTION OF THE UNITED STATES OF INDIA",
+        "type": "LAWS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "UNITED STATES OF INDIA",
+        "target": "CONSTITUTION OF THE UNITED STATES OF INDIA",
+        "relation": "APPLIES TO"
+      },
+      {
+        "source": "PROPOSED ARTICLE II DETAILED ANALYSIS",
+        "target": "CONSTITUTION OF THE UNITED STATES OF INDIA",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "b5ca4a11-3987-4a29-a83a-2ab73783ccff",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Article II, Section II",
+        "type": "ARTICLE"
+      },
+      {
+        "name": "Judicial Protection",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "Protection against Unequal Treatment",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "Protection against Discrimination",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "Protection against Economic Exploitation",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Article II, Section II",
+        "target": "Judicial Protection",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Article II, Section II",
+        "target": "Protection against Unequal Treatment",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Article II, Section II",
+        "target": "Protection against Discrimination",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Article II, Section II",
+        "target": "Protection against Economic Exploitation",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "32b4de6c-86aa-4407-a211-b9c0805294db",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Article II, Section III",
+        "type": "ARTICLE"
+      },
+      {
+        "name": "Protection against Communal Executive",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "Protection against Social end Official Tyranny",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "Protection against Social Boycott",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "Authority and obligation of the Union and State Governments to spend money for public purposes including purposes beneficial to Minorities",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Article II, Section III",
+        "target": "Protection against Communal Executive",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Article II, Section III",
+        "target": "Protection against Social end Official Tyranny",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Article II, Section III",
+        "target": "Protection against Social Boycott",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Article II, Section III",
+        "target": "Authority and obligation of the Union and State Governments to spend money for public purposes including purposes beneficial to Minorities",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "39b34c47-1b46-4c6b-94e9-1ca514062dd9",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "ARTICLE II, SECTION IV",
+        "type": "ARTICLE"
+      },
+      {
+        "name": "Scheduled Castes",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "Legislature",
+        "type": "ORGANIZATIONS"
+      },
+      {
+        "name": "Local Bodies",
+        "type": "ORGANIZATIONS"
+      },
+      {
+        "name": "Executive",
+        "type": "ORGANIZATIONS"
+      },
+      {
+        "name": "Services",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "Higher Education",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "Separate Settlements",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "Sanction for Safeguards and Amendment of Safeguards",
+        "type": "ARTICLE"
+      },
+      {
+        "name": "Protection of Scheduled Castes in Indian States",
+        "type": "ARTICLE"
+      },
+      {
+        "name": "Interpretation",
+        "type": "ARTICLE"
+      },
+      {
+        "name": "FUNDAMENTAL RIGHTS OF CITIZENS",
+        "type": "ARTICLE"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "ARTICLE II, SECTION IV",
+        "target": "Scheduled Castes",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "ARTICLE II, SECTION IV",
+        "target": "Legislature",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "ARTICLE II, SECTION IV",
+        "target": "Local Bodies",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "ARTICLE II, SECTION IV",
+        "target": "Executive",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "ARTICLE II, SECTION IV",
+        "target": "Services",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "ARTICLE II, SECTION IV",
+        "target": "Higher Education",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "ARTICLE II, SECTION IV",
+        "target": "Separate Settlements",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "ARTICLE II, SECTION IV",
+        "target": "Sanction for Safeguards and Amendment of Safeguards",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "ARTICLE II, SECTION IV",
+        "target": "Protection of Scheduled Castes in Indian States",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "ARTICLE II, SECTION IV",
+        "target": "Interpretation",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "ARTICLE II, SECTION IV",
+        "target": "FUNDAMENTAL RIGHTS OF CITIZENS",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "cb0cbc43-340f-44d0-b91d-31055b9d0601",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "United States of India",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "State",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "All persons born or naturalised within its territories are citizens of the United States of India and of the State wherein they reside.",
+        "target": "United States of India",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Any privilege or disability arising out of rank, birth, person, family, religion or religious usage and custom is abolished.",
+        "target": "State",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "f4c1d1e6-f5d7-4a5c-a6d8-dc8df64b0bf2",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "LAW",
+        "type": "LAWS"
+      },
+      {
+        "name": "CUSTOM",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "PRIVILEGES OR IMMUNITIES",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "LIBERTY",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "PROPERTY",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "DUE PROCESS OF LAW",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "EQUAL PROTECTION OF THE LAW",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "STATE",
+        "target": "LAW",
+        "relation": "MUST NOT MAKE OR ENFORCE"
+      },
+      {
+        "source": "STATE",
+        "target": "CUSTOM",
+        "relation": "MUST NOT MAKE OR ENFORCE"
+      },
+      {
+        "source": "STATE",
+        "target": "PRIVILEGES OR IMMUNITIES",
+        "relation": "ABRIDGE"
+      },
+      {
+        "source": "STATE",
+        "target": "LIBERTY",
+        "relation": "DEPRIVE WITHOUT DUE PROCESS OF LAW"
+      },
+      {
+        "source": "STATE",
+        "target": "PROPERTY",
+        "relation": "DEPRIVE WITHOUT DUE PROCESS OF LAW"
+      },
+      {
+        "source": "STATE",
+        "target": "EQUAL PROTECTION OF THE LAW",
+        "relation": "DENY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "6dcd2166-f92c-44b7-89aa-d5be3c7dcc71",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "CITIZENS",
+        "type": "PERSON"
+      },
+      {
+        "name": "CONSTITUTION",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "ALL CITIZENS",
+        "target": "CONSTITUTION",
+        "relation": "EQUAL BEFORE THE LAW"
+      },
+      {
+        "source": "ANY EXISTING ENACTMENT, REGULATION, ORDER, CUSTOM OR INTERPRETATION OF THE LAW",
+        "target": "CONSTITUTION",
+        "relation": "CEASE TO HAVE ANY EFFECT"
+      }
+    ]
+  },
+  {
+    "chunk_id": "8def1141-41b8-46df-82c4-b91bccc2bef1",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "ANY PERSON",
+        "type": "PERSON"
+      },
+      {
+        "name": "THE PUBLIC",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "ANY PERSON",
+        "target": "THE PUBLIC",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "28b2937b-f90c-46cd-b858-07a24cf9ebcf",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "CITIZENS",
+        "type": "PERSON"
+      },
+      {
+        "name": "INSTITUTIONS",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CONVENIENCES",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "AMENITIES",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "CITIZENS",
+        "target": "INSTITUTIONS",
+        "relation": "ACCESS"
+      },
+      {
+        "source": "CITIZENS",
+        "target": "CONVENIENCES",
+        "relation": "ACCESS"
+      },
+      {
+        "source": "CITIZENS",
+        "target": "AMENITIES",
+        "relation": "ACCESS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "8bcda91e-9c7f-476e-b0f5-37082bdc3be9",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "CITIZEN",
+        "type": "PERSON"
+      },
+      {
+        "name": "PUBLIC OFFICE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "TRADE OR CALLING",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "RELIGION",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "CASTE",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "CREED",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "SEX",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "SOCIAL STATUS",
+        "type": "CONSTITUTIONAL CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "CITIZEN",
+        "target": "PUBLIC OFFICE",
+        "relation": "DISQUALIFIED"
+      },
+      {
+        "source": "CITIZEN",
+        "target": "TRADE OR CALLING",
+        "relation": "DISQUALIFIED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "57cf8661-0729-4115-891c-5966434d4820",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "CITIZEN",
+        "type": "PERSON"
+      },
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "UNION LEGISLATURE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PUBLIC ORDER",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "MORALITY",
+        "type": "CONSTITUTIONAL CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "CITIZEN",
+        "target": "STATE",
+        "relation": "RESIDENT IN"
+      },
+      {
+        "source": "STATE",
+        "target": "UNION LEGISLATURE",
+        "relation": "SUBJECT TO"
+      },
+      {
+        "source": "STATE",
+        "target": "CITIZEN",
+        "relation": "IMPOSES CHARGES ON"
+      },
+      {
+        "source": "STATE",
+        "target": "UNION GOVERNMENT",
+        "relation": "CONFIRMED BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "cd28f191-d00c-46ae-b0f8-aab0311ba66c",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "UNION GOVERNMENT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "INDIA",
+        "type": "LOCATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "UNION GOVERNMENT",
+        "target": "INDIA",
+        "relation": "GUARANTEES_PROTECTION"
+      }
+    ]
+  },
+  {
+    "chunk_id": "d451c5b7-4803-4f9b-97a5-8528a7b7f958",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "FORCED LABOUR",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "INvoluntary Servitude",
+        "type": "CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "9. Subjecting a person to forced labour or to involuntary servitude shall be an offence.",
+        "target": "FORCED LABOUR",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "9. Subjecting a person to forced labour or to involuntary servitude shall be an offence.",
+        "target": "INvoluntary Servitude",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "6fd5113f-6efe-4db5-a13e-847e1671d8c6",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "PEOPLE",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "RIGHTS",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "SEARCHES",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "SEIZURES",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "WARRANTS",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "PROBABLE CAUSE",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "OATH OR AFFIRMATION",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "RIGHTS",
+        "target": "PEOPLE",
+        "relation": "PROTECTED"
+      },
+      {
+        "source": "SEARCHES",
+        "target": "RIGHTS",
+        "relation": "LIMITED"
+      },
+      {
+        "source": "SEIZURES",
+        "target": "RIGHTS",
+        "relation": "LIMITED"
+      },
+      {
+        "source": "WARRANTS",
+        "target": "SEARCHES",
+        "relation": "REQUIRED"
+      },
+      {
+        "source": "PROBABLE CAUSE",
+        "target": "WARRANTS",
+        "relation": "SUPPORTED_BY"
+      },
+      {
+        "source": "OATH OR AFFIRMATION",
+        "target": "WARRANTS",
+        "relation": "SUPPORTED_BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "370f35ee-a466-4b1d-becf-2269feee0008",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "CITIZEN",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "RIGHT OF A CITIZEN TO VOTE",
+        "target": "IMMATURITY",
+        "relation": "EXCEPTED"
+      },
+      {
+        "source": "RIGHT OF A CITIZEN TO VOTE",
+        "target": "IMPRISONMENT",
+        "relation": "EXCEPTED"
+      },
+      {
+        "source": "RIGHT OF A CITIZEN TO VOTE",
+        "target": "INSANITY",
+        "relation": "EXCEPTED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "bb077bbf-dc04-41f1-a8b0-56ac52ebf648",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "SPEECH",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "PRESS",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "ASSOCIATION",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "ASSEMBLY",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "PUBLIC ORDER",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "MORALITY",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "NO LAW",
+        "target": "SPEECH",
+        "relation": "ABRIDGING"
+      },
+      {
+        "source": "NO LAW",
+        "target": "PRESS",
+        "relation": "ABRIDGING"
+      },
+      {
+        "source": "NO LAW",
+        "target": "ASSOCIATION",
+        "relation": "ABRIDGING"
+      },
+      {
+        "source": "NO LAW",
+        "target": "ASSEMBLY",
+        "relation": "ABRIDGING"
+      },
+      {
+        "source": "NO LAW",
+        "target": "PUBLIC ORDER",
+        "relation": "EXCEPT FOR CONSIDERATION OF"
+      },
+      {
+        "source": "NO LAW",
+        "target": "MORALITY",
+        "relation": "EXCEPT FOR CONSIDERATION OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "50ef98d2-7331-45fd-869c-bba334e7b4c1",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "INDIAN CITIZEN",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "STATE",
+        "target": "INDIAN CITIZEN",
+        "relation": "GUARANTEES"
+      }
+    ]
+  },
+  {
+    "chunk_id": "9bdd5ad4-7690-4380-b7d2-e9c096cdb2e0",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "PERSON",
+        "type": "PERSON"
+      },
+      {
+        "name": "ORGANIZATION",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "PERSON",
+        "target": "ORGANIZATION",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "f6d0fb17-dfea-470b-92ee-bb57ca2ec07e",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "CASTE",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "CREED",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "RELIGION",
+        "type": "CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "16",
+        "target": "CASTE",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "16",
+        "target": "CREED",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "16",
+        "target": "RELIGION",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "947de716-8552-4f47-8462-f339860b54aa",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "PERSONS",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "STATE",
+        "type": "ORGANIZATIONS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "PERSONS",
+        "target": "STATE",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "f7afb614-8de8-4bb6-9208-f14dd6a038c2",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "RELIGIOUS ASSOCIATIONS",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "19. EVERY RELIGIOUS ASSOCIATIONS SHALL BE FREE TO REGULATE AND ADMINISTER ITS AFFAIRS, WITHIN THE LIMITS OF THE LAWS APPLICABLE TO ALL.",
+        "target": "RELIGIOUS ASSOCIATIONS",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "004a6e1a-a261-495c-8ff5-8c002a808073",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "RELIGIOUS ASSOCIATIONS",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PERSON",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "20. Religious associations shall be entitled to levy contributions on their members who are willing to pay them if their law of incorporation permits them to do so.",
+        "target": "RELIGIOUS ASSOCIATIONS",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "No person may be compelled to pay taxes the proceeds of which are specifically appropriated for the use of any religious community of which he is not a member.",
+        "target": "PERSON",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "71488d7e-09b5-4bb5-8038-5e22a6a0e941",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "ALL OFFENCES",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "UNION LEGISLATURE",
+        "type": "ORGANIZATIONS"
+      },
+      {
+        "name": "ARTICLE II-SECTION II REMEDIES AGAINST INVASION OF FUNDAMENTAL RIGHTS",
+        "type": "ARTICLES"
+      },
+      {
+        "name": "UNITED STATES OF INDIA",
+        "type": "ORGANIZATIONS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "ALL OFFENCES",
+        "target": "UNION LEGISLATURE",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "ARTICLE II-SECTION II REMEDIES AGAINST INVASION OF FUNDAMENTAL RIGHTS",
+        "target": "UNITED STATES OF INDIA",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "6c66d6a8-9516-4500-af15-f8e489d4d7b4",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "SUPREME COURT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "JUDICIAL POWER",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "AGGRIEVED PARTY",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "SUPREME COURT",
+        "target": "JUDICIAL POWER",
+        "relation": "VESTED IN"
+      },
+      {
+        "source": "SUPREME COURT",
+        "target": "AGGRIEVED PARTY",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "936e2cc7-5b26-4348-a6f8-81f7b8e43133",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Authority of the Legislature",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Executive of the Union",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "State",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "India",
+        "type": "LOCATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Authority of the Legislature and the Executive of the Union as well as of every State throughout India",
+        "target": "Limitations",
+        "relation": "SUBJECT TO"
+      },
+      {
+        "source": "Legislature or Executive in India",
+        "target": "Law or order, rule or regulation",
+        "relation": "COMPETENT FOR"
+      }
+    ]
+  },
+  {
+    "chunk_id": "725a3fc3-7654-4036-af0e-7192242bb72d",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Citizens",
+        "type": "PERSON"
+      },
+      {
+        "name": "Government officers",
+        "type": "PERSON"
+      },
+      {
+        "name": "Private employers",
+        "type": "PERSON"
+      },
+      {
+        "name": "Factories",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Commercial concerns",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Union Legislature",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Citizens",
+        "target": "Government officers",
+        "relation": "DISCRIMINATED_BY"
+      },
+      {
+        "source": "Citizens",
+        "target": "Private employers",
+        "relation": "DISCRIMINATED_BY"
+      },
+      {
+        "source": "Government officers",
+        "target": "Public administration",
+        "relation": "WORKS_IN"
+      },
+      {
+        "source": "Private employers",
+        "target": "Factories and commercial concerns",
+        "relation": "WORKS_IN"
+      },
+      {
+        "source": "Union Legislature",
+        "target": "Provision",
+        "relation": "HAS_RIGHT_AND_OBLIGATION"
+      }
+    ]
+  },
+  {
+    "chunk_id": "d1ae02c3-c914-40b2-bcb0-2f749fc4a4dc",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "UNITED STATES OF INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "STATE",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "CORPORATIONS",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "INSURANCE",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "AGRICULTURE",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "UNITED STATES OF INDIA",
+        "target": "STATE",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "STATE",
+        "target": "CORPORATIONS",
+        "relation": "OWNED_BY"
+      },
+      {
+        "source": "STATE",
+        "target": "INSURANCE",
+        "relation": "MONOPOLY_OF"
+      },
+      {
+        "source": "STATE",
+        "target": "AGRICULTURE",
+        "relation": "STATE_INDUSTRY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "9c3a1f70-9489-407a-9026-6f34717a2ada",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "MINORITIES",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "United States of India",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "PROVISIONS FOR THE PROTECTION OF MINORITIES",
+        "target": "United States of India",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Protection against Communal Executive",
+        "target": "MINORITIES",
+        "relation": "PROTECTS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "98d3d0cd-1138-4ba9-9841-a45cd627324b",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "EXECUTIVE-UNION",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "LEGISLATURE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PRIME MINISTER",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "EXECUTIVE-UNION",
+        "target": "STATE",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "MEMBERS OF THE EXECUTIVE",
+        "target": "LEGISLATURE",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "PRIME MINISTER",
+        "target": "WHOLE HOUSE",
+        "relation": "ELECTED BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "aaef0230-f454-40e6-bc0a-d60d2ced841f",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "SUPERINTENDENT OF MINORITY AFFAIRS",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GOVERNMENT OF INDIA ACT",
+        "type": "LAWS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "SUPERINTENDENT OF MINORITY AFFAIRS",
+        "target": "GOVERNMENT OF INDIA ACT",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "946e345b-3dfb-4730-acdc-e80e2ead8a74",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Social Boycott",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "Boycott Defined",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "Fundamental Right",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "Citizenship",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "Offence of Boycotting",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "Instigating or Promoting a Boycott",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "Threatening a Boycott",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "Bona fide labour dispute",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "Ordinary course of business competition",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "Union Legislature",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Social Boycott",
+        "target": "Boycott Defined",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Boycott Defined",
+        "target": "Fundamental Right",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Boycott Defined",
+        "target": "Citizenship",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Offence of Boycotting",
+        "target": "Boycott Defined",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Instigating or Promoting a Boycott",
+        "target": "Boycott Defined",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Threatening a Boycott",
+        "target": "Boycott Defined",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Bona fide labour dispute",
+        "target": "Offence of Boycotting",
+        "relation": "EXCEPTION"
+      },
+      {
+        "source": "Ordinary course of business competition",
+        "target": "Offence of Boycotting",
+        "relation": "EXCEPTION"
+      },
+      {
+        "source": "Union Legislature",
+        "target": "Offence of Boycotting",
+        "relation": "REGULATES"
+      },
+      {
+        "source": "Union Legislature",
+        "target": "Instigating or Promoting a Boycott",
+        "relation": "REGULATES"
+      },
+      {
+        "source": "Union Legislature",
+        "target": "Threatening a Boycott",
+        "relation": "REGULATES"
+      }
+    ]
+  },
+  {
+    "chunk_id": "aba1307d-111c-4832-9fbd-21273d067f3e",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "CENTRAL GOVERNMENT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PROvincial Governments",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Union Legislature",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "State Legislature",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Scheduled Castes",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "Legislature",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "CENTRAL GOVERNMENT",
+        "target": "Provincial Governments",
+        "relation": "POWER"
+      },
+      {
+        "source": "Union Legislature",
+        "target": "State Legislature",
+        "relation": "CASE MAY BE"
+      },
+      {
+        "source": "Scheduled Castes",
+        "target": "Legislature",
+        "relation": "RIGHT TO REPRESENTATION"
+      }
+    ]
+  },
+  {
+    "chunk_id": "4f54aedb-02d5-46ad-9edf-f4e198c285f7",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "QUANTUM OF REPRESENTATION",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "SCHEDULED CASTES",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "SIND AND N.W.F. PROVINCES",
+        "type": "LOCATION"
+      },
+      {
+        "name": "POONA PACT",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "SEPARATE ELECTORATES",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "ADULT FRANCHISE",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "CUMULATIVE VOTING",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "QUANTUM OF REPRESENTATION",
+        "target": "SCHEDULED CASTES",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "QUANTUM OF REPRESENTATION",
+        "target": "SIND AND N.W.F. PROVINCES",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "QUANTUM OF REPRESENTATION",
+        "target": "POONA PACT",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "QUANTUM OF REPRESENTATION",
+        "target": "SEPARATE ELECTORATES",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "QUANTUM OF REPRESENTATION",
+        "target": "ADULT FRANCHISE",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "QUANTUM OF REPRESENTATION",
+        "target": "CUMULATIVE VOTING",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "c2871dbc-72c4-4a39-b7dd-085c89a41681",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "SCHEDULED CASTES",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "EXECUTIVE",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "GROUP CONSTITUTION",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "MINORITY COMMUNITY",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "MAJORITY COMMUNITY",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "WEIGHTAGE",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "RIGHT TO REPRESENTATION IN THE SERVICES",
+        "type": "LAWS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "SCHEDULED CASTES",
+        "target": "EXECUTIVE",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "GROUP CONSTITUTION",
+        "target": "EXECUTIVE",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "MINORITY COMMUNITY",
+        "target": "WEIGHTAGE",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "MAJORITY COMMUNITY",
+        "target": "WEIGHTAGE",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "WEIGHTAGE",
+        "target": "MINORITY COMMUNITY",
+        "relation": "DIVIDED"
+      },
+      {
+        "source": "WEIGHTAGE",
+        "target": "MAJORITY COMMUNITY",
+        "relation": "REDUCED"
+      },
+      {
+        "source": "RIGHT TO REPRESENTATION IN THE SERVICES",
+        "target": "SCHEDULED CASTES",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "45589f15-f462-47dd-996c-a43ddb214d25",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "QUANTUM OF REPRESENTATION",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "SCHEDULED CASTES",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "UNION SERVICES",
+        "type": "ORGANIZATIONS"
+      },
+      {
+        "name": "STATE AND GROUP SERVICES",
+        "type": "ORGANIZATIONS"
+      },
+      {
+        "name": "MUNICIPAL AND LOCAL BOARD SERVICES",
+        "type": "ORGANIZATIONS"
+      },
+      {
+        "name": "MINORITY COMMUNITY",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "GOVERNMENT OF INDIA",
+        "type": "ORGANIZATIONS"
+      },
+      {
+        "name": "PUBLIC SERVICES COMMISSION",
+        "type": "ORGANIZATIONS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "QUANTUM OF REPRESENTATION",
+        "target": "SCHEDULED CASTES",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "UNION SERVICES",
+        "target": "SCHEDULED CASTES",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "STATE AND GROUP SERVICES",
+        "target": "SCHEDULED CASTES",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "MUNICIPAL AND LOCAL BOARD SERVICES",
+        "target": "SCHEDULED CASTES",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "MINORITY COMMUNITY",
+        "target": "QUANTUM OF REPRESENTATION",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "GOVERNMENT OF INDIA",
+        "target": "SCHEDULED CASTES",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "PUBLIC SERVICES COMMISSION",
+        "target": "SCHEDULED CASTES",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "823acc2b-272c-405b-9880-5f82a6dbd4bf",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "GOVERNMENTS",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "UNION",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "SCHEDULED CASTES",
+        "type": "PEOPLE"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "GOVERNMENTS",
+        "target": "SCHEDULED CASTES",
+        "relation": "REQUIRED TO ASSUME FINANCIAL RESPONSIBILITY FOR"
+      },
+      {
+        "source": "STATE GOVERNMENTS",
+        "target": "SCHEDULED CASTES",
+        "relation": "RESPONSIBLE FOR FINDING MONEY FOR SECONDARY AND COLLEGE EDUCATION OF"
+      },
+      {
+        "source": "UNION GOVERNMENT",
+        "target": "SCHEDULED CASTES",
+        "relation": "RESPONSIBLE FOR FINDING MONEY FOR FOREIGN EDUCATION OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "e53fba50-baa9-42c7-98e7-2d114810fbb4",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Settlement Commission",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Union Government",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Scheduled Castes",
+        "type": "PEOPLE"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Settlement Commission",
+        "target": "Union Government",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Union Government",
+        "target": "Settlement Commission",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "b9c1f8f3-2718-42ac-bf9f-abbb97e805af",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "CONSTITUTION OF THE UNITED STATES",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "UNITED STATES OF INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "ARTICLE II SECTION IV",
+        "type": "ARTICLE"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "CONSTITUTION OF THE UNITED STATES",
+        "target": "UNITED STATES OF INDIA",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "UNITED STATES OF INDIA",
+        "target": "ARTICLE II SECTION IV",
+        "relation": "CONTAINS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "8be6f49c-6395-4036-bcf0-37121996e8a5",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Scheduled Castes",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "Union Legislature",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Popular Chamber",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Scheduled Castes",
+        "target": "Union Legislature",
+        "relation": "PROTECTED_BY"
+      },
+      {
+        "source": "Union Legislature",
+        "target": "Popular Chamber",
+        "relation": "MORE_POPULAR_THAN"
+      }
+    ]
+  },
+  {
+    "chunk_id": "ed800aad-296e-4b23-984b-d3f1c806a247",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "CONSTITUTION OF THE UNITED STATES",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "INDIAN STATES",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "SCHEDULED CASTES",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "ARTICLE II",
+        "type": "ARTICLE"
+      },
+      {
+        "name": "CONSTITUTION OF THE UNITED STATES OF INDIA",
+        "type": "CONSTITUTIONAL CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "CONSTITUTION OF THE UNITED STATES",
+        "target": "INDIAN STATES",
+        "relation": "SUBJECT TO"
+      },
+      {
+        "source": "SCHEDULED CASTES",
+        "target": "ARTICLE II",
+        "relation": "CONTAINED IN"
+      },
+      {
+        "source": "CONSTITUTION OF THE UNITED STATES",
+        "target": "SCHEDULED CASTES",
+        "relation": "EXTENDED TO"
+      },
+      {
+        "source": "INDIAN STATES",
+        "target": "SCHEDULED CASTES",
+        "relation": "CONDITION PRECEDENT FOR ADMISSION INTO UNION"
+      }
+    ]
+  },
+  {
+    "chunk_id": "cabbe013-122a-4968-b452-8e8f3be77153",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Article II",
+        "type": "ARTICLE"
+      },
+      {
+        "name": "Scheduled Castes",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "Government of India Scheduled Caste Order, 1936",
+        "type": "LAWS"
+      },
+      {
+        "name": "Government of India Act, 1935",
+        "type": "LAWS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Article II",
+        "target": "Scheduled Castes",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Scheduled Castes",
+        "target": "Government of India Scheduled Caste Order, 1936",
+        "relation": "DEFINED BY"
+      },
+      {
+        "source": "Scheduled Castes",
+        "target": "Government of India Act, 1935",
+        "relation": "ISSUED UNDER"
+      }
+    ]
+  },
+  {
+    "chunk_id": "057d1376-f332-4682-8b87-95fb8385f8bc",
+    "source_file": "States and Minorities BR Ambedkar 1947.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Article II",
+        "type": "ARTICLE"
+      },
+      {
+        "name": "Scheduled Caste",
+        "type": "CONSTITUTIONAL CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Article II",
+        "target": "Scheduled Caste",
+        "relation": "MENTIONED"
+      }
+    ]
+  }
+]

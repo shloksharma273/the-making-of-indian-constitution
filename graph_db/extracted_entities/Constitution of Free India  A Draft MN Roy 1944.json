@@ -1,0 +1,3632 @@
+[
+  {
+    "chunk_id": "038caa2e-a9a8-4aad-b7d1-f7d83a2e2652",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "ARTICLE I",
+        "type": "ARTICLE"
+      },
+      {
+        "name": "FEDERAL UNION OF INDIA",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "ARTICLE I",
+        "target": "FEDERAL UNION OF INDIA",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "91a46d8a-887c-478b-9fef-293624b26f51",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "PEOPLE'S COMMITTEES",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "SOVEREIGN DEMOCRATIC POWER",
+        "target": "PEOPLE'S COMMITTEES",
+        "relation": "EXPRESSION"
+      },
+      {
+        "source": "PEOPLE'S COMMITTEES",
+        "target": "VILLAGES",
+        "relation": "OPERATES_IN"
+      },
+      {
+        "source": "PEOPLE'S COMMITTEES",
+        "target": "TOWNS",
+        "relation": "OPERATES_IN"
+      },
+      {
+        "source": "PEOPLE'S COMMITTEES",
+        "target": "CITIES",
+        "relation": "OPERATES_IN"
+      }
+    ]
+  },
+  {
+    "chunk_id": "7b8bc90a-62b4-4666-97b9-d9e62856914b",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "PEOPLE'S COMMITTEES",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "LOCALITIES",
+        "type": "CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "THE PEOPLE'S COMMITTEES",
+        "target": "LOCALITIES",
+        "relation": "ELECTED_BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "af555b83-a83f-43b9-b456-58052e90ba24",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "PEOPLE'S COMMITTEE",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": []
+  },
+  {
+    "chunk_id": "d93b75e1-f3db-4f65-b7bd-76e04fe0a708",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "PEOPLE'S COMMITTEES",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CONSTITUTION",
+        "type": "CONSTITUTIONAL_CONCEPTS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "THE TERRITORIAL DELIMITATION AND POPULATION BASIS OF THE PEOPLE'S COMMITTEES",
+        "target": "CONSTITUTION",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "PEOPLE'S COMMITTEES",
+        "target": "CONSTITUTION",
+        "relation": "FIXED_BY_LAW"
+      }
+    ]
+  },
+  {
+    "chunk_id": "a820e529-2a59-4e6b-96b4-d3a3e6e2cbcf",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "PEOPLE'S COMMITTEES",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": []
+  },
+  {
+    "chunk_id": "58e9681a-f97e-42c9-acd9-6bca662eecf1",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "People's Committees",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Federal Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Provincial People’s Councils",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Governor-General",
+        "type": "PERSON"
+      },
+      {
+        "name": "Provincial Governor",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "People's Committees",
+        "target": "Federal Assembly",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "People's Committees",
+        "target": "Provincial People’s Councils",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "People's Committees",
+        "target": "Governor-General",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "People's Committees",
+        "target": "Provincial Governor",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "a373c764-48b3-4db4-bb66-21c063405cde",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "BRITISH INDIAN EMPIRE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "FEUDATORY STATES",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "CONSTITUTION",
+        "target": "BRITISH INDIAN EMPIRE",
+        "relation": "EXTENDS_TO"
+      },
+      {
+        "source": "CONSTITUTION",
+        "target": "FEUDATORY STATES",
+        "relation": "EXTENDS_TO"
+      }
+    ]
+  },
+  {
+    "chunk_id": "3b76b509-904f-489e-96ca-46014061e1cc",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Provinces",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Federal State",
+        "type": "CONSTITUTIONAL_CONCEPTS"
+      },
+      {
+        "name": "Federal Union of India",
+        "type": "CONSTITUTIONAL_CONCEPTS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Provinces",
+        "target": "Federal State",
+        "relation": "FORMS_PART_OF"
+      },
+      {
+        "source": "Federal State",
+        "target": "Federal Union of India",
+        "relation": "IS_A"
+      }
+    ]
+  },
+  {
+    "chunk_id": "4ff3986c-29a4-4839-9451-007ffaafe0d5",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Federal Union of India",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Provincial People’s Councils",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Province",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "referendum",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "Provincial Government",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Federal Union of India",
+        "target": "Provincial People’s Councils",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Provincial People’s Councils",
+        "target": "Province",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "referendum",
+        "target": "Province",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Provincial Government",
+        "target": "Province",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "7ea5f14b-36ce-4a0e-a8f9-d388f31726cf",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "PROVINCES",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "FEDERAL UNION OF INDIA",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "PROVINCES",
+        "target": "FEDERAL UNION OF INDIA",
+        "relation": "OUT OF"
+      },
+      {
+        "source": "PROVINCES",
+        "target": "CONSTITUTION",
+        "relation": "GOVERNED BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "2f73ff36-8bc2-4285-bf32-0fd6b12518ce",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "PROVINCES",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "ANY OF THE PROVINCES",
+        "target": "FEDERAL UNION",
+        "relation": "OUT OF"
+      },
+      {
+        "source": "ANY OF THE PROVINCES",
+        "target": "ANOTHER FEDERATION",
+        "relation": "CONSTITUTE THEMSELVES INTO"
+      }
+    ]
+  },
+  {
+    "chunk_id": "dfe26a27-aed4-4316-8233-3727ca6d4c5e",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "FEDERAL UNION OF INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PROVINCES REMAINING OUTSIDE THE UNION",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "SEPARATE FEDERATION",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "FEDERAL UNION OF INDIA",
+        "target": "PROVINCES REMAINING OUTSIDE THE UNION",
+        "relation": "CONCLUDES TREATY WITH"
+      },
+      {
+        "source": "FEDERAL UNION OF INDIA",
+        "target": "SEPARATE FEDERATION",
+        "relation": "CONCLUDES TREATY WITH"
+      }
+    ]
+  },
+  {
+    "chunk_id": "9c8e4304-1611-49d0-8a68-58175d64c5d8",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "FEDERAL UNION OF INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "BRITISH COMMONWEALTH",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "INDO-BRITISH COMMONWEALTH OF FREE PEOPLES",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "FEDERAL UNION OF INDIA",
+        "target": "BRITISH COMMONWEALTH",
+        "relation": "MEMBER_OF"
+      },
+      {
+        "source": "FEDERAL UNION OF INDIA",
+        "target": "INDO-BRITISH COMMONWEALTH OF FREE PEOPLES",
+        "relation": "ALIAS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "00b7f1a1-52d9-4025-85f9-e679687ae8bf",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "INDO-BRITISH COMMONWEALTH",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "INDIA",
+        "target": "INDO-BRITISH COMMONWEALTH",
+        "relation": "MEMBER_OF"
+      },
+      {
+        "source": "INDIA",
+        "target": "CONSTITUTION",
+        "relation": "MEMBERSHIP_CONDITIONS_STIPULATED_IN_TREATY_WITH"
+      }
+    ]
+  },
+  {
+    "chunk_id": "7597f3a1-b48a-4aaa-ab8e-6953e63a128a",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "FEDERAL UNION OF INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "RIGHTS OF CITIZENSHIP",
+        "type": "CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "ALL THE COMPONENT UNITS OF THE FEDERAL UNION OF INDIA",
+        "target": "FEDERAL UNION OF INDIA",
+        "relation": "PART_OF"
+      },
+      {
+        "source": "EVERY COMPONENT UNIT OF THE FEDERAL UNION",
+        "target": "FEDERAL UNION OF INDIA",
+        "relation": "PART_OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "cdf3d962-6dae-4cdc-8939-57d205f1ca88",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "FEDERAL UNION OF INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CONSTITUENT UNITS",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GOVERNMENT OF THE PROVINCE",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "FEDERAL UNION OF INDIA",
+        "target": "CONSTITUENT UNITS",
+        "relation": "RETAINS_RIGHT"
+      },
+      {
+        "source": "GOVERNMENT OF THE PROVINCE",
+        "target": "PROPOSAL_OF_SECESSION",
+        "relation": "SUBMITS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "8ea6fa18-0d41-40bf-94ee-21f53a51cb1f",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Supreme Court",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Federal Union of India",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Governor-General",
+        "type": "PERSON"
+      },
+      {
+        "name": "Council of State",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Federal Assembly",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Supreme Court",
+        "target": "Federal Union of India",
+        "relation": "COMPOSED_OF"
+      },
+      {
+        "source": "Governor-General",
+        "target": "Supreme Court's Council",
+        "relation": "MEMBER_OF"
+      },
+      {
+        "source": "Council of State",
+        "target": "Supreme Court's Council",
+        "relation": "MEMBER_OF"
+      },
+      {
+        "source": "Federal Assembly",
+        "target": "Supreme Court's Council",
+        "relation": "MEMBER_OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "372ff743-758a-4901-8d75-9fd669f8ce3b",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "FEDERAL ASSEMBLY",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "DEPUTIES",
+        "type": "PERSON"
+      },
+      {
+        "name": "PEOPLE",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "FEDERAL UNION",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "FEDERAL ASSEMBLY",
+        "target": "DEPUTIES",
+        "relation": "COMPOSED OF"
+      },
+      {
+        "source": "FEDERAL ASSEMBLY",
+        "target": "PEOPLE",
+        "relation": "REPRESENTS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "246a989d-6b70-4236-b981-67cfa285c6b8",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "DEPUTY",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "INHABITANTS",
+        "type": "CONSTITUTIONAL_CONCEPTS"
+      },
+      {
+        "name": "CITIES AND TOWNS",
+        "type": "CONSTITUTIONAL_CONCEPTS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "DEPUTY",
+        "target": "INHABITANTS",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "CITIES AND TOWNS",
+        "target": "INHABITANTS",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "0b79658e-b33c-4410-b1eb-6a58d1916913",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "All men and women",
+        "type": "PERSON"
+      },
+      {
+        "name": "Federal Assembly",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "All men and women",
+        "target": "Federal Assembly",
+        "relation": "ENTITLED TO VOTE IN THE ELECTION OF DEputies TO"
+      }
+    ]
+  },
+  {
+    "chunk_id": "931ecec8-5030-4521-a902-1cbfead4cb9d",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "FEDERAL ASSEMBLY",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PEOPLE'S COMMITTEE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "FEDERAL GOVERNMENT",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "DEPUTIES TO THE FEDERAL ASSEMBLY",
+        "target": "PEOPLE'S COMMITTEE",
+        "relation": "ELECTED BY"
+      },
+      {
+        "source": "FEDERAL GOVERNMENT",
+        "target": "ELECTORS",
+        "relation": "BEARS EXPENSES FOR"
+      }
+    ]
+  },
+  {
+    "chunk_id": "c92f38ad-0e43-48b4-b835-9031c6d6a419",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "FEDERAL ASSEMBLY",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": []
+  },
+  {
+    "chunk_id": "62d0b4f4-6f73-4770-8e21-5f06b514efd0",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "FEDERAL ASSEMBLY",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GOVERNOR GENERAL",
+        "type": "PERSON"
+      },
+      {
+        "name": "PRIME MINISTER",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "FEDERAL ASSEMBLY",
+        "target": "GOVERNOR GENERAL",
+        "relation": "MAY BE DISSOLVED BY"
+      },
+      {
+        "source": "GOVERNOR GENERAL",
+        "target": "PRIME MINISTER",
+        "relation": "RECOMMENDED BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "1183c901-d5ee-445c-bad8-0babe5640b68",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Governor-General",
+        "type": "PERSON"
+      },
+      {
+        "name": "Prime Minister",
+        "type": "PERSON"
+      },
+      {
+        "name": "People’s Committees in the Federal Union",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Governor-General",
+        "target": "Prime Minister",
+        "relation": "RECOMMENDATION"
+      },
+      {
+        "source": "Governor-General",
+        "target": "People’s Committees in the Federal Union",
+        "relation": "REFERS_TO"
+      }
+    ]
+  },
+  {
+    "chunk_id": "f71d4fcd-1d2b-481b-94d8-e71160777c49",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "PEOPLE'S COMMITTEES",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "MAJORITY VERDICT",
+        "target": "PEOPLE'S COMMITTEES",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "PEOPLE'S COMMITTEES",
+        "target": "DISPUTE",
+        "relation": "SETTLES"
+      }
+    ]
+  },
+  {
+    "chunk_id": "260bf3ee-b2fa-4a83-bccb-55026daac6b4",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Governor General",
+        "type": "PERSON"
+      },
+      {
+        "name": "Federal Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "People’s Committees",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Governor General",
+        "target": "Federal Assembly",
+        "relation": "HAS_RIGHT_TO_DISSOLVE"
+      },
+      {
+        "source": "Governor General",
+        "target": "People’s Committees",
+        "relation": "REQUIRES_SUPPORT_FROM"
+      }
+    ]
+  },
+  {
+    "chunk_id": "d5bed775-b51e-4be4-94f1-d685516ea42f",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "FEDERAL ASSEMBLY",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "COUNCIL OF STATE",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "NEW FEDERAL ASSEMBLY",
+        "target": "OLD ASSEMBLY",
+        "relation": "ELECTED_FROM"
+      },
+      {
+        "source": "FEDERAL UNION",
+        "target": "COUNCIL OF STATE",
+        "relation": "PART_OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "333f7aee-f769-4bcf-b9b5-875cd91ac5ee",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Council of State",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Provincial Governments",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "The members of the Council of State",
+        "target": "Provincial Governments of the federating provinces",
+        "relation": "APPOINTED BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "86e1b2cc-3963-41b1-81da-d57a6d117d34",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "COUNCIL OF STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PROVINCIAL GOVERNMENTS",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "ENGINEERS",
+        "type": "PROFESSION"
+      },
+      {
+        "name": "ECONOMISTS",
+        "type": "PROFESSION"
+      },
+      {
+        "name": "SCIENTISTS",
+        "type": "PROFESSION"
+      },
+      {
+        "name": "MEDICAL MEN",
+        "type": "PROFESSION"
+      },
+      {
+        "name": "JURISTS",
+        "type": "PROFESSION"
+      },
+      {
+        "name": "HISTORIANS",
+        "type": "PROFESSION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "COUNCIL OF STATE",
+        "target": "ENGINEERS",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "COUNCIL OF STATE",
+        "target": "ECONOMISTS",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "COUNCIL OF STATE",
+        "target": "SCIENTISTS",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "COUNCIL OF STATE",
+        "target": "MEDICAL MEN",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "COUNCIL OF STATE",
+        "target": "JURISTS",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "COUNCIL OF STATE",
+        "target": "HISTORIANS",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "d5092a8f-08bb-47f8-a173-8236180acab9",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "COUNCIL OF STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PROFESSIONAL GROUPS",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "MEMBERS OF THE PROFESSIONAL GROUPS",
+        "target": "COUNCIL OF STATE",
+        "relation": "NOT ELIGIBLE FOR MEMBERSHIP"
+      },
+      {
+        "source": "PROFESSIONAL GROUPS",
+        "target": "COMMERCIAL OR INDUSTRIAL CONCERN",
+        "relation": "REMNURERATELY CONNECTED WITH"
+      }
+    ]
+  },
+  {
+    "chunk_id": "02cb6ad5-30e7-4dfc-a6c5-174a62d534ac",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Provincial Governments",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Council of State",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Provincial Governments",
+        "target": "Council of State",
+        "relation": "CANCEL POWER"
+      }
+    ]
+  },
+  {
+    "chunk_id": "23a24fda-a5e1-4dc3-bdab-db4cb5e55b32",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "COUNCIL OF STATE",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": []
+  },
+  {
+    "chunk_id": "cbbed04c-80b7-40f3-92c5-e31b113041eb",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "COUNCIL OF STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PRESIDENTS",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "COUNCIL OF STATE",
+        "target": "PRESIDENTS",
+        "relation": "HAS_PANEL_OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "cfb4f244-7a21-4ced-8ce3-2ea2553cfe62",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "COUNCIL OF STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "FEDERAL ASSEMBLY",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "COUNCIL OF STATE",
+        "target": "FEDERAL ASSEMBLY",
+        "relation": "SIMULTANEOUSLY WITH"
+      }
+    ]
+  },
+  {
+    "chunk_id": "ac4de812-97cc-43b3-b4a8-2c3466911eae",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "COUNCIL OF STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "FEDERAL ASSEMBLY",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "COUNCIL OF MINISTERS",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "COUNCIL OF STATE",
+        "target": "FEDERAL ASSEMBLY",
+        "relation": "MEET WHEN NOT IN SESSION"
+      },
+      {
+        "source": "COUNCIL OF STATE",
+        "target": "COUNCIL OF MINISTERS",
+        "relation": "ADVICE"
+      }
+    ]
+  },
+  {
+    "chunk_id": "8c94cb19-dd81-4ff1-9896-cc643987b057",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "COUNCIL OF STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "SUPERIOR PEOPLE'S COUNCIL",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "THE POWER OF PLANNING THE DEVELOPMENT OF THE DIFFERENT BRANCHES OF SOCIETY (ECONOMIC, HEALTH, EDUCATION AND CULTURE)",
+        "target": "COUNCIL OF STATE",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "THE FEDERAL UNION",
+        "target": "SUPERIOR PEOPLE'S COUNCIL",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "9f7b329c-f3a7-4d94-a440-3a995ad268d4",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "COUNCIL OF STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "FEDERAL ASSEMBLY",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GOVERNOR GENERAL",
+        "type": "PERSON"
+      },
+      {
+        "name": "SUPREME PEOPLE’S COUNCIL",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "COUNCIL OF STATE",
+        "target": "FEDERAL ASSEMBLY",
+        "relation": "MEET IN JOINT SESSIONS WITH"
+      },
+      {
+        "source": "GOVERNOR GENERAL",
+        "target": "SUPREME PEOPLE’S COUNCIL",
+        "relation": "AS THE SUPREME PEOPLE'S COUNCIL"
+      }
+    ]
+  },
+  {
+    "chunk_id": "30d0d59d-9ecf-4eaf-92b7-0c9d543fb182",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Supreme People’s Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Governor General",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "The sessions of the Supreme People’s Council",
+        "target": "Governor General",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "8270fa41-8f89-4a32-a5cd-88f2037b832f",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Supreme People's Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Government",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Governor-General",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Supreme People's Council",
+        "target": "Government",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Supreme People's Council",
+        "target": "Governor-General",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "1fa552c4-30db-4058-b979-37035cc59a93",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "GOVERNOR-GENERAL",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "FEDERAL UNION",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "GOVERNOR-GENERAL",
+        "target": "FEDERAL UNION",
+        "relation": "ELECTED BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "4c000e54-bdc0-43bc-b250-95c8475b743c",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "CITIZEN",
+        "type": "PERSON"
+      },
+      {
+        "name": "FEDERAL UNION",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GOVERNOR GENERAL",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "CITIZEN",
+        "target": "FEDERAL UNION",
+        "relation": "ELIGIBLE FOR ELECTION AS"
+      },
+      {
+        "source": "CITIZEN",
+        "target": "GOVERNOR GENERAL",
+        "relation": "ELECTED AS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "d3f90a7b-0f6e-440e-92e2-b23355795c73",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Governor General",
+        "type": "PERSON"
+      },
+      {
+        "name": "Council of State",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Federal Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Supreme People’s Council",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Governor General",
+        "target": "Council of State",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Governor General",
+        "target": "Federal Assembly",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Governor General",
+        "target": "Supreme People’s Council",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "3cdee12c-a243-4d06-aa31-aa80e8f32939",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Governor-General",
+        "type": "PERSON"
+      },
+      {
+        "name": "Supreme People’s Council",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Governor-General",
+        "target": "Supreme People’s Council",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "64de7f4c-5676-4f05-a4ed-c7d2c4644a38",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "GOVERNOR GENERAL",
+        "type": "PERSON"
+      },
+      {
+        "name": "FEDERAL ASSEMBLY",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "GOVERNOR GENERAL",
+        "target": "FEDERAL ASSEMBLY",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "677074c7-f72f-426b-986b-9bc046ef88f2",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "FEDERAL ASSEMBLY",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "SUPERIOR PEOPLE’S COUNCIL",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "FEDERAL ASSEMBLY",
+        "target": "SUPERIOR PEOPLE’S COUNCIL",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "73220365-7670-4066-9515-0f1e4fb4ca86",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Federal Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "provincial Legislatures",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Provincial people’s Councils",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Legislations enacted by the Federal Assembly",
+        "target": "provincial Legislatures (Provincial people’s Councils)",
+        "relation": "SUBMITTED FOR ENDORSEMENT"
+      }
+    ]
+  },
+  {
+    "chunk_id": "f213e147-4df4-41fb-a0bd-9cbb82a9b50d",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Federal Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Provincial Legislatures",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Federal Assembly",
+        "target": "Provincial Legislatures",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "179b83cb-dc6e-4439-ba9b-978fb6402afe",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Provincial People’s Councils",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Federal Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "People’s Committees",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Federal subjects",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "Local People’s Committees",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Federal Referendum",
+        "type": "EVENT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Provincial People’s Councils",
+        "target": "Federal Assembly",
+        "relation": "OBJECT_TO"
+      },
+      {
+        "source": "Provincial People’s Councils",
+        "target": "People’s Committees",
+        "relation": "SUBMIT_TO"
+      },
+      {
+        "source": "People’s Committees",
+        "target": "Provincial People’s Councils",
+        "relation": "OVERRIDE_OBJECTION"
+      },
+      {
+        "source": "Federal Referendum",
+        "target": "Provincial People’s Councils",
+        "relation": "SUBMIT_TO"
+      }
+    ]
+  },
+  {
+    "chunk_id": "e50ca153-fd99-4778-bc21-b2d3c99b3cdc",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "COUNCIL OF MINISTERS",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "FEDERAL ASSEMBLY",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "THE COUNCIL OF MINISTERS",
+        "target": "PROPOSES LEGISLATIONS",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "NON-OFFICIAL MEMBERS OF THE FEDERAL ASSEMBLY",
+        "target": "PROPOSES LEGISLATIONS",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "6cbe821e-b31a-4e90-9317-5a88fbb8310a",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "COUNCIL OF STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "COUNCIL OF MINISTERS",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "FEDERAL ASSEMBLY",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "ALL PROPOSED LEGISLATIONS",
+        "target": "COUNCIL OF STATE",
+        "relation": "SUBMITTED FOR CONSIDERATION"
+      },
+      {
+        "source": "COUNCIL OF STATE",
+        "target": "FEDERAL ASSEMBLY",
+        "relation": "STATEMENT OF VIEW"
+      }
+    ]
+  },
+  {
+    "chunk_id": "728eee93-4a5a-41ec-b779-7c122e3c95af",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "COUNCIL OF STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "FEDERAL ASSEMBLY",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "DISAPPROVAL",
+        "target": "COUNCIL OF STATE",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "FEDERAL ASSEMBLY",
+        "target": "LEGISLATION",
+        "relation": "ENACTS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "6143d2a9-d665-4e26-9197-4f902d44f575",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Federal Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Governor General",
+        "type": "PERSON"
+      },
+      {
+        "name": "Supreme People’s Council",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Federal Assembly",
+        "target": "Governor General",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Federal Assembly",
+        "target": "Supreme People’s Council",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "2b1366f7-a372-44ed-9346-54e94d1f8177",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Supreme People’s Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Federal Union",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Federal Constitution",
+        "type": "CONSTITUTIONAL_CONCEPTS"
+      },
+      {
+        "name": "Provincial legislation",
+        "type": "LAWS"
+      },
+      {
+        "name": "Governor General",
+        "type": "PERSON"
+      },
+      {
+        "name": "Council of Ministers",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Supreme Federal Court",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Supreme People’s Council",
+        "target": "Provincial legislation",
+        "relation": "VETO_RIGHT"
+      },
+      {
+        "source": "Governor General",
+        "target": "Provincial legislation",
+        "relation": "RECOMMEND_VETO"
+      },
+      {
+        "source": "Provincial Government",
+        "target": "Supreme Federal Court",
+        "relation": "APPEAL_VETO"
+      }
+    ]
+  },
+  {
+    "chunk_id": "d5902808-d8af-410e-9f3f-79996e6cca40",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "FEDERAL LAW",
+        "type": "LAW"
+      },
+      {
+        "name": "PROvincial law",
+        "type": "LAW"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "FEDERAL LAW",
+        "target": "PROvincial law",
+        "relation": "CONFLICTS WITH"
+      }
+    ]
+  },
+  {
+    "chunk_id": "1d3ac33c-ab06-4ede-8a55-b75359579fd4",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "GOVERNMENT OF THE FEDERAL UNION",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "COUNCIL OF MINISTERS",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "GOVERNMENT OF THE FEDERAL UNION",
+        "target": "COUNCIL OF MINISTERS",
+        "relation": "CONSTITUTES"
+      }
+    ]
+  },
+  {
+    "chunk_id": "782b686c-122e-4987-bcc9-9bb2e60e97e3",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "COUNCIL OF MINISTERS",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "SUPERIOR PEOPLE'S COUNCIL",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "COUNCIL OF MINISTERS",
+        "target": "SUPERIOR PEOPLE'S COUNCIL",
+        "relation": "RESPONSIBLE TO"
+      }
+    ]
+  },
+  {
+    "chunk_id": "7f535770-edc2-43a7-9e93-beb93801a2a5",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "GOVERNOR GENERAL",
+        "type": "PERSON"
+      },
+      {
+        "name": "FEDERAL ASSEMBLY",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "COUNCIL OF MINISTERS",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "LOK SABHA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "LOWER HOUSE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "HOUSE OF PEOPLE",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "GOVERNOR GENERAL",
+        "target": "FEDERAL ASSEMBLY",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "FEDERAL ASSEMBLY",
+        "target": "COUNCIL OF MINISTERS",
+        "relation": "FORMS"
+      },
+      {
+        "source": "COUNCIL OF MINISTERS",
+        "target": "FEDERAL ASSEMBLY",
+        "relation": "SELECTED FROM"
+      },
+      {
+        "source": "GOVERNOR GENERAL",
+        "target": "PRIME MINISTER",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "3e8e1d86-eb8a-4371-ac0f-bf5c3e9f4671",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "COUNCIL OF MINISTERS",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "SUPERIOR PEOPLE’S COUNCIL",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "COUNCIL OF MINISTERS",
+        "target": "SUPERIOR PEOPLE’S COUNCIL",
+        "relation": "REQUIRES_CONFIDENCE"
+      }
+    ]
+  },
+  {
+    "chunk_id": "2d644aac-c489-4609-b8b7-b800c5e300ea",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Supreme People's Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Council of Ministers",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Government",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Either Chamber of the Supreme People's Council",
+        "target": "Supreme People's Council",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Council of Ministers",
+        "target": "Supreme People's Council",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Government",
+        "target": "Supreme People's Council",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "0d6061dc-42a8-4b7f-b7bb-12e50cea286a",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "COUNCIL OF STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "COUNCIL OF MINISTERS",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "COUNCIL OF STATE",
+        "target": "COUNCIL OF MINISTERS",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "d21168f5-c5a9-4c9d-a4a3-5a4c4c07a18c",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Standing Committees",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Supreme People’s Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Federal Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Council of State",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Standing Committees",
+        "target": "Supreme People’s Council",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Standing Committees",
+        "target": "Federal Assembly",
+        "relation": "COMPOSED_OF"
+      },
+      {
+        "source": "Standing Committees",
+        "target": "Council of State",
+        "relation": "COMPOSED_OF"
+      },
+      {
+        "source": "Standing Committees",
+        "target": "Secretary",
+        "relation": "ELECTED_BY"
+      },
+      {
+        "source": "Secretary",
+        "target": "Council of State",
+        "relation": "CHOSEN_FROM"
+      },
+      {
+        "source": "Standing Committees",
+        "target": "Minister in charge of the respective Department of the Government",
+        "relation": "PRESIDED_BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "2ac81e3c-da4e-4a3a-9ccf-433f13eeba31",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "FEDERAL LAWS",
+        "type": "LAW"
+      },
+      {
+        "name": "PROVINCIAL GOVERNMENT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "FEDERAL EXECUTIVE",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "FEDERAL LAWS",
+        "target": "PROVINCIAL GOVERNMENT",
+        "relation": "EXECUTED_BY"
+      },
+      {
+        "source": "FEDERAL LAWS",
+        "target": "FEDERAL EXECUTIVE",
+        "relation": "DIRECTION_FROM"
+      }
+    ]
+  },
+  {
+    "chunk_id": "132dd216-09b7-49b1-b595-0c2206e56c40",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Provinces",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Constitution",
+        "type": "LAWS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Provinces",
+        "target": "Constitution",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "e3613929-d09e-4468-b8f0-26c74fb0efc0",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "PROVINCES",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "FEDERAL UNION OF INDIA",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "PROVINCES",
+        "target": "FEDERAL UNION OF INDIA",
+        "relation": "FORMING PART OF"
+      },
+      {
+        "source": "PROVINCES",
+        "target": "UNRESTRICTED NATURE OF THEIR AUTONOMY",
+        "relation": "EXPRESSION OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "fb23c1da-4921-443d-b3ce-5cbe094b1d17",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Provincial People’s Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "governor",
+        "type": "PERSON"
+      },
+      {
+        "name": "Deputies of the People",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Provincial People’s Council",
+        "target": "governor",
+        "relation": "COMPOSED_OF"
+      },
+      {
+        "source": "Provincial People’s Council",
+        "target": "Deputies of the People",
+        "relation": "COMPOSED_OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "8799178f-f829-43bc-ad8f-5fd056be6911",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Provincial People's Councils",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "No division of power",
+        "target": "Provincial People's Councils",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Legislative powers",
+        "target": "Provincial People's Councils",
+        "relation": "VESTED"
+      },
+      {
+        "source": "Executive powers",
+        "target": "Provincial People's Councils",
+        "relation": "VESTED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "92e6d041-f6ee-43ee-9273-d7a00541d670",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "GOVERNOR",
+        "type": "PERSON"
+      },
+      {
+        "name": "PROVINCE",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "GOVERNOR",
+        "target": "PROVINCE",
+        "relation": "CHIEF_EXECUTIVE_OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "23f29927-7a64-4ae2-b601-c7149cffac15",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "GOVERNOR",
+        "type": "PERSON"
+      },
+      {
+        "name": "PROVINCE",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "GOVERNOR",
+        "target": "PROVINCE",
+        "relation": "ELECTED_BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "e66eae9d-0bd0-4f39-98cf-7a92790c8eaa",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "GOVERNOR",
+        "type": "PERSON"
+      },
+      {
+        "name": "CITIZEN",
+        "type": "PERSON"
+      },
+      {
+        "name": "PROVINCE",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "GOVERNOR",
+        "target": "PROVINCE",
+        "relation": "ELECTED_BY"
+      },
+      {
+        "source": "CITIZEN",
+        "target": "GOVERNOR",
+        "relation": "ELIGIBLE_FOR_ELECTION"
+      }
+    ]
+  },
+  {
+    "chunk_id": "1327e5c2-f90c-4e9f-a0ed-3c6fd8825bfc",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Provincial People’s Council",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": []
+  },
+  {
+    "chunk_id": "4034870c-ea2f-4fd4-885e-e098807ba162",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Deputies",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "province",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "towns and cities",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Deputies",
+        "target": "province",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Deputies",
+        "target": "towns and cities",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "cbc84a75-34b7-477f-8393-f695cc810b4c",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "PROVINCIAL PEOPLE’S COUNCIL",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PEOPLE’S COMMITTEES",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "THE DEPUTIES TO THE PROVINCIAL PEOPLE’S COUNCIL",
+        "target": "PEOPLE’S COMMITTEES",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "ELECTORAL ROLLS",
+        "target": "PEOPLE’S COMMITTEES",
+        "relation": "PREPARED BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "7c97996d-1c3c-4587-9fac-f8c5d06f068b",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Provincial People's Council",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Deputies of the Provincial People’s Council",
+        "target": "Provincial People's Council",
+        "relation": "MEMBER_OF"
+      },
+      {
+        "source": "Deputies of the Provincial People’s Council",
+        "target": "four years",
+        "relation": "ELECTED_EVERY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "2a43cdeb-6773-4781-acbf-3c1c38e7cba5",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Provincial People’s Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Deputies",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Provincial People’s Council",
+        "target": "Deputies",
+        "relation": "MEET_WITH_ELECTED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "ef88a00a-374e-47e1-97f4-c5bb80ea3f7b",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Provincial People’s Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Federal Assembly",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Provincial People’s Council",
+        "target": "Federal Assembly",
+        "relation": "RESERVED_FOR"
+      }
+    ]
+  },
+  {
+    "chunk_id": "138ed717-01cf-4ff8-87c0-95d63bfa7f27",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "PROVINCIAL LAWS",
+        "type": "LAWS"
+      },
+      {
+        "name": "CONSTITUTION",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "PROVINCIAL LAWS",
+        "target": "CONSTITUTION",
+        "relation": "ACCORDING TO"
+      }
+    ]
+  },
+  {
+    "chunk_id": "7f702c85-246a-4370-87b3-7fd259ccbf01",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Governor",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Provincial Council of Ministers",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Other members of the Provincial People’s Council",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Governor",
+        "target": "RIGHT OF PROPOSING LEGISLATION",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Provincial Council of Ministers",
+        "target": "RIGHT OF PROPOSING LEGISLATION",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Other members of the Provincial People’s Council",
+        "target": "RIGHT OF PROPOSING LEGISLATION",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "db38ede9-a444-4e09-99b4-00b2ae7781d5",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Local People’s Committees",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Provincial Legislature",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Governor",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Local People’s Committees",
+        "target": "Provincial Legislature",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Governor",
+        "target": "Provincial Legislature",
+        "relation": "SUBMIT_TO"
+      }
+    ]
+  },
+  {
+    "chunk_id": "9c0ec19c-53de-41b4-b578-0ba4e2c1be8f",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "GOVERNOR",
+        "type": "PERSON"
+      },
+      {
+        "name": "PROvincial People’s Council",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "GOVERNOR",
+        "target": "PROvincial People’s Council",
+        "relation": "SIGN AND PROMULGATE LAWS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "388b13f5-a865-44d1-b9e5-83999bf0d00a",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Provincial Council of Ministers",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Provincial People’s Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Governor",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Provincial Council of Ministers",
+        "target": "Provincial People’s Council",
+        "relation": "FORMED_BY"
+      },
+      {
+        "source": "Provincial Council of Ministers",
+        "target": "Governor",
+        "relation": "CHARGED_BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "37a9936a-6aa1-4ce2-9cb8-7e6c6f052b1d",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Provincial Council of Ministers",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Provincial People’s Council",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Provincial Council of Ministers",
+        "target": "Provincial People’s Council",
+        "relation": "MEMBER_OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "5cd34d68-4d6c-4771-90d8-be41444691c1",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "COUNCIL OF MINISTERS",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PROVINCIAL PEOPLE’S COUNCIL",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "COUNCIL OF MINISTERS",
+        "target": "PROVINCIAL PEOPLE’S COUNCIL",
+        "relation": "RESPONSIBLE TO"
+      },
+      {
+        "source": "COUNCIL OF MINISTERS",
+        "target": "PROVINCIAL PEOPLE’S COUNCIL",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "a12d0a93-ef23-4a53-acf7-2e2726c47d77",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "COUNCIL OF MINISTERS",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PROVINCIAL PEOPLE’S COUNCIL",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "COUNCIL OF MINISTERS",
+        "target": "PROVINCIAL PEOPLE’S COUNCIL",
+        "relation": "RESIGNS_ON"
+      },
+      {
+        "source": "PROVINCIAL PEOPLE’S COUNCIL",
+        "target": "COUNCIL OF MINISTERS",
+        "relation": "VOTE_OF_NO_CONFIDENCE_AGAINST"
+      }
+    ]
+  },
+  {
+    "chunk_id": "12018bc1-6fc2-46b7-9da0-5d06e62a5f91",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Governor",
+        "type": "PERSON"
+      },
+      {
+        "name": "Council of Ministers",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Governor",
+        "target": "Council of Ministers",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "6d1b5dda-7b9e-48aa-a5bd-440bd6da2520",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Governor",
+        "type": "PERSON"
+      },
+      {
+        "name": "Provincial People’s Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Council of Ministers",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Local People’s Committees",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Provincial Electorate",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Governor",
+        "target": "Provincial People’s Council",
+        "relation": "MAY DISSOLVE"
+      },
+      {
+        "source": "Council of Ministers",
+        "target": "Provincial People’s Council",
+        "relation": "COMMAND MAJORITY"
+      },
+      {
+        "source": "Local People’s Committees",
+        "target": "Provincial Electorate",
+        "relation": "REPRESENTING MAJORITY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "dbf054fb-f3d9-45ee-aa8f-945cf867ffbe",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Provincial People's Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Standing Committees",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Minister in charge of the respective department",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Provincial People's Council",
+        "target": "Standing Committees",
+        "relation": "ELECTS"
+      },
+      {
+        "source": "Standing Committees",
+        "target": "Minister in charge of the respective department",
+        "relation": "MEETS_WITH"
+      }
+    ]
+  },
+  {
+    "chunk_id": "4aaf2f62-a249-4a64-9989-279cef8a201c",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "COUNCIL OF MINISTERS",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "STANDING COMMITTEES",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "ALL PROPOSED LEGISLATIONS",
+        "target": "COUNCIL OF MINISTERS",
+        "relation": "PLACED BY"
+      },
+      {
+        "source": "ALL PROPOSED LEGISLATIONS",
+        "target": "STANDING COMMITTEES",
+        "relation": "SUBMITTED TO FOR CONSIDERATION AND RECOMMENDATION"
+      }
+    ]
+  },
+  {
+    "chunk_id": "ed55e6d0-4a25-4a7b-a279-aa952a2b87a0",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "People's Committees",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Provincial People's Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Governor",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "People's Committees",
+        "target": "Deputy",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Provincial People's Council",
+        "target": "Deputy",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Governor",
+        "target": "demand for recall",
+        "relation": "SUBMIT"
+      }
+    ]
+  },
+  {
+    "chunk_id": "312be532-78b5-4c19-ba2e-cfa5ec396c69",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Provincial People’s Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Governor",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Forty per cent of the members of the Provincial People’s Council",
+        "target": "Governor",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Governor",
+        "target": "general Referendum",
+        "relation": "SUBMIT TO"
+      }
+    ]
+  },
+  {
+    "chunk_id": "69414f84-6461-4901-8193-2154fb1807a0",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "FEDERAL UNION OF INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "SUPERIOR FEDERAL COURT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "COUNCIL OF THE FEDERAL UNION",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "FEDERAL UNION OF INDIA",
+        "target": "SUPERIOR FEDERAL COURT",
+        "relation": "DISPUTE_REFERRAL"
+      },
+      {
+        "source": "COUNCIL OF THE FEDERAL UNION",
+        "target": "SUPERIOR FEDERAL COURT",
+        "relation": "VERDICT_AUTHORITY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "321c4b9c-c836-49d8-8d9e-610f61f3f212",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "CONSTITUTION",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      }
+    ],
+    "relationships": []
+  },
+  {
+    "chunk_id": "645b7b54-7bf5-4bb8-a214-1f4bae1a02e4",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Federal Union of India",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Non-Federated Province",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Economically, the Federal Union of India and every Non-Federated Province is a Co-operative Commonwealth.",
+        "target": "Federal Union of India",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Economically, the Federal Union of India and every Non-Federated Province is a Co-operative Commonwealth.",
+        "target": "Non-Federated Province",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "a7a1f738-b0f2-46cc-bbef-3e880718ef46",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "PEOPLE",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "ARTICLE l05",
+        "target": "PEOPLE",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "c3d0dce9-9c72-4c29-b973-f7a1551533e1",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "THE ENTIRE PRODUCTION",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "AGRICULTURAL AS WELL AS INDUSTRIAL",
+        "type": "CONSTITUTIONAL CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "THE ENTIRE PRODUCTION",
+        "target": "AGRICULTURAL AS WELL AS INDUSTRIAL",
+        "relation": "PLANNED WITH THAT PURPOSE"
+      }
+    ]
+  },
+  {
+    "chunk_id": "b6efa69c-b2fd-4018-b0ae-8011298dd6ca",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATUTORY PLANNING AUTHORITY",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "FEDERAL UNION OF INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "NON-FEDERATED PROVINCES",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "STATUTORY PLANNING AUTHORITY",
+        "target": "FEDERAL UNION OF INDIA",
+        "relation": "BELONGS_TO"
+      },
+      {
+        "source": "STATUTORY PLANNING AUTHORITY",
+        "target": "NON-FEDERATED PROVINCES",
+        "relation": "BELONGS_TO"
+      }
+    ]
+  },
+  {
+    "chunk_id": "4bf424d8-923f-4c62-a1a0-ebd73885eb34",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Supreme People’s Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Provincial People’s Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Planning Authority",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "State Bank",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Supreme People’s Council",
+        "target": "Planning Authority",
+        "relation": "CONSTITUTES"
+      },
+      {
+        "source": "Provincial People’s Council",
+        "target": "Planning Authority",
+        "relation": "CONSTITUTES"
+      },
+      {
+        "source": "State Bank",
+        "target": "Planning Authority",
+        "relation": "REPRESENTED_IN"
+      }
+    ]
+  },
+  {
+    "chunk_id": "08d73483-df1a-428a-b990-18cbb6f60b40",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Planning Authority",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Federal Union",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Council of State",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Planning Authority",
+        "target": "Federal Union",
+        "relation": "SUBORDINATED_TO"
+      },
+      {
+        "source": "Planning Authority",
+        "target": "Council of State",
+        "relation": "FUNCTIONS_UNDER_ADVICE_AND_SUPERVISION_OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "4f38a1fe-8718-4bc6-8fe3-e0b991ef02cd",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "FEDERAL GOVERNMENT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PROvincial Government",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "FEDERAL GOVERNMENT",
+        "target": "ECONOMIC DEVELOPMENT",
+        "relation": "ENTITLED TO FINANCE"
+      },
+      {
+        "source": "PROvincial Government",
+        "target": "ECONOMIC DEVELOPMENT",
+        "relation": "ENTITLED TO FINANCE"
+      }
+    ]
+  },
+  {
+    "chunk_id": "d4a2f797-73bf-4dbc-8083-7230f79d5416",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "FEDERAL GOVERNMENT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PROvincial Governments",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "INDUSTRIAL ENTERPRISES",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "COLLECTIVE AGRICULTURAL ENTERPRISES",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "FEDERAL GOVERNMENT",
+        "target": "INDUSTRIAL ENTERPRISES",
+        "relation": "EXTENDING CREDIT"
+      },
+      {
+        "source": "PROvincial Governments",
+        "target": "COLLECTIVE AGRICULTURAL ENTERPRISES",
+        "relation": "EXTENDING CREDIT"
+      }
+    ]
+  },
+  {
+    "chunk_id": "10694599-ab19-4b65-9fc6-b85c07c33727",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PEOPLE",
+        "type": "CONSTITUTIONAL_CONCEPTS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "STATE",
+        "target": "PEOPLE",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "c0b18e36-572b-4d14-b9fa-a45e46348c61",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "PEOPLE",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      }
+    ],
+    "relationships": []
+  },
+  {
+    "chunk_id": "71182438-eed4-4886-90d7-c48f705f045e",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "FEDERAL GOVERNMENT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PROVINCIAL GOVERNMENT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "STATE BANK",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "FEDERAL GOVERNMENT",
+        "target": "PROVINCIAL GOVERNMENT",
+        "relation": "INCLUSIVE_OF"
+      },
+      {
+        "source": "STATE BANK",
+        "target": "COMPENSATION BONDS",
+        "relation": "ISSUER"
+      }
+    ]
+  },
+  {
+    "chunk_id": "60f428f4-4a50-4ec4-b947-097767d85d95",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "ARTICLE 17",
+        "type": "ARTICLE"
+      },
+      {
+        "name": "FREEDOM OF ENTERPRISE",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "PEOPLE",
+        "type": "PEOPLE"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "ARTICLE 17",
+        "target": "FREEDOM OF ENTERPRISE",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "ARTICLE 17",
+        "target": "PEOPLE",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "39248598-c6c5-404a-b49a-81be1739d687",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "ARTICLE l18",
+        "type": "ARTICLE"
+      },
+      {
+        "name": "State",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "private investment",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "prices of goods produced or exchanged",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "remuneration and working conditions of wage-earners and salaried employees",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "private enterprises",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "fundamental rights",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "directive principles of state policy",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "socio economic rights",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "workers",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "wage",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "working conditions",
+        "type": "CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "ARTICLE l18",
+        "target": "State",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "ARTICLE l18",
+        "target": "private investment",
+        "relation": "REGULATES"
+      },
+      {
+        "source": "ARTICLE l18",
+        "target": "prices of goods produced or exchanged",
+        "relation": "REGULATES"
+      },
+      {
+        "source": "ARTICLE l18",
+        "target": "remuneration and working conditions of wage-earners and salaried employees",
+        "relation": "REGULATES"
+      },
+      {
+        "source": "ARTICLE l18",
+        "target": "private enterprises",
+        "relation": "TAKEOVER"
+      },
+      {
+        "source": "ARTICLE l18",
+        "target": "fundamental rights",
+        "relation": "MENTIONS"
+      },
+      {
+        "source": "ARTICLE l18",
+        "target": "directive principles of state policy",
+        "relation": "MENTIONS"
+      },
+      {
+        "source": "ARTICLE l18",
+        "target": "socio economic rights",
+        "relation": "MENTIONS"
+      },
+      {
+        "source": "ARTICLE l18",
+        "target": "workers",
+        "relation": "MENTIONS"
+      },
+      {
+        "source": "ARTICLE l18",
+        "target": "wage",
+        "relation": "MENTIONS"
+      },
+      {
+        "source": "ARTICLE l18",
+        "target": "working conditions",
+        "relation": "MENTIONS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "0d6790db-85cc-4bae-ba78-00cb0a312ffc",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Supreme Federal Court",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Chief Justice of India",
+        "type": "PERSON"
+      },
+      {
+        "name": "Federal Union of India",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Supreme Federal Court",
+        "target": "Chief Justice of India",
+        "relation": "MEMBER_OF"
+      },
+      {
+        "source": "Supreme Federal Court",
+        "target": "Federal Union of India",
+        "relation": "HEADQUARTERS_IN"
+      }
+    ]
+  },
+  {
+    "chunk_id": "98409036-2173-49b9-8d63-0a6c25fb14ce",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Chief Justice of India",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Governor General",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Chief Justice of India",
+        "target": "Governor General",
+        "relation": "APPOINTED_BY"
+      },
+      {
+        "source": "other federal judges",
+        "target": "Governor General",
+        "relation": "APPOINTED_BY"
+      },
+      {
+        "source": "other federal judges",
+        "target": "Chief Justice of India",
+        "relation": "CONSULTED_WITH"
+      }
+    ]
+  },
+  {
+    "chunk_id": "9da0f124-bbbe-4ed0-ae32-b02587739397",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Chief Justice of India",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "federal judges",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Supreme People’s Council",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Chief Justice of India",
+        "target": "federal judges",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Supreme People’s Council",
+        "target": "Chief Justice of India",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "a31b24e9-9132-4dd9-9036-caafbf52620f",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Supreme Federal Court",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Federal Government",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Provincial Governments",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "federated Provinces",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Constitution",
+        "type": "LAWS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Supreme Federal Court",
+        "target": "Federal Government",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Supreme Federal Court",
+        "target": "Provincial Governments",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Supreme Federal Court",
+        "target": "federated Provinces",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Federal Government",
+        "target": "Constitution",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Provincial Governments",
+        "target": "Constitution",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "091a03fc-c823-4204-a9d2-753752a64bf0",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Supreme Federal Court",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Provincial High Courts",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Supreme Federal Court",
+        "target": "Provincial High Courts",
+        "relation": "HEAR_APPEALS_FROM"
+      }
+    ]
+  },
+  {
+    "chunk_id": "37a91dfa-5717-4f96-89d0-ff52e0523eb8",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Provincial High Courts",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Indian Provinces",
+        "type": "LOCATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Provincial High Courts",
+        "target": "Indian Provinces",
+        "relation": "EXIST IN"
+      }
+    ]
+  },
+  {
+    "chunk_id": "2d834b1b-034b-4c7f-971d-db5288274caa",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "PROVINCIAL HIGH COURT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CHIEF JUSTICE",
+        "type": "PERSON"
+      },
+      {
+        "name": "JUDGES",
+        "type": "PERSON"
+      },
+      {
+        "name": "PROVINCIAL GOVERNOR",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "PROVINCIAL HIGH COURT",
+        "target": "CHIEF JUSTICE",
+        "relation": "CONSTITUTES"
+      },
+      {
+        "source": "PROVINCIAL HIGH COURT",
+        "target": "JUDGES",
+        "relation": "CONSTITUTES"
+      },
+      {
+        "source": "PROVINCIAL GOVERNOR",
+        "target": "CHIEF JUSTICE",
+        "relation": "APPOINTS"
+      },
+      {
+        "source": "PROVINCIAL GOVERNOR",
+        "target": "JUDGES",
+        "relation": "APPOINTS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "42832a86-2f9a-4ad3-a886-f6889f536294",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Chief Justice",
+        "type": "PERSON"
+      },
+      {
+        "name": "judges",
+        "type": "PERSON"
+      },
+      {
+        "name": "Provincial High Court",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Provincial People’s Council",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Chief Justice and judges of the Provincial High Court",
+        "target": "Provincial People’s Council",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "e9417011-08c7-4e8a-a4fd-a1cc8846d427",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "People's Committees",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "CONSTITUTION",
+        "target": "People's Committees",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "68a27cdc-a804-4d3e-80fc-370e97cac1c4",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "LOCAL SELF-GOVERNMENT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "SANITATION AND PUBLIC HEALTH",
+        "type": "CONSTITUTIONAL_CONCEPTS"
+      },
+      {
+        "name": "PRIMARY AND SECONDARY EDUCATION (UP TO MATRICULATION)",
+        "type": "CONSTITUTIONAL_CONCEPTS"
+      },
+      {
+        "name": "BUILDING AND MAINTAINING ROADS AND PUBLIC PARKS",
+        "type": "CONSTITUTIONAL_CONCEPTS"
+      },
+      {
+        "name": "PROMOTION OF THE ORGANISATION OF PRODUCERS AND CONSUMERS’ CO-OPERATIVE SOCIETIES",
+        "type": "CONSTITUTIONAL_CONCEPTS"
+      },
+      {
+        "name": "MAINTENANCE OF PUBLIC ORDER (LOCAL POLICE ADMINISTRATION)",
+        "type": "CONSTITUTIONAL_CONCEPTS"
+      },
+      {
+        "name": "ADMINISTRATION OF LAW IN CASES OF PETTY CRIME",
+        "type": "CONSTITUTIONAL_CONCEPTS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "THE FUNCTIONS OF LOCAL SELF-GOVERNMENT",
+        "target": "SANITATION AND PUBLIC HEALTH",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "THE FUNCTIONS OF LOCAL SELF-GOVERNMENT",
+        "target": "PRIMARY AND SECONDARY EDUCATION (UP TO MATRICULATION)",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "THE FUNCTIONS OF LOCAL SELF-GOVERNMENT",
+        "target": "BUILDING AND MAINTAINING ROADS AND PUBLIC PARKS",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "THE FUNCTIONS OF LOCAL SELF-GOVERNMENT",
+        "target": "PROMOTION OF THE ORGANISATION OF PRODUCERS AND CONSUMERS’ CO-OPERATIVE SOCIETIES",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "THE FUNCTIONS OF LOCAL SELF-GOVERNMENT",
+        "target": "MAINTENANCE OF PUBLIC ORDER (LOCAL POLICE ADMINISTRATION)",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "THE FUNCTIONS OF LOCAL SELF-GOVERNMENT",
+        "target": "ADMINISTRATION OF LAW IN CASES OF PETTY CRIME",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "ae40d0e5-ee6f-4af8-9019-134ef7771e45",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "LOCAL SELF-GOVERNMENT ORGANS",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PROVINCIAL GOVERNMENT",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "LOCAL SELF-GOVERNMENT ORGANS",
+        "target": "PROVINCIAL GOVERNMENT",
+        "relation": "PERFORM_FUNCTIONS_ON_BEHALF_OF"
+      },
+      {
+        "source": "LOCAL SELF-GOVERNMENT ORGANS",
+        "target": "PROVINCIAL GOVERNMENT",
+        "relation": "INITIATE_FUNCTIONS_INDEPENDENTLY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "120a585e-caff-4339-bad3-7a2a85b22b49",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "People's Committees",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Provincial Government",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "People's Committees",
+        "target": "Provincial Government",
+        "relation": "SUBJECT TO APPROVAL BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "21e77203-661b-47bb-8832-4409905f1514",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "SUB-DIVISIONAL AND DISTRICT PEOPLE'S COMMITTEES",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "ARTICLE 31",
+        "target": "SUB-DIVISIONAL AND DISTRICT PEOPLE'S COMMITTEES",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "bb7f3e98-148e-4307-acf8-e399d25b4062",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "SUB-DIVISIONAL PEOPLE’S COMMITTEE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "LOCAL PEOPLE’S COMMITTEE",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "SUB-DIVISIONAL PEOPLE’S COMMITTEE",
+        "target": "LOCAL PEOPLE’S COMMITTEE",
+        "relation": "COMPOSED_OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "0f5913c7-d54d-4c36-a7da-9391035ba365",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "SUB-DIVISIONAL OFFICER",
+        "type": "PERSON"
+      },
+      {
+        "name": "SUB-DIVISIONAL PEOPLE’S COMMITTEE",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "SUB-DIVISIONAL OFFICER",
+        "target": "SUB-DIVISIONAL PEOPLE’S COMMITTEE",
+        "relation": "MEMBER_OF"
+      },
+      {
+        "source": "SUB-DIVISIONAL PEOPLE’S COMMITTEE",
+        "target": "LOCAL SELF-GOVERNMENT",
+        "relation": "FUNCTIONS_AS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "fb7afa76-795d-4f57-9bfa-17e58f4bde60",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "District People's Committee",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "sub-divisional People's Committee",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "District People's Committee",
+        "target": "sub-divisional People's Committee",
+        "relation": "COMPOSED_OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "669b9871-f018-47e1-9fae-80c903ac40b1",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "DISTRICT OFFICER",
+        "type": "PERSON"
+      },
+      {
+        "name": "DISTRICT PEOPLE'S COMMITTEE",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "DISTRICT OFFICER",
+        "target": "DISTRICT PEOPLE'S COMMITTEE",
+        "relation": "MEMBER_OF"
+      },
+      {
+        "source": "DISTRICT OFFICER",
+        "target": "DISTRICT PEOPLE'S COMMITTEE",
+        "relation": "ADVISORY_TO"
+      }
+    ]
+  },
+  {
+    "chunk_id": "851c8109-f018-417a-84cd-78b651565932",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "SUB-DIVISIONAL AND DISTRICT PEOPLE'S COMMITTEES",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "LOCAL PEOPLES' COMMITTEES",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "SUB-DIVISIONAL AND DISTRICT PEOPLE'S COMMITTEES",
+        "target": "LOCAL PEOPLES' COMMITTEES",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "SUB-DIVISIONAL AND DISTRICT PEOPLE'S COMMITTEES",
+        "target": "LOCAL PEOPLES' COMMITTEES",
+        "relation": "SUPERSEDED_BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "71abcf71-d9ca-497e-b424-d7970e5c4107",
+    "source_file": "Constitution of Free India  A Draft MN Roy 1944.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "local People's Committees",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "sovereign right",
+        "target": "local People's Committees",
+        "relation": "VESTED IN"
+      }
+    ]
+  }
+]

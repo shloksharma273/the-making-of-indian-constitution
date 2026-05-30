@@ -1,0 +1,193 @@
+[
+  {
+    "chunk_id": "15325bd3-12dd-485e-abb0-6339a044c074",
+    "source_file": "Government of India Act 1919.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "GOVERNOR",
+        "type": "PERSON"
+      },
+      {
+        "name": "LIEUTENANT-GOVERNOR",
+        "type": "PERSON"
+      },
+      {
+        "name": "MINISTER",
+        "type": "PERSON"
+      },
+      {
+        "name": "GOVERNOR-GENERAL IN LEGISLATIVE COUNCIL",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "INDIAN LEGISLATURE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "LOCAL GOVERNMENT",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "LOCAL LEGISLATIVE COUNCIL",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "LOCAL LEGISLATURE",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "GOVERNOR-GENERAL OF INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GOVERNOR OF BENGAL, MADRAS, BOMBAY AND THE UNITED-PROVINCES",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "COMMANDER-IN-CHIEF OF HIS MAJESTY'S FORCES IN INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GOVERNOR OF THE PUNJAB BIHAR AND ORISSA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GOVERNOR OF THE CENTRAL PROVINCES",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GOVERNOR OF ASSAM",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "LIEUTENANT-GOVERNOR",
+        "type": "PERSON"
+      },
+      {
+        "name": "MEMBER OF THE GOVERNOR-GENERAL'S EXECUTIVE COUNCIL (OTHER THAN THE COMMANDER-IN-CHIEF)",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "MEMBER OF THE EXECUTIVE COUNCIL OF THE GOVERNOR OF BENGAL, MADRAS, BOMBAY, AND THE UNITED PROVINCES",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "MEMBER OF THE EXECUTIVE COUNCIL OF THE GOVERNOR OF THE PUNJAB AND BIHAR AND ORISSA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "MEMBER OF THE EXECUTIVE COUNCIL OF THE GOVERNOR OF THE CENTRAL PROVINCES",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "MEMBER OF THE EXECUTIVE COUNCIL OF THE GOVERNOR OF ASSAM",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "SECRETARY",
+        "type": "PERSON"
+      },
+      {
+        "name": "JOINT SECRETARY",
+        "type": "PERSON"
+      },
+      {
+        "name": "DEPUTY SECRETARY",
+        "type": "PERSON"
+      },
+      {
+        "name": "ACCOUNTANTS GENERAL",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "MEMBER OF THE BOARD OF REVENUE",
+        "type": "PERSON"
+      },
+      {
+        "name": "FINANCIAL COMMISSIONER",
+        "type": "PERSON"
+      },
+      {
+        "name": "COMMISSIONER OF REVENUE",
+        "type": "PERSON"
+      },
+      {
+        "name": "COMMISSIONER OF CUSTOMS",
+        "type": "PERSON"
+      },
+      {
+        "name": "OPIUM AGENT",
+        "type": "PERSON"
+      },
+      {
+        "name": "SECRETARY IN EVERY DEPARTMENT EXCEPT THE PUBLIC WORKS OR MARINE DEPARTMENT",
+        "type": "PERSON"
+      },
+      {
+        "name": "SECRETARY TO THE BOARD OF REVENUE",
+        "type": "PERSON"
+      },
+      {
+        "name": "DISTRICT OR SESSIONS JUDGE",
+        "type": "PERSON"
+      },
+      {
+        "name": "ADDITIONAL DISTRICT OR SESSIONS JUDGE",
+        "type": "PERSON"
+      },
+      {
+        "name": "DISTRICT MAGISTRATE",
+        "type": "PERSON"
+      },
+      {
+        "name": "COLLECTOR OF REVENUE OR CHIEF REVENUE OFFICER OF A DISTRICT",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "GOVERNOR-GENERAL IN LEGISLATIVE COUNCIL",
+        "target": "INDIAN LEGISLATURE",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "LOCAL GOVERNMENT",
+        "target": "INDIAN LEGISLATURE",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "LOCAL LEGISLATIVE COUNCIL",
+        "target": "INDIAN LEGISLATURE",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "LOCAL LEGISLATURE",
+        "target": "INDIAN LEGISLATURE",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "2c4f88a4-93e2-429e-aa03-e89f3b0a3220",
+    "source_file": "Government of India Act 1919.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "COUNCIL OF STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GOVERNOR-GENERAL",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "COUNCIL OF STATE",
+        "target": "GOVERNOR-GENERAL",
+        "relation": "MENTIONED"
+      }
+    ]
+  }
+]

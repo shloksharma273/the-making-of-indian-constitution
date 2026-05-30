@@ -1,0 +1,1115 @@
+[
+  {
+    "chunk_id": "dc4abdf5-efb9-4371-8f62-ac69e5a88858",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "PROVINCIAL LEGISLATIVE COUNCILS",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": []
+  },
+  {
+    "chunk_id": "b5a1e585-54ce-4255-92ec-718ee323f878",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "MAJOR PROVINCES",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "MINOR PROVINCES",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": []
+  },
+  {
+    "chunk_id": "dfac5ec1-6980-462a-af03-5b0d17697525",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "COUNCILS",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PEOPLE",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "COUNCILS",
+        "target": "PEOPLE",
+        "relation": "ELECTED_BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "7c48d1e7-f7a7-4352-a014-b9f2700d54fb",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Mohamedans",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "Provincial Legislative Councils",
+        "type": "ORGANIZATIONS"
+      },
+      {
+        "name": "Punjab",
+        "type": "LOCATION"
+      },
+      {
+        "name": "United Provinces",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Bengal",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Bihar",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Central Provinces",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Madras",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Bombay",
+        "type": "LOCATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Mohamedans",
+        "target": "Provincial Legislative Councils",
+        "relation": "REPRESENTED_BY"
+      },
+      {
+        "source": "Punjab",
+        "target": "Provincial Legislative Councils",
+        "relation": "PART_OF"
+      },
+      {
+        "source": "United Provinces",
+        "target": "Provincial Legislative Councils",
+        "relation": "PART_OF"
+      },
+      {
+        "source": "Bengal",
+        "target": "Provincial Legislative Councils",
+        "relation": "PART_OF"
+      },
+      {
+        "source": "Bihar",
+        "target": "Provincial Legislative Councils",
+        "relation": "PART_OF"
+      },
+      {
+        "source": "Central Provinces",
+        "target": "Provincial Legislative Councils",
+        "relation": "PART_OF"
+      },
+      {
+        "source": "Madras",
+        "target": "Provincial Legislative Councils",
+        "relation": "PART_OF"
+      },
+      {
+        "source": "Bombay",
+        "target": "Provincial Legislative Councils",
+        "relation": "PART_OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "77884e43-9216-456d-824c-cf2d9c17537b",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Provincial Government",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "President of the Legislative Council",
+        "type": "PERSON"
+      },
+      {
+        "name": "Council",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Provincial Government",
+        "target": "President of the Legislative Council",
+        "relation": "NOT HEAD"
+      },
+      {
+        "source": "Council",
+        "target": "President of the Legislative Council",
+        "relation": "RIGHT OF ELECTING"
+      }
+    ]
+  },
+  {
+    "chunk_id": "2f649612-a13d-4f87-a898-89a11617d87c",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "MEMBER",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "RIGHT OF ASKING SUPPLEMENTARY QUESTIONS",
+        "target": "MEMBER PUTTING THE ORIGINAL QUESTION",
+        "relation": "NOT RESTRICTED TO"
+      },
+      {
+        "source": "RIGHT OF ASKING SUPPLEMENTARY QUESTIONS",
+        "target": "ANY OTHER MEMBER",
+        "relation": "ALLOWED TO BE EXERCISED BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "663278e8-3d11-4240-9aaf-93c5d5639e5d",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "CUSTOMS",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "POST",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "TELEGRAPH",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "MINT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "SALT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "OPIUM",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "RAILWAYS",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "ARMY",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "NAVY",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "INDIAN STATES",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "PROvincial Council",
+        "target": "RAILWAYS",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Provincial Council",
+        "target": "ARMY",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Provincial Council",
+        "target": "NAVY",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "ef7d8516-29c7-4eae-984e-b64f926cb215",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Provincial Council",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "A special meeting of the Provincial Council",
+        "target": "one-eighth of the members",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "bacb108d-3ec5-411a-bc52-07d74923ef62",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "BILL",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "MONEY BILL",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "COUNCIL",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GOVERNMENT",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "BILL",
+        "target": "COUNCIL",
+        "relation": "INTRODUCED_IN"
+      },
+      {
+        "source": "MONEY BILL",
+        "target": "BILL",
+        "relation": "EXCLUDED_FROM"
+      },
+      {
+        "source": "COUNCIL",
+        "target": "GOVERNMENT",
+        "relation": "REQUIRES_CONSENT_OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "ddb6ef30-71ac-48ee-b34e-2ba97864c12c",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "BILLS",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "PROvincial Legislatures",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Governor",
+        "type": "PERSON"
+      },
+      {
+        "name": "Governor-General",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "BILLS",
+        "target": "Provincial Legislatures",
+        "relation": "PASSED_BY"
+      },
+      {
+        "source": "BILLS",
+        "target": "Governor",
+        "relation": "RECEIVE_ASSENT_FROM"
+      },
+      {
+        "source": "Governor-General",
+        "target": "BILLS",
+        "relation": "VETOES"
+      }
+    ]
+  },
+  {
+    "chunk_id": "3bd59215-a612-41f5-9e21-82825cf871b5",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "MEMBERS",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": []
+  },
+  {
+    "chunk_id": "b662ab38-4c73-4f0d-8436-01fe8d903ee3",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Provincial Government",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Governor",
+        "type": "PERSON"
+      },
+      {
+        "name": "Indian Civil Service",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Provincial Government",
+        "target": "Governor",
+        "relation": "HEAD"
+      },
+      {
+        "source": "Governor",
+        "target": "Indian Civil Service",
+        "relation": "NOT_ORDINARILY_BELONGS_TO"
+      }
+    ]
+  },
+  {
+    "chunk_id": "a02ff30d-329d-4ea2-96ab-47203d263f9d",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "EXECUTIVE COUNCIL",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GOVERNOR",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "EXECUTIVE COUNCIL",
+        "target": "GOVERNOR",
+        "relation": "CONSTITUTES"
+      }
+    ]
+  },
+  {
+    "chunk_id": "4d07deca-9b53-4643-ba9a-84b94d84d8c7",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "INDIAN CIVIL SERVICE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "EXECUTIVE COUNCILS",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "INDIAN CIVIL SERVICE",
+        "target": "EXECUTIVE COUNCILS",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "3ba0d50e-5785-449f-81dc-1fb36519e8d9",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "EXECUTIVE COUNCIL",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "INDIANS",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "PROvincial Legislative Council",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "EXECUTIVE COUNCIL",
+        "target": "INDIANS",
+        "relation": "CONSISTS OF"
+      },
+      {
+        "source": "INDIANS",
+        "target": "PROvincial Legislative Council",
+        "relation": "ELECTED BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "2473a0ac-d7d8-4c2a-9d51-1a198d805382",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "IMPERIAL LEGISLATIVE COUNCIL",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": []
+  },
+  {
+    "chunk_id": "be23d520-2288-4761-a483-d7634e0db319",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Imperial Legislative Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Provincial Legislative Councils",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Imperial Legislative Council",
+        "target": "Provincial Legislative Councils",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Provincial Legislative Councils",
+        "target": "Imperial Legislative Council",
+        "relation": "FORMS_ELECTORATE_FOR"
+      }
+    ]
+  },
+  {
+    "chunk_id": "777ae9c6-467d-4211-b054-34768433dd45",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Mohammedan",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Indian elected members",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "Provinces",
+        "type": "LOCATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "One-third of the Indian elected members",
+        "target": "Mohammedan",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Indian elected members",
+        "target": "Provinces",
+        "relation": "ELECTED IN"
+      }
+    ]
+  },
+  {
+    "chunk_id": "1bafe0d4-8186-4365-b595-23c86eb8a67b",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "MEMBER",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "RIGHT OF ASKING SUPPLEMENTARY QUESTIONS",
+        "target": "MEMBER PUTTING THE ORIGINAL QUESTION",
+        "relation": "NOT RESTRICTED TO"
+      },
+      {
+        "source": "RIGHT OF ASKING SUPPLEMENTARY QUESTIONS",
+        "target": "ANY OTHER MEMBER",
+        "relation": "ALLOWED TO BE EXERCISED BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "054e6197-153d-46b4-bb12-508bddfb247f",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "COUNCIL",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "ONE-EIGHTH OF THE MEMBERS",
+        "target": "COUNCIL",
+        "relation": "REQUISITIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "995a53ef-3cc6-4be6-bf89-0a4c8a7df359",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "BILL",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "MONEY BILL",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "COUNCIL",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "EXECUTIVE GOVERNMENT",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "BILL",
+        "target": "COUNCIL",
+        "relation": "INTRODUCED_IN"
+      },
+      {
+        "source": "MONEY BILL",
+        "target": "BILL",
+        "relation": "EXCLUDED_FROM"
+      },
+      {
+        "source": "EXECUTIVE GOVERNMENT",
+        "target": "COUNCIL",
+        "relation": "REQUIRES_CONSENT_FOR"
+      }
+    ]
+  },
+  {
+    "chunk_id": "aac979dc-5a57-4761-a5f7-28d780437425",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "COUNCIL",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GOVERNOR-GENERAL",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "ALL BILLS",
+        "target": "COUNCIL",
+        "relation": "PASSED BY"
+      },
+      {
+        "source": "ALL BILLS",
+        "target": "GOVERNOR-GENERAL",
+        "relation": "RECEIVE ASSENT FROM"
+      }
+    ]
+  },
+  {
+    "chunk_id": "00df295a-7f5a-4287-ab04-643e9d245848",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "IMPERIAL LEGISLATIVE COUNCIL",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "ALL FINANCIAL PROPOSALS",
+        "target": "IMPERIAL LEGISLATIVE COUNCIL",
+        "relation": "SUBMITTED FOR VOTE"
+      },
+      {
+        "source": "BILLS",
+        "target": "IMPERIAL LEGISLATIVE COUNCIL",
+        "relation": "SUBMITTED FOR VOTE"
+      },
+      {
+        "source": "BUDGET AS A WHOLE",
+        "target": "IMPERIAL LEGISLATIVE COUNCIL",
+        "relation": "SUBMITTED FOR VOTE"
+      }
+    ]
+  },
+  {
+    "chunk_id": "0320b464-4965-40c9-89de-9ec39a28e190",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "IMPERIAL LEGISLATIVE COUNCIL",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "INDIA",
+        "type": "LOCATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "IMPERIAL LEGISLATIVE COUNCIL",
+        "target": "INDIA",
+        "relation": "CONTROLLING"
+      }
+    ]
+  },
+  {
+    "chunk_id": "73a1cdd4-4ad3-46f5-9524-dd8de64286a9",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Legislative Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Executive Government",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Governor-General in Council",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Legislative Council",
+        "target": "Executive Government",
+        "relation": "SHOULD BE BINDING ON"
+      },
+      {
+        "source": "Governor-General in Council",
+        "target": "Legislative Council",
+        "relation": "CAN VETO"
+      }
+    ]
+  },
+  {
+    "chunk_id": "2c337c57-ed24-43cf-8cfd-02caab66a8d3",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "ADJOURNMENT",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "MEMBERS",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "ADJOURNMENT",
+        "target": "MEMBERS",
+        "relation": "MUST_BE_SUPPORTED_BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "24b7c008-38a9-4c38-b0e9-40b0094ff5c4",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "CROWN",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PROvincial Legislative Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Imperial Legislative Council",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "CROWN",
+        "target": "Provincial Legislative Council",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "CROWN",
+        "target": "Imperial Legislative Council",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "e4dba2e8-2e13-4dc2-beb5-a2f8d59f3b47",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "IMPERIAL LEGISLATIVE COUNCIL",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GOVERNMENT OF INDIA",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "IMPERIAL LEGISLATIVE COUNCIL",
+        "target": "GOVERNMENT OF INDIA",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "4c51a5f6-8fff-4e09-8a14-3b03a0812ff5",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "INDIAN MEMBERS",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "ELECTED MEMBERS OF THE IMPERIAL LEGISLATIVE COUNCIL",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "INDIAN MEMBERS",
+        "target": "ELECTED MEMBERS OF THE IMPERIAL LEGISLATIVE COUNCIL",
+        "relation": "ELECTED BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "f259c06f-2e0c-4d4e-a2f8-d6cca48af5df",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "INDIAN CIVIL SERVICE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "EXECUTIVE COUNCIL OF THE GOVERNOR-GENERAL",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "INDIAN CIVIL SERVICE",
+        "target": "EXECUTIVE COUNCIL OF THE GOVERNOR-GENERAL",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "3f337090-39ae-4748-8ea7-c79abfd39c1d",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "GOVERNMENT OF INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "IMPERIAL LEGISLATIVE COUNCIL",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "GOVERNMENT OF INDIA",
+        "target": "IMPERIAL LEGISLATIVE COUNCIL",
+        "relation": "SUBJECT TO"
+      },
+      {
+        "source": "GOVERNMENT OF INDIA",
+        "target": "EXISTING INTERESTS",
+        "relation": "CONSIDERED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "276dc0b6-01fe-4e38-9538-390591d50398",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "GOVERNMENT OF INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PROVINCIAL GOVERNMENTS",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "GOVERNMENT OF INDIA",
+        "target": "PROVINCIAL GOVERNMENTS",
+        "relation": "SUPERVISION"
+      },
+      {
+        "source": "GOVERNMENT OF INDIA",
+        "target": "PROVINCIAL GOVERNMENTS",
+        "relation": "SUPERINTENDENCE"
+      }
+    ]
+  },
+  {
+    "chunk_id": "05555da2-4ab3-45db-b103-6bdab0cecc3e",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "GOVERNMENT OF INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "SECRETARY OF STATE",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "GOVERNMENT OF INDIA",
+        "target": "SECRETARY OF STATE",
+        "relation": "INDEPENDENT_OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "db6ab16c-d801-4822-8cfe-bd64e42f788c",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "GOVERNMENT OF INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "SECRETARY OF STATE IN COUNCIL",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "SYSTEM OF INDEPENDENT AUDIT",
+        "target": "GOVERNMENT OF INDIA",
+        "relation": "INSTITUTED FOR"
+      },
+      {
+        "source": "SECRETARY OF STATE IN COUNCIL",
+        "target": "SYSTEM OF INDEPENDENT AUDIT",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "b885a2a2-06da-400c-b714-54cb6b6d72dc",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "SECRETARY OF STATE",
+        "type": "PERSON"
+      },
+      {
+        "name": "GOVERNMENT OF INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "SECRETARY OF STATE FOR THE COLONIES",
+        "type": "PERSON"
+      },
+      {
+        "name": "GOVERNMENTS OF SELF-GOVERNING DOMINIONS",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "SECRETARY OF STATE",
+        "target": "GOVERNMENT OF INDIA",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "SECRETARY OF STATE FOR THE COLONIES",
+        "target": "GOVERNMENTS OF SELF-GOVERNING DOMINIONS",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "5f168320-6a05-4c34-9641-513cfca135f8",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "SECRETARY OF STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "INDIA",
+        "type": "LOCATION"
+      },
+      {
+        "name": "EMPIRE",
+        "type": "CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "SECRETARY OF STATE",
+        "target": "INDIA",
+        "relation": "ASSISTED_BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "4bac5759-6992-4b29-8737-e76ea63ccce5",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "India",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Dominions",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "India",
+        "target": "Council or other body",
+        "relation": "REPRESENTED"
+      },
+      {
+        "source": "India",
+        "target": "Dominions",
+        "relation": "EQUAL RIGHTS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "226e69d1-6832-4fa9-a410-cef8aaa0044e",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "INDIANS",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "HIS MAJESTY THE KING",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "INDIANS",
+        "target": "HIS MAJESTY THE KING",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "5ac78bf0-e169-42e3-9fed-c4e65191183a",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "HIS MAJESTY",
+        "type": "PERSON"
+      },
+      {
+        "name": "INDIANS",
+        "type": "PEOPLE"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "THE MILITARY AND NAVAL SERVICES OF HIS MAJESTY",
+        "target": "INDIANS",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "a5e2de94-35a0-4991-890c-e706d70c0143",
+    "source_file": "The Congress-League Scheme 1916 INC  AIML.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "EXECUTIVE OFFICERS",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "JUDICIARY",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "HIGHEST COURT",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "EXECUTIVE OFFICERS",
+        "target": "JUDICIARY",
+        "relation": "NO JUDICIAL POWERS"
+      },
+      {
+        "source": "JUDICIARY",
+        "target": "HIGHEST COURT",
+        "relation": "PLACED UNDER"
+      }
+    ]
+  }
+]

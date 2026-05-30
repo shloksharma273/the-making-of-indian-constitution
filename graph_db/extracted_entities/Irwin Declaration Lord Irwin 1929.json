@@ -1,0 +1,37 @@
+[
+  {
+    "chunk_id": "5c819aa3-69ba-46d7-88fc-271d35d3921a",
+    "source_file": "Irwin Declaration Lord Irwin 1929.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Great Britain",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "India",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "British government",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "his Majesty’s Government",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Great Britain",
+        "target": "India",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "British government",
+        "target": "his Majesty’s Government",
+        "relation": "MENTIONED"
+      }
+    ]
+  }
+]

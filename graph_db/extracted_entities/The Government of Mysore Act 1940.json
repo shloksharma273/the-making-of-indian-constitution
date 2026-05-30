@@ -1,0 +1,1403 @@
+[
+  {
+    "chunk_id": "73d1226e-ccee-42c7-b91a-ea1af71eece6",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "CHAMBER",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "CHAMBERS",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "REPRESENTATIVE ASSEMBLY",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "LEGISLATIVE COUNCIL",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "COUNCIL OF MINISTERS",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "CHAMBER",
+        "target": "REPRESENTATIVE ASSEMBLY",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "CHAMBERS",
+        "target": "LEGISLATIVE COUNCIL",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "02ee2d54-59e8-4182-b79c-6a15826460f2",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Dewan",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Maharaja",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "COUNCIL OF MINISTERS",
+        "target": "DEWAN",
+        "relation": "CONSTITUTES"
+      },
+      {
+        "source": "COUNCIL OF MINISTERS",
+        "target": "MAHARAJA",
+        "relation": "ADVISES"
+      }
+    ]
+  },
+  {
+    "chunk_id": "d05f00e7-72a2-40ad-afec-d309feaa145e",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Dewan",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Maharaja",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Dewan",
+        "target": "Maharaja",
+        "relation": "APPOINTED_BY"
+      },
+      {
+        "source": "Dewan",
+        "target": "Council of Ministers",
+        "relation": "PRESIDES_AT_MEETINGS_OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "452438b1-270d-4db7-99e0-111ab9e623ce",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Maharaja",
+        "type": "PERSON"
+      },
+      {
+        "name": "Representative Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislative Council",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "ministers",
+        "target": "Maharaja",
+        "relation": "APPOINTED_BY"
+      },
+      {
+        "source": "ministers",
+        "target": "Representative Assembly",
+        "relation": "CHOSEN_FROM"
+      },
+      {
+        "source": "ministers",
+        "target": "Legislative Council",
+        "relation": "CHOSEN_FROM"
+      }
+    ]
+  },
+  {
+    "chunk_id": "c5398e3e-19f6-4073-9f3b-df5fb5d3fc03",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "HIS HIGHNESS THE MAHARAJA",
+        "type": "PERSON"
+      },
+      {
+        "name": "MINISTERS",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "MINISTERS",
+        "target": "HIS HIGHNESS THE MAHARAJA",
+        "relation": "OFFICE HELD DURING PLEASURE OF"
+      },
+      {
+        "source": "MINISTERS",
+        "target": "CHAMBER",
+        "relation": "CHOSEN FROM"
+      }
+    ]
+  },
+  {
+    "chunk_id": "5cc07044-af72-4de6-9401-e7eb9ac2d1d6",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "GOVERNMENT OF HIS HIGHNESS THE MAHARAJA OF MYSORE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Dewan",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "MINISTERS",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "GOVERNMENT OF HIS HIGHNESS THE MAHARAJA OF MYSORE",
+        "target": "Dewan",
+        "relation": "ALLOWS"
+      },
+      {
+        "source": "GOVERNMENT OF HIS HIGHNESS THE MAHARAJA OF MYSORE",
+        "target": "MINISTERS",
+        "relation": "ALLOWS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "5453ee48-dbb0-468b-9f26-625c829c80ff",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "REPRESENTATIVE ASSEMBLY",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "LEGISLATIVE COUNCIL",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "MYSORE",
+        "type": "LOCATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "REPRESENTATIVE ASSEMBLY",
+        "target": "MYSORE",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "LEGISLATIVE COUNCIL",
+        "target": "MYSORE",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "964d0602-c827-47c2-8674-02f6659ed5d6",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "REPRESENTATIVE ASSEMBLY",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GOVERNMENT",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "REPRESENTATIVE ASSEMBLY",
+        "target": "GOVERNMENT",
+        "relation": "NOMINATED BY"
+      },
+      {
+        "source": "REPRESENTATIVE ASSEMBLY",
+        "target": "GOVERNMENT",
+        "relation": "DEPUTED FOR THE PURPOSE"
+      }
+    ]
+  },
+  {
+    "chunk_id": "721ee6ee-5251-45d2-aaef-7f68ae0c448d",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Legislative Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Government",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "minister",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Legislative Council",
+        "target": "Government",
+        "relation": "NOMINATED_BY"
+      },
+      {
+        "source": "minister",
+        "target": "Legislative Council",
+        "relation": "ADDITIONAL_MEMBER_OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "ca5a3e96-9f97-4c87-84df-28735d76d224",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "REPRESENTATIVE ASSEMBLY",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "LEGISLATIVE COUNCIL",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GOVERNMENT",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "REPRESENTATIVE ASSEMBLY",
+        "target": "GOVERNMENT",
+        "relation": "EXTENDED BY"
+      },
+      {
+        "source": "LEGISLATIVE COUNCIL",
+        "target": "GOVERNMENT",
+        "relation": "EXTENDED BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "68b89ffb-9d71-4d3e-ad7e-16ca625cc78b",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "CHAMBERS",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GOVERNMENT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Dewan",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "CHAMBERS",
+        "target": "GOVERNMENT",
+        "relation": "SUMMONED_BY"
+      },
+      {
+        "source": "GOVERNMENT",
+        "target": "CHAMBERS",
+        "relation": "SUMMONS"
+      },
+      {
+        "source": "GOVERNMENT",
+        "target": "CHAMBERS",
+        "relation": "DISSOLVES"
+      },
+      {
+        "source": "Dewan",
+        "target": "CHAMBERS",
+        "relation": "ADDRESS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "424fabc8-94a6-4d03-9958-6c6fabacae36",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Dewan",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Chamber",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Representative Assembly",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Dewan",
+        "target": "Chamber",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Dewan",
+        "target": "Representative Assembly",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "ef4e5032-27d8-4929-8f23-2505db2923b8",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Dewan",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Representative Assembly",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Dewan",
+        "target": "President of the Representative Assembly",
+        "relation": "EX-OFICIO"
+      },
+      {
+        "source": "ministers",
+        "target": "Vice-Presidents",
+        "relation": "EX-OFICIO"
+      },
+      {
+        "source": "Dewan",
+        "target": "Representative Assembly",
+        "relation": "PRESIDE"
+      }
+    ]
+  },
+  {
+    "chunk_id": "97f28859-1946-4aa8-9ed5-ce55e0a948c4",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Maharaja",
+        "type": "PERSON"
+      },
+      {
+        "name": "Legislative Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Dewan",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "President of the Legislative Council",
+        "target": "Maharaja",
+        "relation": "APPOINTED_BY"
+      },
+      {
+        "source": "Deputy President of the Legislative Council",
+        "target": "Legislative Council",
+        "relation": "ELECTED_BY"
+      },
+      {
+        "source": "President of the Legislative Council",
+        "target": "Maharaja",
+        "relation": "APPROVED_BY"
+      },
+      {
+        "source": "Deputy President of the Legislative Council",
+        "target": "Legislative Council",
+        "relation": "ELECTED_BY"
+      },
+      {
+        "source": "Deputy President of the Legislative Council",
+        "target": "Maharaja",
+        "relation": "APPROVED_BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "d1ff829d-6177-4979-bd1b-3918fbcb9b6d",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "CHAMBERS",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "President",
+        "type": "PERSON"
+      },
+      {
+        "name": "Representative Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislative Council",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "CHAMBERS",
+        "target": "President",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Representative Assembly",
+        "target": "President",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Legislative Council",
+        "target": "President",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "1dcd8357-a5d3-4fac-9327-302a17d487e5",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Dewan",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Maharaja",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "MEMBER OF EITHER CHAMBER",
+        "target": "Dewan",
+        "relation": "OATH BEFORE"
+      },
+      {
+        "source": "MEMBER OF EITHER CHAMBER",
+        "target": "Maharaja",
+        "relation": "OATH TO"
+      }
+    ]
+  },
+  {
+    "chunk_id": "ffa136e3-a848-4482-867f-1ed4b8895f8e",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "ACT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Dewan",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "SUBJECT TO THE PROVISIONS OF THIS ACT",
+        "target": "NO PERSON SHALL BE A MEMBER OF BOTH CHAMBERS",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "RULES MADE UNDER THIS ACT",
+        "target": "VACATION BY A PERSON WHO IS CHOSEN A MEMBER OF BOTH CHAMBERS",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "MEMBER OF EITHER CHAMBER(a)",
+        "target": "BECOMES SUBJECT TO ANY OF THE DISQUALIFICATIONS MENTIONED IN SUB-SECTION (1) OF SECTION 20",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "MEMBER OF EITHER CHAMBER(b)",
+        "target": "BY WRITING UNDER HIS HAND ADDRESSED TO THE DWEAN RESIGNS HIS SEAT",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "44305102-af0b-4858-86f1-b44502dcf5e4",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "HIS HIGHNESS THE MAHARAJA",
+        "type": "PERSON"
+      },
+      {
+        "name": "MYSORE",
+        "type": "LOCATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "A PERSON",
+        "target": "HIS HIGHNESS THE MAHARAJA",
+        "relation": "DISQUALIFIED"
+      },
+      {
+        "source": "A PERSON",
+        "target": "MYSORE",
+        "relation": "IMPRISONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "8583de7e-aae3-4999-8111-d02fa2855456",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "PERSON",
+        "type": "PERSON"
+      },
+      {
+        "name": "CHAMBER",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "PERSON",
+        "target": "CHAMBER",
+        "relation": "MEMBER_OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "b556ce87-29a0-4332-b1ce-c55c6573ae2e",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "ACT",
+        "type": "LAW"
+      },
+      {
+        "name": "Chamber",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "ACT",
+        "target": "Chamber",
+        "relation": "REGULATES_PROCEDURE"
+      }
+    ]
+  },
+  {
+    "chunk_id": "03222674-5588-4688-b1c5-0735f69d4c86",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Members",
+        "type": "PERSON"
+      },
+      {
+        "name": "Chamber",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Government",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Representative Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislative Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Mysore Representative Assembly Act, 1923",
+        "type": "LAWS"
+      },
+      {
+        "name": "Mysore Legislative Council Act, 1923",
+        "type": "LAWS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Members of either Chamber",
+        "target": "Government",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Members of the Representative Assembly or the Legislative Council constituted under the Mysore Representative Assembly Act, 1923, and the Mysore Legislative Council Act, 1923, respectively",
+        "target": "Government",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "6b1682a8-6aa8-41af-b018-6003f78980d5",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Legislative Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Representative Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Mysore",
+        "type": "LOCATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Legislative Council",
+        "target": "Representative Assembly",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "bc652249-b5e7-4219-a5f5-f6fb66392307",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Legislative Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Representative Assembly",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Bill",
+        "target": "Legislative Council",
+        "relation": "INTRODUCED"
+      },
+      {
+        "source": "Bill",
+        "target": "Representative Assembly",
+        "relation": "PLACED_BEFORE"
+      }
+    ]
+  },
+  {
+    "chunk_id": "70b0c1ea-daf8-4a4b-bdfa-c3d97a5641fe",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "REPRESENTATIVE ASSEMBLY",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "LEGISLATIVE COUNCIL",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GOVERNMENT",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "REPRESENTATIVE ASSEMBLY",
+        "target": "LEGISLATIVE COUNCIL",
+        "relation": "MAY INTRODUCE"
+      },
+      {
+        "source": "GOVERNMENT",
+        "target": "LEGISLATIVE COUNCIL",
+        "relation": "MAY INTRODUCE"
+      }
+    ]
+  },
+  {
+    "chunk_id": "704110b9-57f8-460b-b2a9-1b3bbe2833d8",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Dewan",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Representative Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislative Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Maharaja",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Dewan",
+        "target": "Representative Assembly",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Legislative Council",
+        "target": "Representative Assembly",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "1eeb7052-ee25-457e-b267-e0408a01d7f0",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Legislative Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Dewan",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "His Highness the Maharaja",
+        "type": "PERSON"
+      },
+      {
+        "name": "Representative Assembly",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Bill",
+        "target": "Legislative Council",
+        "relation": "SUBMITTED_TO"
+      },
+      {
+        "source": "Bill",
+        "target": "Dewan",
+        "relation": "SUBMITTED_THROUGH"
+      },
+      {
+        "source": "Bill",
+        "target": "His Highness the Maharaja",
+        "relation": "REQUIRES_ASSENT_FROM"
+      },
+      {
+        "source": "Bill",
+        "target": "Representative Assembly",
+        "relation": "STATEMENT_OF_OPINION_FROM"
+      }
+    ]
+  },
+  {
+    "chunk_id": "bade763c-2dfa-4aee-8c2f-b0e884db74fd",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Ruling Family of Mysore",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Maharaja",
+        "type": "PERSON"
+      },
+      {
+        "name": "King Emperor",
+        "type": "PERSON"
+      },
+      {
+        "name": "Crown Representative",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Maharaja",
+        "target": "Ruling Family of Mysore",
+        "relation": "AFFILIATED_WITH"
+      },
+      {
+        "source": "Maharaja",
+        "target": "King Emperor",
+        "relation": "RELATIONSHIP_WITH"
+      },
+      {
+        "source": "Maharaja",
+        "target": "Crown Representative",
+        "relation": "RELATIONSHIP_WITH"
+      }
+    ]
+  },
+  {
+    "chunk_id": "11baa6cc-fe78-4cd4-b440-3313501c2178",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Maharaja",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Government",
+        "target": "Maharaja",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "1c4026a7-72e1-4432-8d71-e896278386f2",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "GOVERNMENT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Maharaja",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "GOVERNMENT",
+        "target": "Maharaja",
+        "relation": "REQUIRES_ASSENT"
+      }
+    ]
+  },
+  {
+    "chunk_id": "1c7e727a-ee9e-4668-9c58-35b4cbb12b5e",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "REPRESENTATIVE ASSEMBLY",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "LEGISLATIVE COUNCIL",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Dewan",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "STATE",
+        "target": "REPRESENTATIVE ASSEMBLY",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "STATE",
+        "target": "LEGISLATIVE COUNCIL",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "STATE",
+        "target": "Dewan",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "06c68bd6-ed59-49be-9fe3-6e6c1869c58d",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "REPRESENTATIVE ASSEMBLY",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "LEGISLATIVE COUNCIL",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GOVERNMENT",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "REPRESENTATIVE ASSEMBLY",
+        "target": "LEGISLATIVE COUNCIL",
+        "relation": "SUBJECT TO"
+      },
+      {
+        "source": "GOVERNMENT",
+        "target": "REPRESENTATIVE ASSEMBLY",
+        "relation": "RECOMMENDATION"
+      },
+      {
+        "source": "GOVERNMENT",
+        "target": "LEGISLATIVE COUNCIL",
+        "relation": "COMMUNICATION"
+      }
+    ]
+  },
+  {
+    "chunk_id": "f817b29a-c283-40cd-8269-b956be233dce",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Dewan",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislative Council",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Dewan",
+        "target": "Legislative Council",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "55f6fae2-4714-44f5-8819-c32370ffc7eb",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "GOVERNMENT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislative Council",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "GOVERNMENT",
+        "target": "Legislative Council",
+        "relation": "LAYS_BEFORE"
+      }
+    ]
+  },
+  {
+    "chunk_id": "43a1a128-92b8-44ee-8ff0-976cdedb52d6",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "GOVERNMENT",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "PROPOSAL",
+        "target": "GOVERNMENT",
+        "relation": "RECOMMENDED_BY"
+      },
+      {
+        "source": "PROPOSAL",
+        "target": "FINANCIAL_OBLIGATIONS",
+        "relation": "AFFECTS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "53134a68-109a-41d9-8e25-a80daa4f32bc",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "MEMBER OF EITHER CHAMBER",
+        "type": "PERSON"
+      },
+      {
+        "name": "REPRESENTATIVE ASSEMBLY",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "MEMBER OF EITHER CHAMBER",
+        "target": "REPRESENTATIVE ASSEMBLY",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "19087b4e-76d1-4f9b-a3c8-c9dca61e1c75",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "RULES",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GOVERNMENT",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "RULES",
+        "target": "GOVERNMENT",
+        "relation": "MADE_BY"
+      },
+      {
+        "source": "STANDING ORDERS",
+        "target": "CHAMBER",
+        "relation": "REGULATED_BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "6e15c0f1-d536-4c59-babf-97fd64d1bef2",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "OFFICER",
+        "type": "PERSON"
+      },
+      {
+        "name": "MEMBER",
+        "type": "PERSON"
+      },
+      {
+        "name": "CHAMBER",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "ACT",
+        "type": "LAWS"
+      },
+      {
+        "name": "COURT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PUBLIC SERVICE COMMISSIONER",
+        "type": "PERSON"
+      },
+      {
+        "name": "PUBLIC SERVICE COMMISSION",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "OFFICER",
+        "target": "ACT",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "MEMBER",
+        "target": "ACT",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "CHAMBER",
+        "target": "ACT",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "COURT",
+        "target": "ACT",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "PUBLIC SERVICE COMMISSIONER",
+        "target": "ACT",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "PUBLIC SERVICE COMMISSION",
+        "target": "ACT",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "5c94196c-703e-40f3-88ec-a29dfb81d0d4",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Public Service Commissioner",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Public Service Commission",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "GOVERNMENT",
+        "target": "PUBLIC SERVICE COMMISSIONER",
+        "relation": "APPOINTED"
+      },
+      {
+        "source": "GOVERNMENT",
+        "target": "PUBLIC SERVICE COMMISSION",
+        "relation": "APPOINTED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "dc6146f2-5409-4ff8-8305-f0e3b2ab6c3f",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Public Service Commissioner",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Commission",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Maharaja",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "GOVERNMENT",
+        "target": "Public Service Commissioner",
+        "relation": "MAY_CONSULT"
+      },
+      {
+        "source": "GOVERNMENT",
+        "target": "Commission",
+        "relation": "MAY_CONSULT"
+      }
+    ]
+  },
+  {
+    "chunk_id": "71df43b9-8eca-4b73-86d4-c5adcbad451d",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "GOVERNMENT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "ACT",
+        "type": "LAWS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "GOVERNMENT",
+        "target": "ACT",
+        "relation": "HAS_POWER"
+      }
+    ]
+  },
+  {
+    "chunk_id": "95853084-0522-49be-a099-6bf7cbd8982f",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "GOVERNMENT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "OFFICIAL GAZETTE",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "ACT",
+        "target": "GOVERNMENT",
+        "relation": "APPOINTED_BY"
+      },
+      {
+        "source": "GOVERNMENT",
+        "target": "OFFICIAL GAZETTE",
+        "relation": "NOTIFIED_IN"
+      }
+    ]
+  },
+  {
+    "chunk_id": "faf5f4fc-bae8-4e55-8eb7-760952fcbbcb",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Mysore Representative Assembly Act, 1923",
+        "type": "LAWS"
+      },
+      {
+        "name": "Mysore Legislative Council Act, 1923",
+        "type": "LAWS"
+      },
+      {
+        "name": "Government",
+        "type": "ORGANIZATIONS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "GOVERNMENT",
+        "target": "Mysore Representative Assembly Act, 1923",
+        "relation": "DIRECTS"
+      },
+      {
+        "source": "GOVERNMENT",
+        "target": "Mysore Legislative Council Act, 1923",
+        "relation": "DIRECTS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "7014bfa4-8f1e-43f1-a519-1c5c0f12158e",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Mysore Representative Assembly Act",
+        "type": "LAWS"
+      },
+      {
+        "name": "Mysore Legislative Council Act",
+        "type": "LAWS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "45. Notwithstanding the repeal by this Act of the Mysore Representative Assembly Act, 1923, and the Mysore Legislative Council Act, 1923, but subject to the provisions of this Act, all the law in force in Mysore immediately before the commencement of this Act shall continue in force, until altered or repealed or amended by competent authority.",
+        "target": "Mysore Representative Assembly Act",
+        "relation": "REPEALED"
+      },
+      {
+        "source": "45. Notwithstanding the repeal by this Act of the Mysore Representative Assembly Act, 1923, and the Mysore Legislative Council Act, 1923, but subject to the provisions of this Act, all the law in force in Mysore immediately before the commencement of this Act shall continue in force, until altered or repealed or amended by competent authority.",
+        "target": "Mysore Legislative Council Act",
+        "relation": "REPEALED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "8c5fa00d-749a-40ad-9826-652f75f9b368",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Mysore Representative Assembly Act",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Mysore Legislative Council Act",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "ACT",
+        "target": "Mysore Representative Assembly Act, 1923",
+        "relation": "REPEALED_BY"
+      },
+      {
+        "source": "ACT",
+        "target": "Mysore Legislative Council Act, 1923",
+        "relation": "REPEALED_BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "08e93967-67ef-48d8-a516-dd38b9de2817",
+    "source_file": "The Government of Mysore Act 1940.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "MIRZA M. ISMAIL",
+        "type": "PERSON"
+      },
+      {
+        "name": "Maharaja",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "47",
+        "target": "Maharaja",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "MIRZA M. ISMAIL",
+        "target": "Maharaja",
+        "relation": "MENTIONED"
+      }
+    ]
+  }
+]

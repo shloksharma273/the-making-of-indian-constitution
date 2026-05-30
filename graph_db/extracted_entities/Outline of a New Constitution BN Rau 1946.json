@@ -1,0 +1,703 @@
+[
+  {
+    "chunk_id": "fe25e47c-791a-45a0-b0c0-1cac6ccc1692",
+    "source_file": "Outline of a New Constitution BN Rau 1946.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "HINDUSTAN FEDERATION",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PAKISTAN FEDERATION",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "INDIAN STATES AND TRIBAL AREAS",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "INDIA",
+        "target": "HINDUSTAN FEDERATION",
+        "relation": "CONSTITUTES"
+      },
+      {
+        "source": "INDIA",
+        "target": "PAKISTAN FEDERATION",
+        "relation": "CONSTITUTES"
+      },
+      {
+        "source": "INDIA",
+        "target": "INDIAN STATES AND TRIBAL AREAS",
+        "relation": "CONSTITUTES"
+      }
+    ]
+  },
+  {
+    "chunk_id": "9d323192-ee9e-4600-9f37-0e73efcf5aed",
+    "source_file": "Outline of a New Constitution BN Rau 1946.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Federations",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Commonwealth",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Federations",
+        "target": "Commonwealth",
+        "relation": "MEMBER_OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "e2a3334e-99f4-4c6b-907a-6344357874a7",
+    "source_file": "Outline of a New Constitution BN Rau 1946.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "HIS MAJESTY",
+        "type": "PERSON"
+      },
+      {
+        "name": "INDIAN COMMONWEALTH",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "HIS MAJESTY",
+        "target": "INDIAN COMMONWEALTH",
+        "relation": "MAY ESTABLISH"
+      }
+    ]
+  },
+  {
+    "chunk_id": "9650d45f-dd8b-49e4-8062-ccd9bc428c7d",
+    "source_file": "Outline of a New Constitution BN Rau 1946.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CENTRAL GROUP",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "BOMBAY",
+        "type": "LOCATION"
+      },
+      {
+        "name": "UNITED PROVINCES",
+        "type": "LOCATION"
+      },
+      {
+        "name": "BIHAR",
+        "type": "LOCATION"
+      },
+      {
+        "name": "CENTRAL PROVINCES AND BERAR",
+        "type": "LOCATION"
+      },
+      {
+        "name": "ORISSA",
+        "type": "LOCATION"
+      },
+      {
+        "name": "DELHI",
+        "type": "LOCATION"
+      },
+      {
+        "name": "AJMER-MERWARA",
+        "type": "LOCATION"
+      },
+      {
+        "name": "COORG",
+        "type": "LOCATION"
+      },
+      {
+        "name": "PANTH PIPLODA",
+        "type": "LOCATION"
+      },
+      {
+        "name": "WESTERN GROUP",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "PANJAB",
+        "type": "LOCATION"
+      },
+      {
+        "name": "NORTH-WEST FRONTIER",
+        "type": "LOCATION"
+      },
+      {
+        "name": "SIND",
+        "type": "LOCATION"
+      },
+      {
+        "name": "BRITISH BALUCHISTAN",
+        "type": "LOCATION"
+      },
+      {
+        "name": "EASTERN GROUP",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "BENGAL",
+        "type": "LOCATION"
+      },
+      {
+        "name": "ASSAM",
+        "type": "LOCATION"
+      },
+      {
+        "name": "ANDAMAN AND NICOBAR ISLANDS",
+        "type": "LOCATION"
+      },
+      {
+        "name": "INDIAN STATES AND TRIBAL AREAS",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "INDIA",
+        "target": "CENTRAL GROUP",
+        "relation": "MEMBER_OF"
+      },
+      {
+        "source": "INDIA",
+        "target": "WESTERN GROUP",
+        "relation": "MEMBER_OF"
+      },
+      {
+        "source": "INDIA",
+        "target": "EASTERN GROUP",
+        "relation": "MEMBER_OF"
+      },
+      {
+        "source": "INDIA",
+        "target": "INDIAN STATES AND TRIBAL AREAS",
+        "relation": "MEMBER_OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "d5306368-f658-47a9-b2bb-3824d75f7655",
+    "source_file": "Outline of a New Constitution BN Rau 1946.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "PROVINCES",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PART-PROVINCE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PROvincial Legislative Assembly",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "REPRESENTATIVES OF PROvinces OR PART-PROVINCE",
+        "target": "Provincial Legislative Assembly",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "RESOLUTION",
+        "target": "PROVINCE OR PART-PROVINCE",
+        "relation": "AFFECTS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "a7546cb0-c459-4fa7-85b0-19f0b69f53f0",
+    "source_file": "Outline of a New Constitution BN Rau 1946.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "UNION PARLIAMENT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "HEAD OF THE UNION",
+        "type": "PERSON"
+      },
+      {
+        "name": "INDIAN STATES",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GROUP A",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GROUPS B AND C",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GROUP D",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "UNION PARLIAMENT",
+        "target": "HEAD OF THE UNION",
+        "relation": "CONSTITUTES"
+      },
+      {
+        "source": "INDIAN STATES",
+        "target": "GROUP A",
+        "relation": "REPRESENTED BY"
+      },
+      {
+        "source": "INDIAN STATES",
+        "target": "GROUPS B AND C",
+        "relation": "REPRESENTED BY"
+      },
+      {
+        "source": "INDIAN STATES",
+        "target": "GROUP D",
+        "relation": "REPRESENTED BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "50032511-8798-47c8-905d-bcc9c0c01418",
+    "source_file": "Outline of a New Constitution BN Rau 1946.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "MINISTERS",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "REPRESENTATIVES",
+        "type": "PERSON"
+      },
+      {
+        "name": "LEGISLATURE",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "MINISTERS",
+        "target": "REPRESENTATIVES",
+        "relation": "ELECTED_BY"
+      },
+      {
+        "source": "MINISTERS",
+        "target": "LEGISLATURE",
+        "relation": "APPOINTED_BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "2a34c58f-9da7-44e2-ba68-0bd4c82e1411",
+    "source_file": "Outline of a New Constitution BN Rau 1946.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "PAKISTAN",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": []
+  },
+  {
+    "chunk_id": "2d7e5eff-8b6e-4d83-9f50-7971e238e363",
+    "source_file": "Outline of a New Constitution BN Rau 1946.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "UNION PARLAMENT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GOVERNORS’ PROVINCES",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "UNION PARLAMENT",
+        "target": "GROUPS A, B AND C",
+        "relation": "AUTHORITIES"
+      },
+      {
+        "source": "GOVERNORS’ PROVINCES",
+        "target": "DEFENCE",
+        "relation": "AUTHORITIES"
+      },
+      {
+        "source": "GOVERNORS’ PROVINCES",
+        "target": "EXTERNAL AFFAIRS",
+        "relation": "AUTHORITIES"
+      },
+      {
+        "source": "GOVERNORS’ PROVINCES",
+        "target": "COMMUNICATIONS",
+        "relation": "AUTHORITIES"
+      },
+      {
+        "source": "GOVERNORS’ PROVINCES",
+        "target": "REQUISITE FINANCES",
+        "relation": "AUTHORITIES"
+      }
+    ]
+  },
+  {
+    "chunk_id": "8722c04e-af79-4f86-a223-e01430175ba9",
+    "source_file": "Outline of a New Constitution BN Rau 1946.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "EXECUTIVE AUTHORITY",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "LEGISLATIVE AUTHORITY",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "GROUPS A, B AND G",
+        "type": "CONSTITUTIONAL CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "EXECUTIVE AUTHORITY",
+        "target": "LEGISLATIVE AUTHORITY",
+        "relation": "CO-EXTENSIVE WITH"
+      },
+      {
+        "source": "EXECUTIVE AUTHORITY",
+        "target": "GROUPS A, B AND G",
+        "relation": "RELATION TO"
+      }
+    ]
+  },
+  {
+    "chunk_id": "d0681fb9-124e-4b65-b821-bb25bf880e25",
+    "source_file": "Outline of a New Constitution BN Rau 1946.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Crown",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Act of 1935",
+        "type": "LAWS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Crown",
+        "target": "Act of 1935",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "85f01089-c66b-41e5-8b25-04a635a8f568",
+    "source_file": "Outline of a New Constitution BN Rau 1946.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Group D",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Union",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "States",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Rulers",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Union",
+        "target": "Group D",
+        "relation": "EXERCISE_AUTHORITY"
+      },
+      {
+        "source": "Union",
+        "target": "States",
+        "relation": "CONSIDER"
+      },
+      {
+        "source": "Union",
+        "target": "Rulers",
+        "relation": "RESPECT"
+      }
+    ]
+  },
+  {
+    "chunk_id": "302ba51e-4248-473b-8d38-efb40c1e201f",
+    "source_file": "Outline of a New Constitution BN Rau 1946.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "HEAD OF THE UNION",
+        "type": "PERSON"
+      },
+      {
+        "name": "COUNCIL OF MINISTERS",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "THE EXECUTIVE AUTHORITY OF THE UNION",
+        "target": "HEAD OF THE UNION",
+        "relation": "EXERCISED_BY"
+      },
+      {
+        "source": "THE EXECUTIVE AUTHORITY OF THE UNION",
+        "target": "COUNCIL OF MINISTERS",
+        "relation": "AIDED_AND_ADVISED_BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "5fef94f9-d830-4112-9e17-a218b188e8cb",
+    "source_file": "Outline of a New Constitution BN Rau 1946.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "COUNCIL",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GROUP A",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "GROUP B",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "GROUP C",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "GROUP D",
+        "type": "CONSTITUTIONAL CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "COUNCIL",
+        "target": "GROUP A",
+        "relation": "CONSISTS OF"
+      },
+      {
+        "source": "COUNCIL",
+        "target": "GROUP B AND C TOGETHER",
+        "relation": "CONSISTS OF"
+      },
+      {
+        "source": "COUNCIL",
+        "target": "GROUP D",
+        "relation": "CONSISTS OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "3dda75bf-fa37-4e9a-a50d-5269009965cc",
+    "source_file": "Outline of a New Constitution BN Rau 1946.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "GROUP A",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GROUP B",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GROUP C",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GROUP D",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PARLIAMENT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "UNION PARLOR",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CHANCELLOR OF THE CHAMBER OF PRINCES",
+        "type": "PERSON"
+      },
+      {
+        "name": "COMMITTEE OF STATES",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "HEAD OF THE UNION",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "GROUP A",
+        "target": "PARLIAMENT",
+        "relation": "ELECTED BY"
+      },
+      {
+        "source": "GROUP B",
+        "target": "PARLIAMENT",
+        "relation": "ELECTED BY"
+      },
+      {
+        "source": "GROUP C",
+        "target": "PARLIAMENT",
+        "relation": "ELECTED BY"
+      },
+      {
+        "source": "GROUP D",
+        "target": "UNION PARLOR",
+        "relation": "SELECTED IN"
+      },
+      {
+        "source": "CHANCELLOR OF THE CHAMBER OF PRINCES",
+        "target": "COMMITTEE OF STATES",
+        "relation": "CONSULTS"
+      },
+      {
+        "source": "HEAD OF THE UNION",
+        "target": "MINISTERS FOR GROUPS A, B AND C",
+        "relation": "SELECTED BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "e2202010-8809-47a3-8a9a-78b143616f28",
+    "source_file": "Outline of a New Constitution BN Rau 1946.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Head of the Union",
+        "type": "PERSON"
+      },
+      {
+        "name": "ministers of all four groups",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Group A",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Group B or G",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Group D",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "States",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "British Indian policy",
+        "type": "CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Head of the Union",
+        "target": "ministers of all four groups",
+        "relation": "CONSULTS"
+      },
+      {
+        "source": "Group D",
+        "target": "States",
+        "relation": "AFFECTED_BY"
+      },
+      {
+        "source": "Group D",
+        "target": "British Indian policy",
+        "relation": "RELEVANT_TO"
+      }
+    ]
+  },
+  {
+    "chunk_id": "4b541a5b-a8b8-4c5e-9ca8-e1fc45bff102",
+    "source_file": "Outline of a New Constitution BN Rau 1946.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "GOVERNORS’ PROVINCES",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PROVINCIAL SUBJECTS",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "CHIEF COMMISSIONERS’ PROVINCES",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CENTRE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "MINISTERS FOR GROUPS A, B OR C",
+        "type": "CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "SUBJECTS OUTSIDE DEFENCE, EXTERNAL AFFAIRS, COMMUNICATIONS AND THE REQUISITE FINANCES",
+        "target": "GOVERNORS’ PROVINCES",
+        "relation": "TRANSFERRED TO"
+      },
+      {
+        "source": "PROVINCIAL SUBJECTS IN THE CHIEF COMMISSIONERS’ PROVINCES",
+        "target": "CENTRE",
+        "relation": "ADMINISTERED BY"
+      },
+      {
+        "source": "MINISTERS FOR GROUPS A, B OR C",
+        "target": "PROVINCIAL SUBJECTS IN THE CHIEF COMMISSIONERS’ PROVINCES",
+        "relation": "INCLUDES"
+      }
+    ]
+  }
+]

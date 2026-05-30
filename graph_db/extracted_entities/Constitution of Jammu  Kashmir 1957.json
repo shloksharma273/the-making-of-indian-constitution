@@ -1,0 +1,4751 @@
+[
+  {
+    "chunk_id": "ee367e63-a654-44e9-a972-4a9205c5181c",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE OF JAMMU AND KASHMIR",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CONSTITUENT ASSEMBLY",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "STATE OF JAMMU AND KASHMIR",
+        "target": "INDIA",
+        "relation": "ACCESSION"
+      },
+      {
+        "source": "STATE OF JAMMU AND KASHMIR",
+        "target": "CONSTITUENT ASSEMBLY",
+        "relation": "ADOPTED CONSTITUTION"
+      }
+    ]
+  },
+  {
+    "chunk_id": "273db4bb-1173-42f1-922f-7f500a33b22e",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Jammu and Kashmir",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Constitution of Jammu and Kashmir",
+        "type": "CONSTITUTIONAL_CONCEPTS"
+      }
+    ],
+    "relationships": []
+  },
+  {
+    "chunk_id": "5e889bff-022c-45d5-8f71-cc740251954f",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Constitution of India",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "State Legislature",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Sadar-i- Riyasat",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Constitution of India",
+        "target": "State Legislature",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Constitution of India",
+        "target": "Sadar-i- Riyasat",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "64aab325-cf0b-46d0-908f-e16777aaba14",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE OF JAMMU AND KASHMIR",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "UNION OF INDIA",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "STATE OF JAMMU AND KASHMIR",
+        "target": "UNION OF INDIA",
+        "relation": "INTEGRAL PART OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "92985d17-b351-4783-abef-8fb8f6c5c6e6",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Ruler of the State",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "STATE",
+        "target": "Ruler of the State",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "6138a720-1da4-4946-a5e5-e504d79cd720",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Parliament",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Constitution of India",
+        "type": "LAWS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "STATE",
+        "target": "Parliament",
+        "relation": "POWERED_BY"
+      },
+      {
+        "source": "STATE",
+        "target": "Constitution of India",
+        "relation": "GOVERNED_BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "96d29b4b-0f37-414b-8dab-a0324b890b83",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CONSTITUTION OF INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PAKISTAN",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "EVERY PERSON WHO IS, OR IS DEEMED TO BE, A CITIZEN OF INDIA UNDER THE PROVISIONS OF THE CONSTITUTION OF INDIA",
+        "target": "STATE",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "STATE SUBJECT OF CLASS I OR OF CLASS II",
+        "target": "STATE NOTIFICATION NO. I-L/84 DATED THE TWENTIETH APRIL, 1927, READ WITH STATE NOTIFICATION NO. 13/L DATED THE TWENTY-SEVENTH JUNE, 1932",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "STATE SUBJECT OF CLASS I OR OF CLASS II",
+        "target": "STATE LEGISLATURE",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "5ed37fba-1262-4018-918e-6701e7753633",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE SUBJECTS",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "STATE SUBJECT OF CLASS I",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "STATE SUBJECT OF CLASS II",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "STATE SUBJECT OF CLASS III",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PERMANENT RESIDENTS",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "ALL REFERENCES IN ANY EXISTING LAW",
+        "target": "STATE SUBJECTS",
+        "relation": "CONSTRUCTED AS REFERENCE TO"
+      },
+      {
+        "source": "ALL REFERENCES IN ANY EXISTING LAW",
+        "target": "STATE SUBJECT OF CLASS I",
+        "relation": "CONSTRUCTED AS REFERENCE TO"
+      },
+      {
+        "source": "ALL REFERENCES IN ANY EXISTING LAW",
+        "target": "STATE SUBJECT OF CLASS II",
+        "relation": "CONSTRUCTED AS REFERENCE TO"
+      },
+      {
+        "source": "ALL REFERENCES IN ANY EXISTING LAW",
+        "target": "STATE SUBJECT OF CLASS III",
+        "relation": "CONSTRUCTED AS REFERENCE TO"
+      },
+      {
+        "source": "LEGISLATURE",
+        "target": "PERMANENT RESIDENTS",
+        "relation": "TO DEFINE"
+      }
+    ]
+  },
+  {
+    "chunk_id": "6d432071-dcac-44d3-b183-eb0d84923bb2",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE LEGISLATURE",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "STATE LEGISLATURE",
+        "target": "PART",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "STATE LEGISLATURE",
+        "target": "BILLS RELATING TO PERMANENT RESIDENTS",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "6883422e-c45d-45fd-896c-59fb1e48b113",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "BILL",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PERMANENT RESIDENTS",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "BILL",
+        "target": "PERMANENT RESIDENTS",
+        "relation": "AFFECTS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "179c554f-f4f9-4871-a1c6-ddcc59cbdfc8",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CONSTITUTION OF INDIA",
+        "type": "LAWS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "STATE",
+        "target": "CONSTITUTION OF INDIA",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "714fcf53-549a-465d-856a-2bcd0fc0bec5",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GOVERNMENT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "LEGISLATURE",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "STATE",
+        "target": "GOVERNMENT",
+        "relation": "INCLUDES"
+      },
+      {
+        "source": "STATE",
+        "target": "LEGISLATURE",
+        "relation": "INCLUDES"
+      }
+    ]
+  },
+  {
+    "chunk_id": "9acf6946-142c-4dae-8379-174fdae9d1e8",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "PROVISIONS",
+        "target": "STATE",
+        "relation": "APPLIED_BY"
+      },
+      {
+        "source": "STATE",
+        "target": "PRINCIPLES",
+        "relation": "OBLIGATED_TO_APPLY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "6e9a90d1-857f-4e84-98cd-fc32c6b1acf6",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "NEW KASHMIR",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "WELFARE OF THE MASS OF THE PEOPLE",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "SOCIALIST ORDER OF SOCIETY",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "EXPLOITATION OF MAN",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "JUSTICE-SOCIAL",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "JUSTICE-ECONOMIC",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "JUSTICE-POLITICAL",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "STATE",
+        "target": "NEW KASHMIR",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "STATE",
+        "target": "WELFARE OF THE MASS OF THE PEOPLE",
+        "relation": "PURSUES"
+      },
+      {
+        "source": "STATE",
+        "target": "SOCIALIST ORDER OF SOCIETY",
+        "relation": "ESTABLISHES AND PRESERVES"
+      },
+      {
+        "source": "STATE",
+        "target": "EXPLOITATION OF MAN",
+        "relation": "ABOLISHES"
+      },
+      {
+        "source": "STATE",
+        "target": "JUSTICE-SOCIAL",
+        "relation": "INFORMS ALL THE INSTITUTIONS OF NATIONAL LIFE"
+      },
+      {
+        "source": "STATE",
+        "target": "JUSTICE-ECONOMIC",
+        "relation": "INFORMS ALL THE INSTITUTIONS OF NATIONAL LIFE"
+      },
+      {
+        "source": "STATE",
+        "target": "JUSTICE-POLITICAL",
+        "relation": "INFORMS ALL THE INSTITUTIONS OF NATIONAL LIFE"
+      }
+    ]
+  },
+  {
+    "chunk_id": "f4966748-0658-4401-b78d-5d9545782dda",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PUBLIC SECTOR",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "COOPERATIVE SECTOR",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "PRIVATE SECTOR",
+        "type": "CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "STATE",
+        "target": "PUBLIC SECTOR",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "STATE",
+        "target": "COOPERATIVE SECTOR",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "STATE",
+        "target": "PRIVATE SECTOR",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "dc401ee0-c7f2-4108-821c-9a8a4d6b3de6",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CULTIVATOR",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "STATE",
+        "target": "CULTIVATOR",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "3fe10a03-4c7f-4ad9-8588-0f69e85f3749",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "VILLAGE PANCHAYATS",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "STATE",
+        "target": "VILLAGE PANCHAYATS",
+        "relation": "ORGANISE"
+      },
+      {
+        "source": "STATE",
+        "target": "VILLAGE PANCHAYATS",
+        "relation": "ENDOW WITH POWERS AND AUTHORITY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "39c2b2fa-e3bd-4f7f-bf56-77fd81fd3482",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CRAFTS AND COTTAGE INDUSTRIES",
+        "type": "CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "STATE",
+        "target": "CRAFTS AND COTTAGE INDUSTRIES",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "872d8153-7ec5-43ec-9492-0a64bfe34770",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "JUDICIARY",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "EXECUTIVE",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "STATE",
+        "target": "JUDICIARY",
+        "relation": "SEPARATE"
+      },
+      {
+        "source": "STATE",
+        "target": "EXECUTIVE",
+        "relation": "SEPARATE"
+      }
+    ]
+  },
+  {
+    "chunk_id": "3bb39029-5784-442e-9de1-5445cca877a5",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "ECONOMIC CAPACITY AND DEVELOPMENT",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "WORK",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "PAYMENT FOR LABOUR",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "BASIC MINIMUM AND MAXIMUM WAGE",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "HEALTH AND STRENGTH OF WORKERS",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "AVOCCATIONS",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "LEISURE",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "SOCIAL AND CULTURAL OPPORTUNITIES",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "ADEQUATE MAINTENANCE",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "OLD AGE",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "SICKNESS",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "DISABLEMENT",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "UNEMPLOYMENT",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "OTHER CASES OF UNDESERVED WANT",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "SOCIAL INSURANCE",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "MEDICAL AID",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "HOSPITALS",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "SANATORIA",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "HEALTH RESORTS",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "STATE",
+        "target": "ECONOMIC CAPACITY AND DEVELOPMENT",
+        "relation": "WITHIN THE LIMITS OF"
+      },
+      {
+        "source": "STATE",
+        "target": "WORK",
+        "relation": "SECURING"
+      },
+      {
+        "source": "STATE",
+        "target": "PAYMENT FOR LABOUR",
+        "relation": "SECURING"
+      },
+      {
+        "source": "STATE",
+        "target": "BASIC MINIMUM AND MAXIMUM WAGE",
+        "relation": "ESTABLISHED BY LAW"
+      },
+      {
+        "source": "STATE",
+        "target": "HEALTH AND STRENGTH OF WORKERS",
+        "relation": "SECURING"
+      },
+      {
+        "source": "STATE",
+        "target": "AVOCCATIONS",
+        "relation": "NOT FORCED BY ECONOMIC NECESSITY TO ENTER"
+      },
+      {
+        "source": "STATE",
+        "target": "LEISURE",
+        "relation": "ENJOYMENT OF"
+      },
+      {
+        "source": "STATE",
+        "target": "SOCIAL AND CULTURAL OPPORTUNITIES",
+        "relation": "ENJOYMENT OF"
+      },
+      {
+        "source": "STATE",
+        "target": "ADEQUATE MAINTENANCE",
+        "relation": "PROVIDING"
+      },
+      {
+        "source": "STATE",
+        "target": "OLD AGE",
+        "relation": "ADEQUATE MAINTENANCE IN"
+      },
+      {
+        "source": "STATE",
+        "target": "SICKNESS",
+        "relation": "ADEQUATE MAINTENANCE IN"
+      },
+      {
+        "source": "STATE",
+        "target": "DISABLEMENT",
+        "relation": "ADEQUATE MAINTENANCE IN"
+      },
+      {
+        "source": "STATE",
+        "target": "UNEMPLOYMENT",
+        "relation": "ADEQUATE MAINTENANCE IN"
+      },
+      {
+        "source": "STATE",
+        "target": "OTHER CASES OF UNDESERVED WANT",
+        "relation": "ADEQUATE MAINTENANCE IN"
+      },
+      {
+        "source": "STATE",
+        "target": "SOCIAL INSURANCE",
+        "relation": "PROVIDING"
+      },
+      {
+        "source": "STATE",
+        "target": "MEDICAL AID",
+        "relation": "PROVIDING"
+      },
+      {
+        "source": "STATE",
+        "target": "HOSPITALS",
+        "relation": "PROVIDING"
+      },
+      {
+        "source": "STATE",
+        "target": "SANATORIA",
+        "relation": "PROVIDING"
+      },
+      {
+        "source": "STATE",
+        "target": "HEALTH RESORTS",
+        "relation": "PROVIDING"
+      }
+    ]
+  },
+  {
+    "chunk_id": "98b82ee8-3fa7-4c53-81c1-6fccde7af382",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PERMANENT RESIDENTS",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "UNIVERSITY STANDARD",
+        "type": "CONSTITUTIONAL_CONCEPTS"
+      },
+      {
+        "name": "CHILDREN",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "FOURTEEN YEARS",
+        "type": "CONSTITUTIONAL_CONCEPTS"
+      },
+      {
+        "name": "WORKERS AND EMPLOYEES",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "ADULT EDUCATION",
+        "type": "CONSTITUTIONAL_CONCEPTS"
+      },
+      {
+        "name": "PART-TIME TECHNICAL, PROFESSIONAL AND VOCATIONAL COURSES",
+        "type": "CONSTITUTIONAL_CONCEPTS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "STATE",
+        "target": "PERMANENT RESIDENTS",
+        "relation": "SECURE RIGHT TO FREE EDUCATION UPTO UNIVERSITY STANDARD"
+      },
+      {
+        "source": "STATE",
+        "target": "CHILDREN",
+        "relation": "PROVIDE COMPULSORY EDUCATION FOR ALL CHILDREN UNTIL THEY COMPLETE THE AGE OF FOURTEEN YEARS"
+      },
+      {
+        "source": "STATE",
+        "target": "WORKERS AND EMPLOYEES",
+        "relation": "ENSURE ADEQUATE FACILITIES FOR ADULT EDUCATION AND PART-TIME TECHNICAL, PROFESSIONAL AND VOCATIONAL COURSES"
+      }
+    ]
+  },
+  {
+    "chunk_id": "e3f0a9d1-57d7-40fc-a330-d3932a48f183",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CHILDREN",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "YOUTH",
+        "type": "PEOPLE"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "STATE",
+        "target": "CHILDREN",
+        "relation": "STRIVE_TO_SECURE"
+      },
+      {
+        "source": "STATE",
+        "target": "CHILDREN AND YOUTH",
+        "relation": "STRIVE_TO_SECURE"
+      }
+    ]
+  },
+  {
+    "chunk_id": "053a109f-7af1-4c6a-9706-3de144130e09",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "WOMEN",
+        "type": "PEOPLE"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "STATE",
+        "target": "WOMEN",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "32225362-4711-4793-8717-10e1e2c9e69d",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PEOPLE",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "SOCIOEconomically BACKWARD SECTIONS",
+        "type": "CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "STATE",
+        "target": "PEOPLE",
+        "relation": "GUARANTEES"
+      },
+      {
+        "source": "STATE",
+        "target": "SOCIOEconomically BACKWARD SECTIONS",
+        "relation": "PROVIDES CARE FOR"
+      }
+    ]
+  },
+  {
+    "chunk_id": "84495d40-2606-4c53-b823-a067d04982ca",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PEOPLE",
+        "type": "CONSTITUTIONAL_CONCEPTS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "STATE",
+        "target": "PEOPLE",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "57f70d8b-fdfc-4f89-a7e1-e6b176f19a04",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "SADAR-I-RIYASAT",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "STATE",
+        "target": "SADAR-I-RIYASAT",
+        "relation": "HEAD_OF_STATE"
+      }
+    ]
+  },
+  {
+    "chunk_id": "7822b3c0-af5f-4fad-a8b0-c7eabe9eabb3",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "PERSON"
+      },
+      {
+        "name": "State Legislature",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "HEAD OF THE STATE",
+        "target": "Sadar-i-Riyasat",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "STATE EXECUTIVE POWER",
+        "target": "Sadar-i-Riyasat",
+        "relation": "EXERCISED_BY"
+      },
+      {
+        "source": "STATE LEGISLATURE",
+        "target": "Sadar-i-Riyasat",
+        "relation": "CONFERRED_FUNCTIONS_ON"
+      }
+    ]
+  },
+  {
+    "chunk_id": "9b969901-519e-4446-b9c2-30af69aed193",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "President",
+        "type": "PERSON"
+      },
+      {
+        "name": "Legislative Assembly",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "President",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Legislative Assembly",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "0b8db742-324a-4db4-836a-59768db14b4d",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "President",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "President",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "97c32057-4fa2-4bdd-930f-10f4a0fabb9b",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      }
+    ],
+    "relationships": []
+  },
+  {
+    "chunk_id": "65a5d0c6-e6db-4974-95e3-06410e9542c0",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": []
+  },
+  {
+    "chunk_id": "6870a6a0-a3ee-42af-8c2f-81ea53154d1f",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Chief Justice of the High Court",
+        "type": "PERSON"
+      },
+      {
+        "name": "Senior-most judge of the High Court",
+        "type": "PERSON"
+      },
+      {
+        "name": "Jammu and Kashmir",
+        "type": "LOCATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Chief Justice of the High Court",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Senior-most judge of the High Court",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "bba85530-01f3-4970-b985-b9fa415c61e5",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "President",
+        "type": "PERSON"
+      },
+      {
+        "name": "Legislative Assembly",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "President",
+        "relation": "REMOVED_BY"
+      },
+      {
+        "source": "Legislative Assembly",
+        "target": "President",
+        "relation": "SENT_ADDRESS_TO"
+      }
+    ]
+  },
+  {
+    "chunk_id": "5773c0fe-2065-4597-aa19-e89cee6e1b3d",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "President",
+        "type": "PERSON"
+      },
+      {
+        "name": "Council of Ministers of the State",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "President",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Council of Ministers of the State",
+        "target": "President",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "68ae6c8b-ccd3-43d4-a6f2-3fe8c8a9707b",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Council of Ministers",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Council of Ministers",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "935ade81-dd65-49de-a38e-d59d15741d9e",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "COUNCIL OF MINISTERS",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PRIME MINISTER",
+        "type": "PERSON"
+      },
+      {
+        "name": "SADAR-i-RIYASAT",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "COUNCIL OF MINISTERS",
+        "target": "PRIME MINISTER",
+        "relation": "HEAD"
+      },
+      {
+        "source": "SADAR-i-RIYASAT",
+        "target": "COUNCIL OF MINISTERS",
+        "relation": "ADVICE"
+      }
+    ]
+  },
+  {
+    "chunk_id": "c0cd48f0-a31f-40e4-a40e-03eb5a4ef461",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Prime Minister",
+        "type": "PERSON"
+      },
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Prime Minister",
+        "target": "Sadar-i-Riyasat",
+        "relation": "APPOINTED BY"
+      },
+      {
+        "source": "Ministers",
+        "target": "Sadar-i-Riyasat",
+        "relation": "APPOINTED BY"
+      },
+      {
+        "source": "Ministers",
+        "target": "Prime Minister",
+        "relation": "ADVICE OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "3447301b-9800-4778-90f8-b336d4f5dde1",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "COUNCIL OF MINISTERS",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "LEGISLATIVE ASSEMBLY",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "COUNCIL OF MINISTERS",
+        "target": "LEGISLATIVE ASSEMBLY",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "7573d9b5-6347-4a62-89c3-a40a0f405324",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Prime Minister",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Prime Minister",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "4cb0c74e-f17c-4627-a88d-274ad2717a5f",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Ministers",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Deputy Ministers",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Sadari-Riyasat",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Ministers and the Deputy Ministers",
+        "target": "Sadari-Riyasat",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "c2d894f8-6d12-41b6-8461-11fb939d8606",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "MINISTER",
+        "type": "PERSON"
+      },
+      {
+        "name": "DEPUTY MINISTER",
+        "type": "PERSON"
+      },
+      {
+        "name": "SADAR-i-RIYASAT",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "MINISTER",
+        "target": "SADAR-i-RIYASAT",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "DEPUTY MINISTER",
+        "target": "SADAR-i-RIYASAT",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "b84e3011-6a2e-4df0-a690-ef1eddb874f9",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "MINISTERS",
+        "type": "PERSON"
+      },
+      {
+        "name": "DEPUTY MINISTERS",
+        "type": "PERSON"
+      },
+      {
+        "name": "LEGISLATURE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "JAMMU AND KASHMIR MINISTER S SALARIES ACT, 1956 (ACT VI OF 1956)",
+        "type": "LAWS"
+      },
+      {
+        "name": "JAMMU AND KASHMIR MINISTERS TRAVELLING ALLOWANCES RULES",
+        "type": "LAWS"
+      },
+      {
+        "name": "JAMMU AND KASHMIR DEPUTY MINISTERS SALARIES AND ALLOWANCES ACT",
+        "type": "LAWS"
+      },
+      {
+        "name": "ADVOCATE GENERAL",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "MINISTERS",
+        "target": "JAMMU AND KASHMIR MINISTER S SALARIES ACT, 1956 (ACT VI OF 1956)",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "DEPUTY MINISTERS",
+        "target": "JAMMU AND KASHMIR DEPUTY MINISTERS SALARIES AND ALLOWANCES ACT",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "MINISTERS",
+        "target": "JAMMU AND KASHMIR MINISTERS TRAVELLING ALLOWANCES RULES",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "DEPUTY MINISTERS",
+        "target": "JAMMU AND KASHMIR DEPUTY MINISTERS SALARIES AND ALLOWANCES ACT",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "MINISTERS",
+        "target": "LEGISLATURE",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "DEPUTY MINISTERS",
+        "target": "LEGISLATURE",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "e637a980-1ed1-4f01-b748-496d14b12eb8",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Advocate General",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Advocate General",
+        "relation": "APPOINTMENT"
+      },
+      {
+        "source": "Advocate General",
+        "target": "Government",
+        "relation": "ADVICE"
+      }
+    ]
+  },
+  {
+    "chunk_id": "8cc1bb55-9fa4-40ba-bfcf-429a81e14037",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Government of the State",
+        "relation": "MAKES_RULES_FOR"
+      },
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Ministers",
+        "relation": "ALLOCATES_BUSINESS_TO"
+      }
+    ]
+  },
+  {
+    "chunk_id": "f047799b-6044-4291-973a-c5f549141375",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Prime Minister",
+        "type": "PERSON"
+      },
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "PERSON"
+      },
+      {
+        "name": "Council of Ministers",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Prime Minister",
+        "target": "Sadar-i-Riyasat",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Prime Minister",
+        "target": "Council of Ministers",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "b10de225-02ff-460e-b99f-7895f863ef87",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Jammu and Kashmir",
+        "type": "LOCATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "All executive action of the Government",
+        "target": "Sadar-i-Riyasat",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Orders and other instruments made and executed",
+        "target": "Sadar-i-Riyasat",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "6dca4085-5e88-404e-a0d4-afd74d9847e4",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislative Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislative Council",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Legislature for the State",
+        "target": "Sadar-i-Riyasat",
+        "relation": "CONSTITUTES"
+      },
+      {
+        "source": "Legislature for the State",
+        "target": "Legislative Assembly",
+        "relation": "CONSTITUTES"
+      },
+      {
+        "source": "Legislature for the State",
+        "target": "Legislative Council",
+        "relation": "CONSTITUTES"
+      }
+    ]
+  },
+  {
+    "chunk_id": "9ec5dc8f-0d7c-4391-b097-564223095320",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Legislative Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Legislative Assembly",
+        "target": "Sadar-i-Riyasat",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "fd9fe49c-13db-46d9-ad08-3a0e6a4c93f5",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Pakistan",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislative Assembly",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "48. Notwithstanding anything contained in section 47, until the area of the State under the occuptions of Pakistan ceases to so occupied and the people residing in that area elect their representatives",
+        "target": "Pakistan",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "25 seats in the Legislative Assembly shall remain vacant and shall not be taken into account for reckoning the total member-ship of the Assembly; and the said area shall be excluded in delimiting the territorial Constituencies Under",
+        "target": "Legislative Assembly",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "68324eef-2dd8-4893-a278-05ecd5340342",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Scheduled Castes",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "Legislative Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "State",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "India",
+        "type": "COUNTRY"
+      },
+      {
+        "name": "Constitution of India",
+        "type": "DOCUMENT"
+      },
+      {
+        "name": "article 341",
+        "type": "ARTICLE"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Scheduled Castes",
+        "target": "Legislative Assembly",
+        "relation": "RESERVED_SEATS"
+      },
+      {
+        "source": "Scheduled Castes",
+        "target": "State",
+        "relation": "POPULATION"
+      },
+      {
+        "source": "India",
+        "target": "Constitution of India",
+        "relation": "CONSTITUTION"
+      }
+    ]
+  },
+  {
+    "chunk_id": "16b86974-c31e-4b8f-a3cd-0754cd70a33b",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Legislative Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislative Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Province of Kashmir",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Province of Jammu",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Doda District",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Poonch District",
+        "type": "LOCATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Legislative Council",
+        "target": "Legislative Assembly",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Province of Kashmir",
+        "target": "Province of Jammu",
+        "relation": "DISTINCT"
+      }
+    ]
+  },
+  {
+    "chunk_id": "b6f6f650-c633-4d32-a1c6-387e0f5d428a",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "PERSON",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislature",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislative Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislative Council",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "PERSON",
+        "target": "STATE",
+        "relation": "RESIDENT"
+      },
+      {
+        "source": "PERSON",
+        "target": "Legislature",
+        "relation": "QUALIFIED FOR SEAT"
+      },
+      {
+        "source": "PERSON",
+        "target": "Legislative Assembly",
+        "relation": "AGE REQUIREMENT"
+      },
+      {
+        "source": "PERSON",
+        "target": "Legislative Council",
+        "relation": "AGE REQUIREMENT"
+      }
+    ]
+  },
+  {
+    "chunk_id": "b7ab15a2-dc92-4024-a70a-dcc6a06dc1b1",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Legislative Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Proclamation of Emergency",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "Constitution of India",
+        "type": "LAWS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Legislative Assembly",
+        "target": "Proclamation of Emergency",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Constitution of India",
+        "target": "Proclamation of Emergency",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "5181156c-691e-417a-8b65-756dff8ac646",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislature",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislative Assembly",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Legislature",
+        "relation": "SUMMONS"
+      },
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Legislative Assembly",
+        "relation": "DISMOLVES"
+      }
+    ]
+  },
+  {
+    "chunk_id": "8037615d-294d-44e7-8a21-735b3816fca7",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "House of Legislature",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Both Houses assembled together",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "1fa745f3-ec11-41a2-9c52-4170605dbdbc",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Legislative Assembly",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Legislature",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "5633ca2e-1d8c-43ef-b51b-7ed6c84de703",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "MINISTER",
+        "type": "PERSON"
+      },
+      {
+        "name": "ADVOCATE GENERAL",
+        "type": "PERSON"
+      },
+      {
+        "name": "STATE LEGISLATURE",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "MINISTER",
+        "target": "STATE LEGISLATURE",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "ADVOCATE GENERAL",
+        "target": "STATE LEGISLATURE",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "c01ba383-12e8-4ec5-b7b5-e53353b037d0",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Legislative Assembly",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Legislative Assembly",
+        "target": "Speaker",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Legislative Assembly",
+        "target": "Deputy Speaker",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "f0d0e30f-8ad9-4cc9-a61a-bcd5ddec5fd5",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Speaker",
+        "type": "PERSON"
+      },
+      {
+        "name": "Deputy Speaker",
+        "type": "PERSON"
+      },
+      {
+        "name": "Legislative Assembly",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Speaker",
+        "target": "Deputy Speaker",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Deputy Speaker",
+        "target": "Speaker",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "f6a86ff1-7f58-4c86-beb6-5ef56eb2d891",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Speaker",
+        "target": "Deputy Speaker",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Deputy Speaker",
+        "target": "Sadar-i-Riyasat",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "ab9abf49-6c19-494d-8395-edd6ecc827de",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Legislative Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Speaker",
+        "type": "PERSON"
+      },
+      {
+        "name": "Deputy Speaker",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Legislative Assembly",
+        "target": "Speaker",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Legislative Assembly",
+        "target": "Deputy Speaker",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "8263db59-4267-44dd-939f-e07218544459",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Legislative Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Chairman",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "Deputy Chairman",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "Speaker",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "Assembly",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Legislative Council",
+        "target": "Chairman",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Legislative Council",
+        "target": "Deputy Chairman",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Speaker",
+        "target": "Assembly",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "174634ee-d69f-40e5-8721-4ed778525173",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "SPEAKER",
+        "type": "PERSON"
+      },
+      {
+        "name": "DEPUTY SPEAKER",
+        "type": "PERSON"
+      },
+      {
+        "name": "LEGISLATIVE ASSEMBLY",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CHAIRMAN",
+        "type": "PERSON"
+      },
+      {
+        "name": "DEPUTY CHAIRMAN",
+        "type": "PERSON"
+      },
+      {
+        "name": "LEGISLATIVE COUNCIL",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "THIRD SCHEDULE",
+        "type": "SCHEDULE"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "SPEAKER",
+        "target": "LEGISLATIVE ASSEMBLY",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "DEPUTY SPEAKER",
+        "target": "LEGISLATIVE ASSEMBLY",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "CHAIRMAN",
+        "target": "LEGISLATIVE COUNCIL",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "DEPUTY CHAIRMAN",
+        "target": "LEGISLATIVE COUNCIL",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "6192fba9-32ec-4847-88e7-291eafc5995d",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Speaker of the Legislative Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Chairman of the Legislative Council",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Speaker of the Legislative Assembly",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Chairman of the Legislative Council",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "658e0ffa-c9a2-43fd-9c7e-00d99066f6cc",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Legislative Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislative Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "MEMBER OF THE LEGISLATIVE ASSEMBLY OR THE LEGISLATIVE COUNCIL",
+        "target": "SADAR-IRIYASAT",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "0c908195-e892-4bfe-9865-0f06598e9004",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "House",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislative Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislative Council",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "65. Save as otherwise provided by the rules of procedure of the House, the quorum to constitute a meeting of the Legislative Assembly and of the Legislative Council shall be twenty and ten respectively.",
+        "target": "House",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "65. Save as otherwise provided by the rules of procedure of the House, the quorum to constitute a meeting of the Legislative Assembly and of the Legislative Council shall be twenty and ten respectively.",
+        "target": "Legislative Assembly",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "65. Save as otherwise provided by the rules of procedure of the House, the quorum to constitute a meeting of the Legislative Assembly and of the Legislative Council shall be twenty and ten respectively.",
+        "target": "Legislative Council",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "77924a1a-25aa-41dd-a025-36269a1188c2",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "HOUSE OF THE LEGISLATURE",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "HOUSE OF THE LEGISLATURE",
+        "target": "ANY PERSON WHO WAS NOT ENTITLED SO TO DO",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "7c958045-258c-4033-bc75-9153b2aa25ea",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "CONSTITUTION",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "HOUSE OF THE LEGISLATURE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "SPEAKER",
+        "type": "PERSON"
+      },
+      {
+        "name": "CHAIRMAN",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "CONSTITUTION",
+        "target": "HOUSE OF THE LEGISLATURE",
+        "relation": "APPLIES_TO"
+      },
+      {
+        "source": "SPEAKER",
+        "target": "HOUSE OF THE LEGISLATURE",
+        "relation": "MEMBER_OF"
+      },
+      {
+        "source": "CHAIRMAN",
+        "target": "HOUSE OF THE LEGISLATURE",
+        "relation": "MEMBER_OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "ccf2be2f-a750-4346-8367-b021339a33ab",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Legislature",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Speaker",
+        "type": "PERSON"
+      },
+      {
+        "name": "Chairman",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Legislature",
+        "target": "Speaker",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Legislature",
+        "target": "Chairman",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "9edccfc5-efca-463b-b98b-f4fb7c679e02",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "PERSON",
+        "type": "PERSON"
+      },
+      {
+        "name": "Legislative Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislative Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Government of India",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "State Government",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Union of India",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "competent court",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "PERSON",
+        "target": "Legislative Assembly",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "PERSON",
+        "target": "Legislative Council",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "PERSON",
+        "target": "Government of India",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "PERSON",
+        "target": "State Government",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "PERSON",
+        "target": "Union of India",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "competent court",
+        "target": "Legislative Assembly",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "9ba6d36f-2ffb-4ac8-8616-f880d2f2777e",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Speaker",
+        "type": "PERSON"
+      },
+      {
+        "name": "Chairman",
+        "type": "PERSON"
+      },
+      {
+        "name": "Legislative Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislative Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "High Court",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Speaker",
+        "target": "Member of the Legislative Assembly or Legislative Council",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Chairman",
+        "target": "Member of the Legislative Assembly or Legislative Council",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Legislative Assembly",
+        "target": "Member",
+        "relation": "MEMBER_OF"
+      },
+      {
+        "source": "Legislative Council",
+        "target": "Member",
+        "relation": "MEMBER_OF"
+      },
+      {
+        "source": "High Court",
+        "target": "Speaker or Chairman",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "4356ef0e-98a8-4ae3-b6c7-525c6601f6ee",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "PERSON",
+        "type": "PERSON"
+      },
+      {
+        "name": "Legislative Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislative Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "section 54",
+        "type": "ARTICLE"
+      },
+      {
+        "name": "State",
+        "type": "CONSTITUTIONAL CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "PERSON",
+        "target": "Legislative Assembly",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "PERSON",
+        "target": "Legislative Council",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "section 54",
+        "target": "Legislative Assembly",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "section 54",
+        "target": "Legislative Council",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "PERSON",
+        "target": "State",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "a22f6394-0c37-4719-973a-889fc370c33f",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "CONSTITUTION OF INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "LEGISLATURE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "HOUSE OF THE LEGISLATURE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PARLIAMENT OF INDIA",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "CONSTITUTION OF INDIA",
+        "target": "LEGISLATURE",
+        "relation": "REGULATES"
+      },
+      {
+        "source": "LEGISLATURE",
+        "target": "HOUSE OF THE LEGISLATURE",
+        "relation": "PART_OF"
+      },
+      {
+        "source": "CONSTITUTION OF INDIA",
+        "target": "PARLIAMENT OF INDIA",
+        "relation": "BASED_ON"
+      }
+    ]
+  },
+  {
+    "chunk_id": "5a628f2a-90be-4c11-9ea9-12e3e6a4347e",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "MEMBERS OF THE LEGISLATIVE ASSEMBLY",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "MEMBERS OF THE LEGISLATIVE COUNCIL",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "LEGISLATURE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CONSTITUENT ASSEMBLY",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "MEMBERS OF THE LEGISLATIVE ASSEMBLY AND THE LEGISLATIVE COUNCIL",
+        "target": "LEGISLATURE",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "LEGISLATURE",
+        "target": "CONSTITUENT ASSEMBLY",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "1cb6981a-8430-4956-80a4-3da512a9852d",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Money Bills",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "Financial Bills",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "Legislature",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "House of the Legislature",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislative Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislative Assembly",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Bill",
+        "target": "Money Bills",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Bill",
+        "target": "Financial Bills",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Bill",
+        "target": "Legislature",
+        "relation": "ORIGINATES_IN"
+      },
+      {
+        "source": "Bill",
+        "target": "House of the Legislature",
+        "relation": "ORIGINATES_IN"
+      },
+      {
+        "source": "Bill",
+        "target": "Legislative Council",
+        "relation": "PENDING_IN"
+      },
+      {
+        "source": "Bill",
+        "target": "Legislative Assembly",
+        "relation": "PENDING_IN"
+      }
+    ]
+  },
+  {
+    "chunk_id": "a7787e95-e465-45d1-b91b-d95f377802cd",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Legislative Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislative Council",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Bill",
+        "target": "Legislative Assembly",
+        "relation": "SUBMITTED_TO"
+      },
+      {
+        "source": "Bill",
+        "target": "Legislative Council",
+        "relation": "SUBMITTED_TO"
+      }
+    ]
+  },
+  {
+    "chunk_id": "36222842-3a2e-416e-9a39-ccd902f0d5e1",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Money Bill",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "Legislative Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislative Assembly",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Money Bill",
+        "target": "Legislative Council",
+        "relation": "NOT INTRODUCED IN"
+      },
+      {
+        "source": "Money Bill",
+        "target": "Legislative Assembly",
+        "relation": "TRANSMITTED TO FOR RECOMMENDATIONS"
+      },
+      {
+        "source": "Legislative Council",
+        "target": "Legislative Assembly",
+        "relation": "RETURN WITH RECOMMENDATIONS"
+      },
+      {
+        "source": "Legislative Assembly",
+        "target": "Money Bill",
+        "relation": "ACCEPT OR REJECT RECOMMENDATIONS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "9a983aa7-df39-4910-bc99-c60123e13aeb",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "SPEAKER",
+        "type": "PERSON"
+      },
+      {
+        "name": "Legislative Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislative Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Bill",
+        "target": "Money Bill",
+        "relation": "DEEMED_TO_BE"
+      },
+      {
+        "source": "Speaker of the Legislative Assembly",
+        "target": "Legislative Assembly",
+        "relation": "MEMBER_OF"
+      },
+      {
+        "source": "Speaker of the Legislative Assembly",
+        "target": "Legislative Council",
+        "relation": "CERTIFIED_BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "c339b7df-c6ac-45b6-9231-aa5644109135",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Bill",
+        "target": "Sadar-i-Riyasat",
+        "relation": "PRESENTED_TO"
+      },
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Houses of the Legislature",
+        "relation": "REQUESTS_RECONSIDERATION_OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "300af11c-77e6-4ac1-823a-83395989065d",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "PERSON"
+      },
+      {
+        "name": "Legislature",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "annual financial statement",
+        "type": "ARTICLE"
+      },
+      {
+        "name": "Consolidated Fund of the State",
+        "type": "CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Legislature",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "annual financial statement",
+        "target": "Consolidated Fund of the State",
+        "relation": "CONTAINS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "bf9213e6-1dc7-4d9c-9f2a-4a6d3e7f092c",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "No demand for a grant shall be made except on the recommendation of the Sadar-i–Riyasat.",
+        "target": "Sadar-i-Riyasat",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "497e391d-cd1d-4352-ba75-04facab7d33c",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislature",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Bill",
+        "target": "Assembly",
+        "relation": "PROVIDED_BY"
+      },
+      {
+        "source": "Legislature",
+        "target": "Bill",
+        "relation": "AFFECTS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "5f55d36a-f292-4d7e-8495-f9e3b36eefbd",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislature",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislative Assembly",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Legislature",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Legislative Assembly",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "5448ac3f-ba42-44f8-87ba-a058c48e98a2",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Legislative Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Consolidated Fund of the State",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Legislative Assembly",
+        "target": "Consolidated Fund of the State",
+        "relation": "AUTHORISE_WITHDRAWAL"
+      },
+      {
+        "source": "Legislative Assembly",
+        "target": "Annual Financial Statement",
+        "relation": "MAKE_GRANT"
+      }
+    ]
+  },
+  {
+    "chunk_id": "818d6008-3102-467c-8585-656ac2222b9d",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-iRiyasat",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "A bill or amendment",
+        "target": "Sadar-iRiyasat",
+        "relation": "RECOMMENDED_BY"
+      },
+      {
+        "source": "A Bill making provision for any of the matters specified in clauses (a) to (f)",
+        "target": "Sadar-iRiyasat",
+        "relation": "RECOMMENDED_BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "9be63ee1-6c4a-4709-8cb9-67e80b774ad7",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Speaker of the Legislative Assembly",
+        "type": "PERSON"
+      },
+      {
+        "name": "Chairman of the Legislative Council",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Speaker of the Legislative Assembly",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Chairman of the Legislative Council",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "b24a52d4-f5fc-4760-8963-6f87a275a605",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Legislature",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "House of the Legislature",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Consolidated Fund of the State",
+        "type": "CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Legislature",
+        "target": "House of the Legislature",
+        "relation": "REGULATES_PROCEDURE_OF"
+      },
+      {
+        "source": "Legislature",
+        "target": "Consolidated Fund of the State",
+        "relation": "AFFECTS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "252a45f4-5da0-4bf4-8afb-1f3cb08c587e",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "BUSINESS IN THE LEGISLATURE",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "SPEAKER OF THE LEGISLATIVE ASSEMBLY",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CHAIRMAN OF THE LEGISLATIVE COUNCIL",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "HINDI",
+        "type": "LANGUAGE"
+      },
+      {
+        "name": "MOTHER TONGUE",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "OFFICIAL RECORDS OF THE PROCEEDINGS IN THE LEGISLATURE",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "BILLS AND AMENDMENTS",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "ACTS PASSED BY THE LEGISLATURE",
+        "type": "CONSTITUTIONAL CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "BUSINESS IN THE LEGISLATURE",
+        "target": "SPEAKER OF THE LEGISLATIVE ASSEMBLY",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "BUSINESS IN THE LEGISLATURE",
+        "target": "CHAIRMAN OF THE LEGISLATIVE COUNCIL",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "BUSINESS IN THE LEGISLATURE",
+        "target": "HINDI",
+        "relation": "ALLOWED"
+      },
+      {
+        "source": "BUSINESS IN THE LEGISLATURE",
+        "target": "MOTHER TONGUE",
+        "relation": "ALLOWED"
+      },
+      {
+        "source": "OFFICIAL RECORDS OF THE PROCEEDINGS IN THE LEGISLATURE",
+        "target": "URDU",
+        "relation": "RECORDED"
+      },
+      {
+        "source": "OFFICIAL RECORDS OF THE PROCEEDINGS IN THE LEGISLATURE",
+        "target": "ENGLISH",
+        "relation": "RECORDED"
+      },
+      {
+        "source": "BILLS AND AMENDMENTS",
+        "target": "ENGLISH",
+        "relation": "AUTHORITATIVE"
+      }
+    ]
+  },
+  {
+    "chunk_id": "4a6d319b-3b75-46de-a50a-0edd4a0fc069",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Legislature",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Supreme Court",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "High Court",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Legislature",
+        "target": "Supreme Court",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Legislature",
+        "target": "High Court",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "c3eb7d64-77aa-4724-ba8a-2669f99519c7",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Legislature",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Constitution",
+        "type": "CONSTITUTIONAL_CONCEPTS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Legislature",
+        "target": "Constitution",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "ba404acb-56cc-445d-ac19-04d9df18f2a1",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "SADARI-RIYASAT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CONSTITUTION",
+        "type": "CONSTITUTIONAL CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "ACT OF THE LEGISLATURE",
+        "target": "SADARI-RIYASAT",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "PROVISION IN ANY SUCH ACT",
+        "target": "SADARI-RIYASAT",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "CONSTITUTION",
+        "target": "SADARI-RIYASAT",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "5829021e-edb1-4ed6-8272-0ca69fc182c9",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "PERSON"
+      },
+      {
+        "name": "Legislature",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislative Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislative Council",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Legislature",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Ordinances",
+        "target": "Legislature",
+        "relation": "MADE_BY"
+      },
+      {
+        "source": "Ordinances",
+        "target": "Sadar-i-Riyasat",
+        "relation": "PROMULGATED_BY"
+      },
+      {
+        "source": "Ordinances",
+        "target": "Legislative Assembly",
+        "relation": "LAYOUT_BEFORE"
+      },
+      {
+        "source": "Ordinances",
+        "target": "Legislative Council",
+        "relation": "AGREED_TO_BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "fc2df780-b1e7-4552-a5fb-290346fe67be",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "PERSON"
+      },
+      {
+        "name": "President of India",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "President of India",
+        "relation": "CONCURRED_WITH"
+      }
+    ]
+  },
+  {
+    "chunk_id": "ec5baece-0fd7-4e5c-97da-4a262af2f665",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "HIGH COURT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CHIEF JUSTICE",
+        "type": "PERSON"
+      },
+      {
+        "name": "JUDGES",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "HIGH COURT",
+        "target": "CHIEF JUSTICE",
+        "relation": "CONSTITUTES"
+      },
+      {
+        "source": "HIGH COURT",
+        "target": "JUDGES",
+        "relation": "CONSTITUTES"
+      }
+    ]
+  },
+  {
+    "chunk_id": "24300c70-dc67-4fb6-b839-f5d6c4ec344a",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "HIGH COURT",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "HIGH COURT",
+        "target": "COURT OF RECORD",
+        "relation": "IS A"
+      },
+      {
+        "source": "HIGH COURT",
+        "target": "SUBORDINATE COURTS",
+        "relation": "SUPERVISION OVER"
+      }
+    ]
+  },
+  {
+    "chunk_id": "d37d6dd7-8cca-40ed-86a2-04cdb76546d8",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "JUDGE",
+        "type": "PERSON"
+      },
+      {
+        "name": "PRESIDENT",
+        "type": "PERSON"
+      },
+      {
+        "name": "CHIEF JUSTICE OF INDIA",
+        "type": "PERSON"
+      },
+      {
+        "name": "SADAR-i-RIYASAT",
+        "type": "PERSON"
+      },
+      {
+        "name": "HIGH COURT",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "JUDGE",
+        "target": "PRESIDENT",
+        "relation": "APPOINTED_BY"
+      },
+      {
+        "source": "JUDGE",
+        "target": "CHIEF JUSTICE OF INDIA",
+        "relation": "CONSULTED_WITH"
+      },
+      {
+        "source": "JUDGE",
+        "target": "SADAR-i-RIYASAT",
+        "relation": "CONSULTED_WITH"
+      },
+      {
+        "source": "JUDGE",
+        "target": "HIGH COURT",
+        "relation": "APPOINTED_BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "c22e456e-fb8f-46b7-b249-4398e32e7025",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "PERSON",
+        "type": "PERSON"
+      },
+      {
+        "name": "JUDGE OF THE HIGH COURT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "INDIA",
+        "type": "LOCATION"
+      },
+      {
+        "name": "STATE",
+        "type": "LOCATION"
+      },
+      {
+        "name": "HIGH COURT",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "PERSON",
+        "target": "JUDGE OF THE HIGH COURT",
+        "relation": "QUALIFIED FOR APPOINTMENT"
+      },
+      {
+        "source": "PERSON",
+        "target": "INDIA",
+        "relation": "CITIZEN OF"
+      },
+      {
+        "source": "PERSON",
+        "target": "STATE",
+        "relation": "HOLDS JUDICIAL OFFICE IN"
+      },
+      {
+        "source": "PERSON",
+        "target": "HIGH COURT",
+        "relation": "ADVOCATE OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "a370aafb-711d-4737-9c88-51e7d3cacf63",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "High Court",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Every person appointed to be a Judge of the High Court",
+        "target": "Sadar-i-Riyasat",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Every person appointed to be a Judge of the High Court",
+        "target": "High Court",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "836589c6-e867-43db-ab16-f424a0829e5b",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Judges of the High Court",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Fourth Schedule",
+        "type": "SCHEDULE"
+      },
+      {
+        "name": "Legislature",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Judges of the High Court",
+        "target": "Fourth Schedule",
+        "relation": "RECEIVE_SALARIES"
+      },
+      {
+        "source": "Judges of the High Court",
+        "target": "Legislature",
+        "relation": "ALLOWANCES_DETERMINED_BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "4bc7e4e9-52c6-4cfb-a13c-082248757102",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "JUDGE OF THE HIGH COURT",
+        "type": "PERSON"
+      },
+      {
+        "name": "PRESIDENT",
+        "type": "PERSON"
+      },
+      {
+        "name": "LEGISLATURE",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "JUDGE OF THE HIGH COURT",
+        "target": "PRESIDENT",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "PRESIDENT",
+        "target": "LEGISLATURE",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "5429691f-9cf8-46e8-91e2-9d36fe59cae1",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "CHIEF JUSTICE",
+        "type": "PERSON"
+      },
+      {
+        "name": "JUDGES",
+        "type": "PERSON"
+      },
+      {
+        "name": "PRESIDENT",
+        "type": "PERSON"
+      },
+      {
+        "name": "HIGH COURT",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "CHIEF JUSTICE",
+        "target": "JUDGES",
+        "relation": "APPOINTED_BY"
+      },
+      {
+        "source": "PRESIDENT",
+        "target": "JUDGES",
+        "relation": "APPOINTED_FOR"
+      }
+    ]
+  },
+  {
+    "chunk_id": "fb92aa3a-e1a0-4dce-b0f4-126aaa26d4be",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "High Court",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Chief Justice",
+        "type": "PERSON"
+      },
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "High Court",
+        "target": "Jammu and Srinagar",
+        "relation": "LOCATED_IN"
+      },
+      {
+        "source": "Chief Justice",
+        "target": "Sadar-i-Riyasat",
+        "relation": "APPROVED_BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "4c91584c-acb7-4a0e-849b-1c30f505bb01",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "HIGH COURT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CONSTITUTION",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "102. Subject to the provisions of this Constitution and to the provisions of any law for the time being in force, the jurisdiction of and the law administered in the High Court",
+        "target": "CONSTITUTION",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "40f43952-2a25-420c-bada-7bf4f18d9d06",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "HIGH COURT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CONSTITUTION OF INDIA",
+        "type": "LAWS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "HIGH COURT",
+        "target": "CONSTITUTION OF INDIA",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "0971a2f1-5684-48f4-9cb7-678e27abe164",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "HIGH COURT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "SADAR-i-RIYASAT",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "HIGH COURT",
+        "target": "SADAR-i-RIYASAT",
+        "relation": "APPROVED_BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "e9e139b4-e00c-4ee4-98df-4c8c8168aa8b",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "HIGH COURT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CONSTITUTION OF INDIA",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "HIGH COURT",
+        "target": "CONSTITUTION OF INDIA",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "f3235362-3ed8-48d5-9294-16a60bfc7bac",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "JUDGE OF THE HIGH COURT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CONSTITUTION",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "NO PERSON",
+        "target": "JUDGE OF THE HIGH COURT",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "NO PERSON",
+        "target": "CONSTITUTION",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "8f3913d5-5b68-4ec1-b59f-4b6cd35e0eab",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "HIGH COURT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "STATE EMBLEM",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "CHIEF JUSTICE",
+        "type": "PERSON"
+      },
+      {
+        "name": "REGISTRAR",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "HIGH COURT",
+        "target": "STATE EMBLEM",
+        "relation": "HAS_SEAL_WITH"
+      },
+      {
+        "source": "CHIEF JUSTICE",
+        "target": "REGISTRAR",
+        "relation": "DESIGNS_CUSTODIAN_OF_SEAL"
+      }
+    ]
+  },
+  {
+    "chunk_id": "85df208b-51ad-43be-8034-996199c15dd6",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Chief Justice",
+        "type": "PERSON"
+      },
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "PERSON"
+      },
+      {
+        "name": "State Public Service Commission",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislature",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "High Court",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Chief Justice",
+        "target": "High Court",
+        "relation": "APPOINTMENT_MADE_BY"
+      },
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "High Court",
+        "relation": "APPOINTMENT_MADE_BY"
+      },
+      {
+        "source": "State Public Service Commission",
+        "target": "High Court",
+        "relation": "CONSULTED_BY_SADAR_IRIYASAT"
+      },
+      {
+        "source": "Legislature",
+        "target": "High Court",
+        "relation": "CONDITIONS_OF_SERVICE_MADE_BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "737d503c-2984-4f34-97c9-11ad2c97d232",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "High Court",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Appointment of persons to be, and the postings: and promotion of district judges in the State",
+        "target": "Sadar-i-Riyasat",
+        "relation": "MADE BY"
+      },
+      {
+        "source": "Appointment of persons to be, and the postings: and promotion of district judges in the State",
+        "target": "High Court",
+        "relation": "CONSULTED WITH"
+      },
+      {
+        "source": "A person not already in the service of the State",
+        "target": "High Court",
+        "relation": "RECOMMENDED BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "e687741a-1adb-4067-b6fa-6a93af4aedf0",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Public Service Commission",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "High Court",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Public Service Commission",
+        "relation": "CONSULTED"
+      },
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "High Court",
+        "relation": "CONSULTED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "d1edd0ef-2301-48c0-8dac-83430fba3e52",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "DISTRICT COURTS",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "COURTS SUBORDINATE THERETO",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "STATE JUDICIAL SERVICE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "DISTRICT JUDGE",
+        "type": "PERSON"
+      },
+      {
+        "name": "HIGH COURT",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "HIGH COURT",
+        "target": "DISTRICT COURTS",
+        "relation": "CONTROLS"
+      },
+      {
+        "source": "HIGH COURT",
+        "target": "COURTS SUBORDINATE THERETO",
+        "relation": "CONTROLS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "22c3b4db-6830-4dbc-ab7e-6cd0a26068e2",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "DISTRICT JUDGE",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "ASSISTANT DISTRICT JUDGE",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "SESSIONS JUDGE",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "ADDITIONAL SESSIONS JUDGE",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "ASSISTANT SESSIONS JUDGE",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "JUDICIAL SERVICE",
+        "type": "CONSTITUTIONAL CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "DISTRICT JUDGE",
+        "target": "ADDITIONAL DISTRICT JUDGE",
+        "relation": "INCLUDES"
+      },
+      {
+        "source": "DISTRICT JUDGE",
+        "target": "ASSISTANT DISTRICT JUDGE",
+        "relation": "INCLUDES"
+      },
+      {
+        "source": "DISTRICT JUDGE",
+        "target": "SESSIONS JUDGE",
+        "relation": "INCLUDES"
+      },
+      {
+        "source": "DISTRICT JUDGE",
+        "target": "ADDITIONAL SESSIONS JUDGE",
+        "relation": "INCLUDES"
+      },
+      {
+        "source": "DISTRICT JUDGE",
+        "target": "ASSISTANT SESSIONS JUDGE",
+        "relation": "INCLUDES"
+      },
+      {
+        "source": "JUDICIAL SERVICE",
+        "target": "DISTRICT JUDGE",
+        "relation": "CONSISTS OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "13b02400-6aab-490b-bb90-c1a2f84783c6",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": []
+  },
+  {
+    "chunk_id": "10365443-dd3b-4b13-8ff0-312e286f69f8",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "CONSTITUTION",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "GOVERNMENT",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "CONSTITUTION",
+        "target": "GOVERNMENT",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "b4c1d8e6-dcdf-45b8-843b-a84b3ed4755d",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Legislature",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Contingency Fund",
+        "type": "CONSTITUTIONAL_CONCEPTS"
+      },
+      {
+        "name": "Sadar-i–Riyasat",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Legislature",
+        "target": "Contingency Fund",
+        "relation": "ESTABLISHES"
+      },
+      {
+        "source": "Sadar-i–Riyasat",
+        "target": "Contingency Fund",
+        "relation": "USES"
+      }
+    ]
+  },
+  {
+    "chunk_id": "2f5b90b0-7c5e-4207-ac8a-8d8154a19717",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "LEGISLATURE",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "STATE",
+        "target": "LEGISLATURE",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "62242c15-9cb7-421c-981f-1cf75412859a",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Consolidated Fund of the State",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Contingency Funds of the State",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Legislature",
+        "target": "Consolidated Fund of the State",
+        "relation": "REGULATES"
+      },
+      {
+        "source": "Legislature",
+        "target": "Contingency Funds of the State",
+        "relation": "REGULATES"
+      },
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Consolidated Fund of the State",
+        "relation": "REGULATES"
+      },
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Contingency Funds of the State",
+        "relation": "REGULATES"
+      }
+    ]
+  },
+  {
+    "chunk_id": "4878a8d0-f29c-4d0b-9462-56a78788119e",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GOVERNMENT",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "ALL MONEYS",
+        "target": "PUBLIC ACCOUNT OF THE STATE",
+        "relation": "PAID INTO"
+      }
+    ]
+  },
+  {
+    "chunk_id": "fe329d14-929b-4c30-906b-77a9fc64962f",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CONSTITUTION",
+        "type": "CONSTITUTIONAL_CONCEPTS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "STATE",
+        "target": "CONSTITUTION",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "f6096a68-bf4e-46ea-9e60-02ebcc2813b6",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "STATE LEGISLATURE",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "STATE",
+        "target": "STATE LEGISLATURE",
+        "relation": "SUBJECT TO"
+      }
+    ]
+  },
+  {
+    "chunk_id": "8b2b800d-550e-44c8-bbbb-61bf0f191f3f",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "All contracts made in the exercise of the executive power of the State",
+        "target": "Sadar-i-Riyasat",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "The Sadar-i-Riyasat",
+        "target": "all such contracts and all assurance of property made in the exercise of that power",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "71fb6e65-cb2c-437b-8320-c05938f1c841",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE OF JAMMU AND KASHMIR",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GOVERNMENT",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "GOVERNMENT",
+        "target": "STATE OF JAMMU AND KASHMIR",
+        "relation": "SUE OR BE SUED BY"
+      },
+      {
+        "source": "GOVERNMENT",
+        "target": "STATE OF JAMMU AND KASHMIR",
+        "relation": "SUE OR BE SUED IN RELATION TO ITS AFFAIRS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "b31a694d-90bf-4879-9913-2f72cafa513e",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislature",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Legislature",
+        "target": "Sadar-i-Riyasat",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "429fb541-b1f8-4b9a-9c54-bfbd5de6ad65",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Every person who is a member of a civil service of the State or holds any civil post under the State",
+        "target": "Sadar-i-Riyasat",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "A person holding a civil post under the State",
+        "target": "Sadar-i-Riyasat",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "c05abf5f-89c0-4010-a91c-2482e4881967",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "SUBSECTION (2)(c)",
+        "target": "Sadar-i-Riyasat",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "9c3cd01c-5a5a-4601-a738-f02eff1fa6c5",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "THE PUBLIC SERVICE COMMISSION",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": []
+  },
+  {
+    "chunk_id": "5a2b731c-7f77-4a85-9a1e-e48c33f16ca6",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Public Service Commission",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": []
+  },
+  {
+    "chunk_id": "cde1f3d3-5e6a-486f-9f4e-9d4817d72958",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Commission",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Chairman and other members of the Commission",
+        "target": "Sadar-i-Riyasat",
+        "relation": "APPOINTED_BY"
+      },
+      {
+        "source": "Commission member",
+        "target": "Sadar-i-Riyasat",
+        "relation": "RESIGN_TO"
+      }
+    ]
+  },
+  {
+    "chunk_id": "094b7903-63b0-4960-80d0-42424a1cb250",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "High Court",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Commission",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Chairman or any other member of the Commission",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "High Court",
+        "target": "Sadar-i-Riyasat",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "4a6b7dd1-e50b-44fa-acb5-60562c642e9b",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Commission",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Commission",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "24cc36cd-cb89-4b98-a3c1-bf749cd48ddf",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Chairman",
+        "type": "PERSON"
+      },
+      {
+        "name": "Commission",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Government of the State",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Minister",
+        "type": "PERSON"
+      },
+      {
+        "name": "Deputy Minister",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Chairman and the members of the Commission",
+        "target": "Government of the State",
+        "relation": "INELIGIBLE FOR FURTHER OFFICE UNDER"
+      },
+      {
+        "source": "Member other than the Chairman",
+        "target": "Commission",
+        "relation": "ELIGIBLE FOR APPOINTMENT AS A CHAIRMAN OF THE COMMISSION"
+      },
+      {
+        "source": "Office of Minister or Deputy Minister",
+        "target": "Government of the State",
+        "relation": "NOT DEEMED TO BE AN OFFICE UNDER"
+      }
+    ]
+  },
+  {
+    "chunk_id": "88215753-a10f-4247-bb6f-0809a353571f",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "COMMISSION",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "PERSON"
+      },
+      {
+        "name": "Legislative Assembly",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "COMMISSION",
+        "target": "Sadar-i-Riyasat",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "COMMISSION",
+        "target": "Legislative Assembly",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "66e0dfe4-1ab0-496f-b309-ca00a51a11ab",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Chairman",
+        "type": "PERSON"
+      },
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Chairman",
+        "target": "Sadar-i-Riyasat",
+        "relation": "APPOINTED_BY"
+      },
+      {
+        "source": "Commission",
+        "target": "Chairman",
+        "relation": "HEAD_OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "4ba03f84-2904-4713-8163-ad4d77b052f3",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Legislature",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Commission",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Act",
+        "target": "Legislature",
+        "relation": "MADE_BY"
+      },
+      {
+        "source": "Commission",
+        "target": "State services",
+        "relation": "EXERCISES_FUNCTIONS"
+      },
+      {
+        "source": "Commission",
+        "target": "Local authority services",
+        "relation": "EXERCISES_FUNCTIONS"
+      },
+      {
+        "source": "Commission",
+        "target": "Other body corporate constituted by law",
+        "relation": "EXERCISES_FUNCTIONS"
+      },
+      {
+        "source": "Commission",
+        "target": "Public institution services",
+        "relation": "EXERCISES_FUNCTIONS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "116ed8dc-f636-45ca-b745-c366f926dec7",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "COMMISSION",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "COMMISSION",
+        "target": "STATE",
+        "relation": "CHARGED_TO"
+      }
+    ]
+  },
+  {
+    "chunk_id": "e86352f9-d62d-4733-84e7-c607f5fa243f",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Commission",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "PERSON"
+      },
+      {
+        "name": "Legislature",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Commission",
+        "target": "Sadar-i-Riyasat",
+        "relation": "REPORTED_TO"
+      },
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Legislature",
+        "relation": "REQUIRES_REPORT"
+      }
+    ]
+  },
+  {
+    "chunk_id": "ef4d4ae3-228a-4024-8262-677c0100bea9",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Election Commissioner",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Election Commissioner",
+        "relation": "APPOINTED"
+      },
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Deputy Election Commissioner",
+        "relation": "APPOINTED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "4315a9f9-4d5f-45bd-abdc-4ded3c531d56",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "GENERAL ELECTORAL ROLL",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "TERRITORIAL CONSTITUENCY",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "HOUSE OF THE LEGISLATURE",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "139",
+        "target": "GENERAL ELECTORAL ROLL",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "139",
+        "target": "TERRITORIAL CONSTITUENCY",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "139",
+        "target": "HOUSE OF THE LEGISLATURE",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "27fb080c-dbe1-47d7-84e0-cd18f5060f6b",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Legislative Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Permanent Resident",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "twenty-one years of age",
+        "type": "ARTICLE"
+      },
+      {
+        "name": "Law",
+        "type": "LAWS"
+      },
+      {
+        "name": "Legislature",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "non-residence",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "unsoundness of mind",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "crime",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "corruptor illegal practice",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Elections to the Legislative Assembly",
+        "target": "Permanent Resident",
+        "relation": "BASED ON"
+      },
+      {
+        "source": "twenty-one years of age",
+        "target": "Legislative Assembly",
+        "relation": "REQUIRED FOR VOTING"
+      },
+      {
+        "source": "Law made by the Legislature",
+        "target": "Elections to the Legislative Assembly",
+        "relation": "REGULATES"
+      },
+      {
+        "source": "Legislature",
+        "target": "Law made by the Legislature",
+        "relation": "MAKES"
+      },
+      {
+        "source": "Permanent Resident",
+        "target": "non-residence",
+        "relation": "DISQUALIFIED FOR"
+      },
+      {
+        "source": "Permanent Resident",
+        "target": "unsoundness of mind",
+        "relation": "DISQUALIFIED FOR"
+      },
+      {
+        "source": "Permanent Resident",
+        "target": "crime",
+        "relation": "DISQUALIFIED FOR"
+      },
+      {
+        "source": "Permanent Resident",
+        "target": "corruptor illegal practice",
+        "relation": "DISQUALIFIED FOR"
+      }
+    ]
+  },
+  {
+    "chunk_id": "739728db-d779-4447-97cb-75551405ff2d",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "CONSTITUTION",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "Legislature",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "CONSTITUTION",
+        "target": "Legislature",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "32868043-869b-4ecd-8466-ec12b1982fc6",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "CONSTITUTION",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "SECTION 141",
+        "type": "ARTICLE"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "CONSTITUTION",
+        "target": "SECTION 141",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "8d4c6b0d-1213-4f18-b826-813e39b76b6a",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "court",
+        "relation": "NOT ANSWERABLE TO"
+      },
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Government",
+        "relation": "RIGHT OF PERSON TO BRING APPROPRIATE PROCEEDINGS AGAINST"
+      }
+    ]
+  },
+  {
+    "chunk_id": "1b85b226-1ea5-461b-aaad-7da716ffd97d",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "STATE",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": []
+  },
+  {
+    "chunk_id": "632b3fab-1921-42ce-a63d-2e6170944090",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Academy of Arts, Culture, and Language",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sadar-i-Riyasat",
+        "target": "Academy of Arts, Culture, and Language",
+        "relation": "ESTABLISHES"
+      }
+    ]
+  },
+  {
+    "chunk_id": "71494bc8-052c-477c-b92f-653501e645b6",
+    "source_file": "Constitution of Jammu  Kashmir 1957.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sadar-i-Riyasat",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislative Assembly",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislative Council",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "India",
+        "type": "LOCATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Amendment of Constitution",
+        "target": "Legislative Assembly",
+        "relation": "INITIATED BY"
+      },
+      {
+        "source": "Bill for Amendment",
+        "target": "Legislative Assembly",
+        "relation": "INTRODUCED IN"
+      },
+      {
+        "source": "Bill for Amendment",
+        "target": "Sadar-i-Riyasat",
+        "relation": "SENT TO FOR ASSENT"
+      },
+      {
+        "source": "Amendment of Constitution",
+        "target": "Legislative Council",
+        "relation": "ALLOWED FOR ABOLITION"
+      }
+    ]
+  }
+]

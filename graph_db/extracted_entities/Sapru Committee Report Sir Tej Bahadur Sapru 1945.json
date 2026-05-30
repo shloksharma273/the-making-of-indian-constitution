@@ -1,0 +1,1647 @@
+[
+  {
+    "chunk_id": "ae385216-0acb-482b-aee2-1bd6f0f7f3da",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "INTERNATIONAL EVENTS",
+        "type": "CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "COMMITTEE",
+        "target": "INDIA",
+        "relation": "RECOMMENDED"
+      },
+      {
+        "source": "COMMITTEE",
+        "target": "INTERNATIONAL EVENTS",
+        "relation": "CONCERNED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "260d7d5f-5cb9-46d5-897e-9b520dac6dbe",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "ROYAL PROCLAMATION",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "Bританской империей",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "INDIA",
+        "target": "ROYAL PROCLAMATION",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "INDIA",
+        "target": "Bританской империей",
+        "relation": "EQUAL TO"
+      }
+    ]
+  },
+  {
+    "chunk_id": "e217c330-4f94-4b07-a41e-b70aeaa13379",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Proclamations",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Legislatures",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Popular Ministries",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Prime Minister",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Proclamations",
+        "target": "Legislatures",
+        "relation": "ALLOWED_TO_RESUME"
+      },
+      {
+        "source": "Popular Ministries",
+        "target": "Legislatures",
+        "relation": "ALLOWED_TO_FUNCTION"
+      },
+      {
+        "source": "Prime Minister",
+        "target": "Popular Ministries",
+        "relation": "REQUIRED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "77523be5-c447-429a-85fc-c9f63bc9a6d7",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "BRITISH INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "NATIONAL GOVERNMENT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "EXECUTIVE COUNCIL",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "BRITISH INDIA",
+        "target": "NATIONAL GOVERNMENT",
+        "relation": "REPLACED BY"
+      },
+      {
+        "source": "EXECUTIVE COUNCIL",
+        "target": "NATIONAL GOVERNMENT",
+        "relation": "REPLACED BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "ba1e6b26-df86-43a7-a0f2-d875eabb8701",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "GOVERNMENT OF INDIA ACT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "INDIAN STATES",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "GOVERNMENT OF INDIA ACT",
+        "target": "INDIAN STATES",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "502c5d36-bb98-4306-8081-220e3f9f7823",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "GOVERNMENT OF INDIA ACT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PRIME MINISTER",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "GOVERNMENT OF INDIA ACT",
+        "target": "FORMATION OF SUCH A MINISTRY",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "PRIME MINISTER",
+        "target": "FORMATION OF SUCH A MINISTRY",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "64ac609a-bd4b-45e4-a5da-65d40a5d2b04",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "SCHEDULE IX",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "EXECUTIVE COUNCIL",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CENTRAL LEGISLATURE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "GOVERNOR-GENERAL-IN-COUNCIL",
+        "type": "PERSON"
+      },
+      {
+        "name": "COMMANDER-IN-CHIEF",
+        "type": "PERSON"
+      },
+      {
+        "name": "EXECUTIVE COUNCILLOR",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "SCHEDULE IX",
+        "target": "EXECUTIVE COUNCIL",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "SCHEDULE IX",
+        "target": "CENTRAL LEGISLATURE",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "SCHEDULE IX",
+        "target": "GOVERNOR-GENERAL-IN-COUNCIL",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "SCHEDULE IX",
+        "target": "COMMANDER-IN-CHIEF",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "SCHEDULE IX",
+        "target": "EXECUTIVE COUNCILLOR",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "cfb7882f-cee4-4e94-98e1-d45fe75422f4",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "I.C.S.",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "SECRETARY OF STATE",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "COMMITTEE",
+        "target": "SECRETARY OF STATE",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "dd1ebdf9-db37-4e77-bdec-91e1eb8e2c25",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "SIR STAFFORD CRIPPS",
+        "type": "PERSON"
+      },
+      {
+        "name": "HIS MAJESTY'S GOVERNMENT",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "CONSTITUTION-MAKING BODY",
+        "target": "SIR STAFFORD CRIPPS",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "CONSTITUTION-MAKING BODY",
+        "target": "HIS MAJESTY'S GOVERNMENT",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "c4ca00ec-7c2b-45bd-bcdd-8ad7f19c42be",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "MUSLIMS",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "HINDUS",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "CONSTITUTION-MAKING BODY",
+        "type": "ORGANIZATIONS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "MUSLIMS",
+        "target": "CONSTITUTION-MAKING BODY",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "HINDUS",
+        "target": "CONSTITUTION-MAKING BODY",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "c3b9aab6-811f-4f30-b8b7-5eb85f5f45ba",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sikhs",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Indian Christians",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Anglo-Indians",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Europeans",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Hindus (other than Scheduled Castes)",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Muslims",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "M. R. Jayakar",
+        "type": "PERSON"
+      },
+      {
+        "name": "Jagdish Prasad",
+        "type": "PERSON"
+      },
+      {
+        "name": "Tek Chand",
+        "type": "PERSON"
+      },
+      {
+        "name": "P. R. Das",
+        "type": "PERSON"
+      },
+      {
+        "name": "P. K. Sen",
+        "type": "PERSON"
+      },
+      {
+        "name": "S. Radhakrishnan",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Sikhs",
+        "target": "Hindus (other than Scheduled Castes)",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Indian Christians",
+        "target": "Hindus (other than Scheduled Castes)",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Anglo-Indians",
+        "target": "Hindus (other than Scheduled Castes)",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Europeans",
+        "target": "Hindus (other than Scheduled Castes)",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "M. R. Jayakar",
+        "target": "Recommendation 19",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Jagdish Prasad",
+        "target": "Recommendation 19",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Tek Chand",
+        "target": "Recommendation 19",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "P. R. Das",
+        "target": "Recommendation 19",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "P. K. Sen",
+        "target": "Recommendation 19",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "S. Radhakrishnan",
+        "target": "Recommendation 19",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "6c7c3998-6b68-4cb4-90cd-16ad950a5d35",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Committee",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Muslim League",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Lahore",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Mr. Jinnah",
+        "type": "PERSON"
+      },
+      {
+        "name": "Mahatma Gandhi",
+        "type": "PERSON"
+      },
+      {
+        "name": "C. R.",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Committee",
+        "target": "Muslim League",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Committee",
+        "target": "Lahore",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Committee",
+        "target": "Mr. Jinnah",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Committee",
+        "target": "Mahatma Gandhi",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Committee",
+        "target": "C. R.",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "4984f354-440f-4698-a6ea-8b5a461e809d",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "INDIAN STATES",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "UNION",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "CONSTITUTION",
+        "target": "INDIAN STATES",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "CONSTITUTION",
+        "target": "UNION",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "2149fe8f-6c9a-4cae-b27e-1f66ce8e47f6",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "British India",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Union",
+        "type": "CONSTITUTIONAL CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "No province of British India",
+        "target": "Union",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "048cc7b9-5908-41b0-a899-11366e50a226",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "CONSTITUTION ACT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "HEAD OF THE STATE",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "CONSTITUTION ACT",
+        "target": "HEAD OF THE STATE",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "88eeb169-679b-43c5-af9c-0165e005aa9f",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Committee",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Constitution-making Body",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Government of India Act (1935)",
+        "type": "LAW"
+      },
+      {
+        "name": "Indian States",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Head of the State",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Committee",
+        "target": "Constitution-making Body",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Committee",
+        "target": "Government of India Act (1935)",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Committee",
+        "target": "Indian States",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Head of the State",
+        "target": "Government of India Act (1935)",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "a79fd11b-309f-402e-a4b9-83205fdf4af9",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "HEAD OF THE STATE",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "ELECTORAL COLLEGE",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "UNION LEGISLATURE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "RULERS OF INDIAN STATES",
+        "type": "CONSTITUTIONAL CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "HEAD OF THE STATE",
+        "target": "ELECTORAL COLLEGE",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "ELECTORAL COLLEGE",
+        "target": "UNION LEGISLATURE",
+        "relation": "COMPOSED_OF"
+      },
+      {
+        "source": "HEAD OF THE STATE",
+        "target": "RULERS OF INDIAN STATES",
+        "relation": "SUBJECT_TO_CHOICE"
+      }
+    ]
+  },
+  {
+    "chunk_id": "b725b7b6-a93f-4023-955f-4d0db4079500",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "HEAD OF THE STATE",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "RULERS OF THE INDIAN STATES",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "HEAD OF THE STATE",
+        "target": "RULERS OF THE INDIAN STATES",
+        "relation": "ELECTED BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "194a6abe-89b9-40bc-92b8-2fa5e871bebd",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Head of the State",
+        "type": "PERSON"
+      },
+      {
+        "name": "King of England",
+        "type": "PERSON"
+      },
+      {
+        "name": "Union Cabinet",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Indian States",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "Secretary of state for India",
+        "type": "PERSON"
+      },
+      {
+        "name": "British Crown",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Head of the State",
+        "target": "King of England",
+        "relation": "APPOINTED_BY"
+      },
+      {
+        "source": "Head of the State",
+        "target": "Union Cabinet",
+        "relation": "ADVICE_FROM"
+      },
+      {
+        "source": "Secretary of state for India",
+        "target": "British Crown",
+        "relation": "CONTROLLED_BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "96a13907-0f68-4277-99d8-78058abc6eaf",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "HEAD OF THE STATE",
+        "type": "PERSON"
+      },
+      {
+        "name": "UNION ASSEMBLY",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "COUNCIL OF STATE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "LANDHOLDERS",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "COMMERCES AND INDUSTRY",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "LABOUR",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "WOMEN",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "HINDUS",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "MUSLIMS",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "SCHEDULED CASTES",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "SIKHS",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "INDIAN CHRISTIANS",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "ANGLO-INDIANS",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "COMMUNAL AWARD",
+        "type": "CONSTITUTIONAL CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "HEAD OF THE STATE",
+        "target": "UNION ASSEMBLY",
+        "relation": "MEMBER_OF"
+      },
+      {
+        "source": "HEAD OF THE STATE",
+        "target": "COUNCIL OF STATE",
+        "relation": "MEMBER_OF"
+      },
+      {
+        "source": "UNION ASSEMBLY",
+        "target": "LANDHOLDERS",
+        "relation": "REPRESENTS"
+      },
+      {
+        "source": "UNION ASSEMBLY",
+        "target": "COMMERCES AND INDUSTRY",
+        "relation": "REPRESENTS"
+      },
+      {
+        "source": "UNION ASSEMBLY",
+        "target": "LABOUR",
+        "relation": "REPRESENTS"
+      },
+      {
+        "source": "UNION ASSEMBLY",
+        "target": "WOMEN",
+        "relation": "REPRESENTS"
+      },
+      {
+        "source": "UNION ASSEMBLY",
+        "target": "HINDUS",
+        "relation": "REPRESENTS"
+      },
+      {
+        "source": "UNION ASSEMBLY",
+        "target": "MUSLIMS",
+        "relation": "REPRESENTS"
+      },
+      {
+        "source": "UNION ASSEMBLY",
+        "target": "SCHEDULED CASTES",
+        "relation": "REPRESENTS"
+      },
+      {
+        "source": "UNION ASSEMBLY",
+        "target": "SIKHS",
+        "relation": "REPRESENTS"
+      },
+      {
+        "source": "UNION ASSEMBLY",
+        "target": "INDIAN CHRISTIANS",
+        "relation": "REPRESENTS"
+      },
+      {
+        "source": "UNION ASSEMBLY",
+        "target": "ANGLO-INDIANS",
+        "relation": "REPRESENTS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "904323cc-d79d-426d-ac90-9abcda893588",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "CONSTITUTION ACT",
+        "type": "LAW"
+      },
+      {
+        "name": "CENTRE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "UNITS",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "CONSTITUTION ACT",
+        "target": "CENTRE",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "CONSTITUTION ACT",
+        "target": "UNITS",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "2f06ee9e-bc05-4b3c-a1bc-e841e101d25d",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "M. R. Jayakar",
+        "type": "PERSON"
+      },
+      {
+        "name": "Jagdish Prasad",
+        "type": "PERSON"
+      },
+      {
+        "name": "Hindus",
+        "type": "GROUP"
+      },
+      {
+        "name": "Muslims",
+        "type": "GROUP"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "M. R. Jayakar",
+        "target": "Jagdish Prasad",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Hindus",
+        "target": "Muslims",
+        "relation": "CONFLICTING_GROUPS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "af110076-7a00-4206-be26-7e390b41ed3e",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "EXECUTIVE OF THE UNION",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "HINDUS, OTHER THAN SCHEDULED CASTES",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "MUSLIMS",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "SCHEDULED CASTES",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "SIKHS",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "INDIAN CHRISTIANS",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "ANGLO-INDIANS",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "PRIME MINISTER",
+        "type": "PERSON"
+      },
+      {
+        "name": "DEPUTY PRIME MINISTER",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "EXECUTIVE OF THE UNION",
+        "target": "HINDUS, OTHER THAN SCHEDULED CASTES",
+        "relation": "REPRESENTED"
+      },
+      {
+        "source": "EXECUTIVE OF THE UNION",
+        "target": "MUSLIMS",
+        "relation": "REPRESENTED"
+      },
+      {
+        "source": "EXECUTIVE OF THE UNION",
+        "target": "SCHEDULED CASTES",
+        "relation": "REPRESENTED"
+      },
+      {
+        "source": "EXECUTIVE OF THE UNION",
+        "target": "SIKHS",
+        "relation": "REPRESENTED"
+      },
+      {
+        "source": "EXECUTIVE OF THE UNION",
+        "target": "INDIAN CHRISTIANS",
+        "relation": "REPRESENTED"
+      },
+      {
+        "source": "EXECUTIVE OF THE UNION",
+        "target": "ANGLO-INDIANS",
+        "relation": "REPRESENTED"
+      },
+      {
+        "source": "PRIME MINISTER",
+        "target": "DEPUTY PRIME MINISTER",
+        "relation": "LEADS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "4dbca652-c338-42e1-b317-42f38967925e",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "EXECUTIVE OF THE UNION",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "HINDUS, OTHER THAN SCHEDULED CASTES",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "MUSLIMS",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "SCHEDULED CASTES",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "SIKHS",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "INDIAN CHRISTIANS",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "ANGLO-INDIANS",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "CENTRAL LEGISLATURE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "MINISTER FOR INDIAN STATES",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "EXECUTIVE OF THE UNION",
+        "target": "HINDUS, OTHER THAN SCHEDULED CASTES",
+        "relation": "REPRESENTED"
+      },
+      {
+        "source": "EXECUTIVE OF THE UNION",
+        "target": "MUSLIMS",
+        "relation": "REPRESENTED"
+      },
+      {
+        "source": "EXECUTIVE OF THE UNION",
+        "target": "SCHEDULED CASTES",
+        "relation": "REPRESENTED"
+      },
+      {
+        "source": "EXECUTIVE OF THE UNION",
+        "target": "SIKHS",
+        "relation": "REPRESENTED"
+      },
+      {
+        "source": "EXECUTIVE OF THE UNION",
+        "target": "INDIAN CHRISTIANS",
+        "relation": "REPRESENTED"
+      },
+      {
+        "source": "EXECUTIVE OF THE UNION",
+        "target": "ANGLO-INDIANS",
+        "relation": "REPRESENTED"
+      },
+      {
+        "source": "CENTRAL LEGISLATURE",
+        "target": "MINISTER FOR INDIAN STATES",
+        "relation": "ELECTS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "9e525818-bdbe-47a0-b654-777d32e1aff8",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "MINISTER",
+        "type": "PERSON"
+      },
+      {
+        "name": "INDIAN STATES’ ADVISERS",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "MINISTER",
+        "target": "INDIAN STATES’ ADVISERS",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "eda3b366-525f-4600-aea1-9cbda7c99d7a",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "SUPREME COURT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "HIGH COURT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "HEAD OF THE STATE",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "CHIEF JUSTICE OF INDIA",
+        "type": "PERSON"
+      },
+      {
+        "name": "GOVERNMENT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "SPECIAL TRIBUNAL",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "HEAD OF THE STATE",
+        "target": "SUPREME COURT",
+        "relation": "APPOINTED_BY"
+      },
+      {
+        "source": "HEAD OF THE STATE",
+        "target": "HIGH COURT",
+        "relation": "APPOINTED_BY"
+      },
+      {
+        "source": "CHIEF JUSTICE OF INDIA",
+        "target": "SUPREME COURT",
+        "relation": "CONSULTED_BY"
+      },
+      {
+        "source": "HEAD OF THE STATE",
+        "target": "SPECIAL TRIBUNAL",
+        "relation": "APPOINTED_BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "c1905ec7-4b0b-4ce0-9817-4fcac0ebcd8d",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Committee",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Defence",
+        "type": "CONSTITUTIONAL_CONCEPTS"
+      },
+      {
+        "name": "Minister",
+        "type": "CONSTITUTIONAL_CONCEPTS"
+      },
+      {
+        "name": "Legislature",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Army",
+        "type": "CONSTITUTIONAL_CONCEPTS"
+      },
+      {
+        "name": "Commander-in-Chief",
+        "type": "CONSTITUTIONAL_CONCEPTS"
+      },
+      {
+        "name": "Government",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Committee",
+        "target": "Defence",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Minister",
+        "target": "Legislature",
+        "relation": "RESPONSIBLE_TO"
+      },
+      {
+        "source": "Army",
+        "target": "Commander-in-Chief",
+        "relation": "CONTROLLED_BY"
+      }
+    ]
+  },
+  {
+    "chunk_id": "51df722a-c5cc-4f90-929b-5a980977b1d9",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Committee",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": []
+  },
+  {
+    "chunk_id": "7119efec-1a46-40bd-a852-a5d1318032ea",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "UNITED GOVERNMENT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "HIS MAJESTY'S GOVERNMENT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "INDIA",
+        "type": "LOCATION"
+      },
+      {
+        "name": "BRAZIL",
+        "type": "LOCATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "UNITED GOVERNMENT",
+        "target": "HIS MAJESTY'S GOVERNMENT",
+        "relation": "ENTERED INTO TREATY WITH"
+      },
+      {
+        "source": "INDIA",
+        "target": "BRAZIL",
+        "relation": "DEFENDED BY BRITISH UNITS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "2aa6e1e9-0e60-4569-8dc8-b1314ab52eb7",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Committee",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Navy",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Air Force",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "mechanized units",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Committee",
+        "target": "Navy",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Committee",
+        "target": "Air Force",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Committee",
+        "target": "mechanized units",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "a7b8891d-38e2-4661-841f-bd8d9184695a",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "CENTRE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Public Services",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "Union Government",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "CENTRE",
+        "target": "Public Services",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Union Government",
+        "target": "new constitution",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "f88cb336-93a9-41dd-a6eb-76cd15b6cd6c",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Committee",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Sikhs",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "Indian Christians",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "Anglo-Indians and Parsis",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "Government of India Act of 1935",
+        "type": "LAWS"
+      },
+      {
+        "name": "Public Services Commission",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Committee",
+        "target": "Sikhs",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Committee",
+        "target": "Indian Christians",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Committee",
+        "target": "Anglo-Indians and Parsis",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Committee",
+        "target": "Government of India Act of 1935",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Committee",
+        "target": "Public Services Commission",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "e5290b1d-b3b0-4879-b244-e21061861a5a",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "UNION PUBLIC SERVICE COMMISSION",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "HEAD OF THE STATE",
+        "type": "PERSON"
+      },
+      {
+        "name": "PRIME MINISTER",
+        "type": "PERSON"
+      },
+      {
+        "name": "PUBLIC SERVICE COMMISSION OF A UNIT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "HEAD OF THE UNIT",
+        "type": "PERSON"
+      },
+      {
+        "name": "PRIME MINISTER OF THE UNIT",
+        "type": "PERSON"
+      },
+      {
+        "name": "FUNDAMENTAL RIGHTS",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "HEAD OF THE STATE",
+        "target": "UNION PUBLIC SERVICE COMMISSION",
+        "relation": "APPOINTED"
+      },
+      {
+        "source": "PRIME MINISTER",
+        "target": "UNION PUBLIC SERVICE COMMISSION",
+        "relation": "CONSULTED"
+      },
+      {
+        "source": "HEAD OF THE UNIT",
+        "target": "PUBLIC SERVICE COMMISSION OF A UNIT",
+        "relation": "APPOINTED"
+      },
+      {
+        "source": "PRIME MINISTER OF THE UNIT",
+        "target": "PUBLIC SERVICE COMMISSION OF A UNIT",
+        "relation": "CONSULTED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "eb129a4c-b2b7-4b4a-8277-a70cf307fad0",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "INDIA",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "MINORITIES COMMISSIONS",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "INDIA",
+        "target": "MINORITIES COMMISSIONS",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "90a73075-4be9-4de9-aedd-bd063be3672f",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "CONSTITUTION ACT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "MINORITY COMMUNITIES",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      },
+      {
+        "name": "LEGISLATURE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "EXECUTIVE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PRIME MINISTER",
+        "type": "PERSON"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "CONSTITUTION ACT",
+        "target": "MINORITY COMMUNITIES",
+        "relation": "PROVIDES FOR"
+      },
+      {
+        "source": "LEGISLATURE",
+        "target": "MINORITY COMMUNITIES",
+        "relation": "ELECTS REPRESENTATIVES"
+      },
+      {
+        "source": "EXECUTIVE",
+        "target": "MINORITY COMMUNITIES",
+        "relation": "PERSUDES POLICY"
+      },
+      {
+        "source": "PRIME MINISTER",
+        "target": "CONSTITUTION ACT",
+        "relation": "PLACES REPORT BEFORE LEGISLATURE"
+      }
+    ]
+  },
+  {
+    "chunk_id": "f8b8ecba-629e-4a5d-8add-3fa189651c6d",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Sikhs",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Hindus",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Indian Christians",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Punjab Legislature",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Constitution Making Body",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Committee",
+        "target": "Sikhs",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Committee",
+        "target": "Hindus",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Committee",
+        "target": "Indian Christians",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Committee",
+        "target": "Punjab Legislature",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Committee",
+        "target": "Constitution Making Body",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "e36d0706-f452-4fa9-9248-4b39d3dee927",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "UNION LEGISLATURE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CONSTITUTION ACT",
+        "type": "LAWS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "THE INTENTION TO MAKE A MOTION IN THE UNION LEGISLATURE FOR AN AMENDMENT OF THE CONSTITUTION",
+        "target": "UNION LEGISLATURE",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "CONSTITUTION ACT",
+        "target": "UNION LEGISLATURE",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "61375a0a-8c72-4c4f-beca-857e18fe2b23",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "UNION LEGISLATION",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "H.M.G.",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "AMENDMENTS OF A PURELY FORMAL CHARACTER",
+        "target": "UNION LEGISLATION",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "APPEAL TO COUNTRY",
+        "target": "H.M.G.",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "b8940f5c-99bf-479d-9139-5b53f0b65b6a",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Committee",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "India",
+        "type": "LOCATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Committee",
+        "target": "India",
+        "relation": "RECOMMENDED_FOR"
+      }
+    ]
+  },
+  {
+    "chunk_id": "c848c569-bba0-4394-b94d-3337e9f2b017",
+    "source_file": "Sapru Committee Report Sir Tej Bahadur Sapru 1945.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "GOVERNMENT OF INDIA ACT",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "HIS MAJESTY'S GOVERNMENT",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "GOVERNMENT OF INDIA ACT",
+        "target": "HIS MAJESTY'S GOVERNMENT",
+        "relation": "MENTIONED"
+      }
+    ]
+  }
+]

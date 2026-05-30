@@ -1,0 +1,558 @@
+[
+  {
+    "chunk_id": "1bfad3d8-0ade-425f-8789-cf666186146b",
+    "source_file": "Jinnahs Fourteen Points.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "All-Parties’ Conference",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Convention",
+        "type": "EVENT"
+      },
+      {
+        "name": "Calcutta",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Christmas Week, 1928",
+        "type": "EVENT"
+      },
+      {
+        "name": "Indian National Congress",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "British Parliament",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Hindu Maha Sabha",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Nehru Report",
+        "type": "DOCUMENT"
+      },
+      {
+        "name": "Allahabad",
+        "type": "LOCATION"
+      },
+      {
+        "name": "National Liberal Federation",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Sikh League",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "non-Brahmin and depressed classes",
+        "type": "GROUP"
+      },
+      {
+        "name": "All India Moslem League",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "All-Parties’ Conference",
+        "target": "Convention",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Indian National Congress",
+        "target": "Nehru Report",
+        "relation": "ADOPTED"
+      },
+      {
+        "source": "Hindu Maha Sabha",
+        "target": "Nehru Report",
+        "relation": "ULTIMATUM"
+      },
+      {
+        "source": "National Liberal Federation",
+        "target": "Convention",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "All India Moslem League",
+        "target": "Nehru Report",
+        "relation": "MODIFICATION"
+      }
+    ]
+  },
+  {
+    "chunk_id": "72aafffd-22f7-4549-a7c2-76a07db10bcc",
+    "source_file": "Jinnahs Fourteen Points.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "League",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Mussalmans of India",
+        "type": "PEOPLE"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "League",
+        "target": "Mussalmans of India",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "66c5ecfa-f1a9-46de-ad96-316aececab5d",
+    "source_file": "Jinnahs Fourteen Points.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "FEDERAL",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      },
+      {
+        "name": "PROVINCES",
+        "type": "CONSTITUTIONAL_CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "THE FORM OF THE FUTURE CONSTITUTION",
+        "target": "FEDERAL",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "THE FORM OF THE FUTURE CONSTITUTION",
+        "target": "PROVINCES",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "b69c5d47-9ad9-40e3-90b2-ed5ceb709f7c",
+    "source_file": "Jinnahs Fourteen Points.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "MINORITIES",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "PROVINCES",
+        "type": "CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "ALL LEGISLATURES IN THE COUNTRY AND OTHER ELECTED BODIES",
+        "target": "MINORITIES",
+        "relation": "REPRESENT"
+      },
+      {
+        "source": "ALL LEGISLATURES IN THE COUNTRY AND OTHER ELECTED BODIES",
+        "target": "PROVINCES",
+        "relation": "AFFECT"
+      }
+    ]
+  },
+  {
+    "chunk_id": "018577ef-01d0-4054-a1e2-77c03e5ca334",
+    "source_file": "Jinnahs Fourteen Points.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Mussalman",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "CENTRAL LEGISLATURE",
+        "target": "MUSSALMAN",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "da1a169e-fb89-413d-9eeb-2d55d02e66f0",
+    "source_file": "Jinnahs Fourteen Points.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "COMMUNAL GROUPS",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "SEPARATE ELECTORATES",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "JOINT ELECTORATES",
+        "type": "CONSTITUTIONAL CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "COMMUNAL GROUPS",
+        "target": "SEPARATE ELECTORATES",
+        "relation": "REPRESENTED BY"
+      },
+      {
+        "source": "COMMUNAL GROUPS",
+        "target": "JOINT ELECTORATES",
+        "relation": "ABANDON IN FAVOUR OF"
+      }
+    ]
+  },
+  {
+    "chunk_id": "8f2ffa3b-72c0-4786-86d2-a2e929689e2c",
+    "source_file": "Jinnahs Fourteen Points.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Moslem majority",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "Punjab",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Bengal",
+        "type": "LOCATION"
+      },
+      {
+        "name": "N. W. F. Province",
+        "type": "LOCATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Any territorial redistribution",
+        "target": "Moslem majority in the Punjab, Bengal and N. W. F. Province",
+        "relation": "AFFECTS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "ea212df1-78ec-43c0-a983-dcb0cc0c6a08",
+    "source_file": "Jinnahs Fourteen Points.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "RELIGIOUS LIBERTY",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "COMMUNITIES",
+        "type": "PEOPLE"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "RELIGIOUS LIBERTY",
+        "target": "COMMUNITIES",
+        "relation": "GUARANTEED TO"
+      }
+    ]
+  },
+  {
+    "chunk_id": "e8e482a1-2d81-4cec-a3e1-2039c69600ea",
+    "source_file": "Jinnahs Fourteen Points.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "BILL",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "RESOLUTION",
+        "type": "CONSTITUTIONAL CONCEPT"
+      },
+      {
+        "name": "COMMUNITY",
+        "type": "CONSTITUTIONAL CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "BILL",
+        "target": "COMMUNITY",
+        "relation": "AFFECTS"
+      },
+      {
+        "source": "RESOLUTION",
+        "target": "COMMUNITY",
+        "relation": "AFFECTS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "b0cff1e2-7db7-4afb-8684-b698d2d9e1cc",
+    "source_file": "Jinnahs Fourteen Points.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "N. W. F. Province",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "Baluchistan",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Reforms",
+        "target": "N. W. F. Province",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Reforms",
+        "target": "Baluchistan",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "1bd841b9-89a0-4a0c-bfed-1a54b526fe08",
+    "source_file": "Jinnahs Fourteen Points.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Moslems",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "Indians",
+        "type": "PEOPLE"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Provision",
+        "target": "Moslems",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Provision",
+        "target": "Indians",
+        "relation": "MENTIONED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "9c47232d-4625-4a30-a140-a57a599ee516",
+    "source_file": "Jinnahs Fourteen Points.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "MOSLIM CULTURE",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "MOSLIM EDUCATION",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "MOSLIM LANGUAGE",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "MOSLIM RELIGION",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "MOSLIM PERSONAL LAWS",
+        "type": "CONCEPT"
+      },
+      {
+        "name": "MOSLIM CHARITABLE INSTITUTIONS",
+        "type": "CONCEPT"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "THE CONSTITUTION",
+        "target": "MOSLIM CULTURE",
+        "relation": "PROTECTS"
+      },
+      {
+        "source": "THE CONSTITUTION",
+        "target": "MOSLIM EDUCATION",
+        "relation": "PROTECTS"
+      },
+      {
+        "source": "THE CONSTITUTION",
+        "target": "MOSLIM LANGUAGE",
+        "relation": "PROTECTS"
+      },
+      {
+        "source": "THE CONSTITUTION",
+        "target": "MOSLIM RELIGION",
+        "relation": "PROTECTS"
+      },
+      {
+        "source": "THE CONSTITUTION",
+        "target": "MOSLIM PERSONAL LAWS",
+        "relation": "PROTECTS"
+      },
+      {
+        "source": "THE CONSTITUTION",
+        "target": "MOSLIM CHARITABLE INSTITUTIONS",
+        "relation": "PROTECTS"
+      }
+    ]
+  },
+  {
+    "chunk_id": "f7175999-052c-49ab-85b7-faac78cf8f27",
+    "source_file": "Jinnahs Fourteen Points.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "CABINET",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "CENTRAL CABINET",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "PROVINCIAL CABINET",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "MOSLIM MINISTERS",
+        "type": "CONSTITUTIONAL CONCEPTS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "CABINET",
+        "target": "CENTRAL CABINET",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "CABINET",
+        "target": "PROVINCIAL CABINET",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "CABINET",
+        "target": "MOSLIM MINISTERS",
+        "relation": "REQUIREMENT"
+      }
+    ]
+  },
+  {
+    "chunk_id": "af54cd37-6dc7-4cde-9170-031ec2ad0b84",
+    "source_file": "Jinnahs Fourteen Points.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "CENTRAL LEGISLATURE",
+        "type": "ORGANIZATION"
+      },
+      {
+        "name": "STATES CONSTITUTING THE INDIAN FEDERATION",
+        "type": "ORGANIZATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "CENTRAL LEGISLATURE",
+        "target": "STATES CONSTITUTING THE INDIAN FEDERATION",
+        "relation": "CONCURRENCE_REQUIRED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "94631a16-1f06-4282-b3e8-3dc245ca7d6c",
+    "source_file": "Jinnahs Fourteen Points.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Musalmans",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "Government",
+        "type": "ORGANIZATIONS"
+      },
+      {
+        "name": "Sind",
+        "type": "LOCATION"
+      },
+      {
+        "name": "N. W. F. Province",
+        "type": "LOCATION"
+      },
+      {
+        "name": "Baluchistan",
+        "type": "LOCATION"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Musalmans",
+        "target": "Government",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "Government",
+        "target": "Musalmans",
+        "relation": "OBLIGATED"
+      },
+      {
+        "source": "Sind",
+        "target": "Musalmans",
+        "relation": "CONSTITUTED"
+      }
+    ]
+  },
+  {
+    "chunk_id": "3a5ecaaa-fbac-4605-81f2-ebfb89a5dd4e",
+    "source_file": "Jinnahs Fourteen Points.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "MUSLIM",
+        "type": "CONSTITUTIONAL CONCEPT"
+      }
+    ],
+    "relationships": []
+  },
+  {
+    "chunk_id": "04186f41-e75b-4152-9ce4-3a7af2401081",
+    "source_file": "Jinnahs Fourteen Points.txt",
+    "document_type": "constitution",
+    "entities": [
+      {
+        "name": "Musalmans",
+        "type": "PEOPLE"
+      },
+      {
+        "name": "Provinces",
+        "type": "ORGANIZATIONS"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "The question of excess representation of Musalmans over and above their population in Provinces where they are in a minority is to be considered hereafter.",
+        "target": "Musalmans",
+        "relation": "MENTIONED"
+      },
+      {
+        "source": "The question of excess representation of Musalmans over and above their population in Provinces where they are in a minority is to be considered hereafter.",
+        "target": "Provinces",
+        "relation": "MENTIONED"
+      }
+    ]
+  }
+]

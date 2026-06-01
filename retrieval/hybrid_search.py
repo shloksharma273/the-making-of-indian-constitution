@@ -4,6 +4,7 @@ import numpy as np
 
 from sentence_transformers import SentenceTransformer
 
+from retrieval.graph_retriever import graph_retrieve
 from retrieval.reranker import rerank
 
 
@@ -154,13 +155,18 @@ def hybrid_search(query):
         vector_results
     )
 
+    graph_results = graph_retrieve(query)
+
     final_results = []
+
+    # ----------------------------------
+    # RRF RESULTS
+    # ----------------------------------
 
     for chunk_id, score in fused[:10]:
 
         found = None
 
-        # search BM25 results
         for item in bm25_results:
 
             if item["chunk"]["chunk_id"] == chunk_id:
@@ -174,7 +180,6 @@ def hybrid_search(query):
 
                 break
 
-        # search vector results
         if not found:
 
             for item in vector_results:
@@ -191,10 +196,30 @@ def hybrid_search(query):
                     break
 
         if found:
+
             final_results.append(found)
 
-    return final_results    
+    # ----------------------------------
+    # GRAPH RESULTS
+    # ----------------------------------
 
+    existing_ids = {
+        item["chunk_id"]
+        for item in final_results
+    }
+
+    for item in graph_results:
+
+        if item["chunk_id"] not in existing_ids:
+
+            final_results.append({
+                "chunk_id": item["chunk_id"],
+                "text": item["text"],
+                "score": 0,
+                "source": "graph"
+            })
+
+    return final_results
 
 
 if __name__ == "__main__":
@@ -214,4 +239,4 @@ if __name__ == "__main__":
         top_k=5
     )
 
-    print(reranked)
+    # print(reranked)

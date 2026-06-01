@@ -21,16 +21,16 @@ documents = [
     r["text"]
     for r in results
 ]
+# print(documents)
 
-print(documents)
 reranked_docs = rerank(
     query,
     documents,
     top_k=8
 )
+# print(reranked_docs)
 
 
-print(reranked_docs)
 # -------------------------
 # MAP BACK TO CHUNKS
 # -------------------------
@@ -48,8 +48,8 @@ for doc_text, rerank_score in reranked_docs:
             final_chunks.append(r)
 
             break
+# print(final_chunks)
 
-print(final_chunks)
 # -------------------------
 # ANSWER GENERATION
 # -------------------------

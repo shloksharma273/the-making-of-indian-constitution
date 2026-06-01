@@ -1,5 +1,5 @@
-from hybrid_search import hybrid_search
-from reranker import rerank
+from retrieval.hybrid_search import hybrid_search
+from retrieval.reranker import rerank
 
 
 query = "What did Ambedkar say about untouchability?"
@@ -7,7 +7,7 @@ query = "What did Ambedkar say about untouchability?"
 
 # Step 1 — Hybrid Retrieval
 results = hybrid_search(query)
-print(results)
+# print(results)
 
 
 # Step 2 — Extract documents
